@@ -1,0 +1,870 @@
+Track Name,Artists,Album Name,Album Id,Track ID,Popularity,Release Date,Duration (ms),Explicit URLs,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
+Nonsense,Sabrina Carpenter,emails i can't send,5kDmlA2g9Y1YCbNo2Ufxlz,6dgUya35uo964z7GZXM07g,,2022-07-15,163648,,0.74,0.697,8,-4.912,1,0.034,0.0268,0.0,0.224,0.732,138.992
+YOUTH,Troye Sivan,Blue Neighbourhood (Deluxe),5ouTDazE4LF9bVJPx1nlgW,1cOyWWUr3oXJIxY0AjJEx9,,2015-12-04,185194,,0.628,0.737,7,-4.437,1,0.041,0.0625,0.0,0.0777,0.592,91.507
+One Last Time,Ariana Grande,My Everything (Deluxe),6EVYTRG1drKdO8OnIQBeEj,7xoUc6faLbCqZO6fQEYprd,,2014-08-25,197267,,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026
+comethru,Jeremy Zucker,"summer,",6Whp0T7d1SAt4gDUNkWWD1,18uwL0vNUanqZH0ro2QcOP,,2018-09-28,181613,,0.795,0.178,0,-11.991,1,0.0574,0.607,0.0,0.623,0.608,93.982
+deja vu,Olivia Rodrigo,SOUR,6s84u2TUpR3wdUv4NgKA2j,6HU7h9RYOaPRFeh0R3UeAr,,2021-05-21,215507,,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917
+Ghost,Justin Bieber,Justice,5dGWwsZ9iB2Xc3UKR0gif2,6I3mqTwhRpn34SLVafSH7G,,2021-03-19,153190,,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96
+We Don't Talk Anymore (feat. Selena Gomez),"Charlie Puth, Selena Gomez",Nine Track Mind,3kndSWeE2IYOrZEToZrHEV,37FXw5QGFN7uwwsLy8uAc0,,2016-01-29,217707,,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017
+Made You Look,Meghan Trainor,Takin' It Back,4LVa9bljQRvLYpWr8qyaXs,0QHEIqNKsMoOY5urbzN48u,,2022-10-21,134256,,0.838,0.525,10,-3.562,1,0.0665,0.345,1.92e-06,0.0771,0.884,144.981
+"Sit Still, Look Pretty",Daya,"Sit Still, Look Pretty",3NoYyHEGIa8as1c0cisZAt,6ZtiywT2Qm50a1uR0jlY35,,2016-10-07,207761,,0.846,0.734,2,-3.601,1,0.108,0.286,8.27e-05,0.425,0.717,90.98
+Bang Bang,"Jessie J, Ariana Grande, Nicki Minaj",Sweet Talker (Deluxe Version),2rDIivxBafNKpgRqlzIRSb,0puf9yIluy9W0vpMEUoAnN,,2014-10-14,199387,,0.706,0.786,0,-3.417,0,0.091,0.26,0.0,0.38,0.751,150.028
+There's Nothing Holdin' Me Back,Shawn Mendes,Illuminate (Deluxe),3wBabo4pmzsYjALMSKY7Iq,7JJmb5XwzOO8jgpou264Ml,,2017-04-20,199440,,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998
+Stuck with U (with Justin Bieber),"Ariana Grande, Justin Bieber",Stuck with U,5mUdh6YWnUvf0MfklEk1oi,4HBZA5flZLE435QTztThqH,,2020-05-08,228482,,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765
+Back To You,Selena Gomez,13 Reasons Why (Season 2),4RpgjxgSxcRwGNuWnImneN,514rhnksEwHUh6LxXsQ4Y9,,2018-05-18,210240,,0.6,0.683,6,-6.271,1,0.0493,0.0984,1.26e-06,0.11,0.494,102.036
+Symphony (feat. Zara Larsson),"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),4b13SJlne61y53KSEwuQtD,1x5sYLZiu9r5E43kMlt9f8,,2017-03-16,212459,,0.707,0.629,0,-4.581,0,0.0563,0.259,1.6e-05,0.138,0.457,122.863
+Marry You,Bruno Mars,Doo-Wops & Hooligans,1uyf3l2d4XYwiEqAb7t7fX,22PMfvdz35fFKYnJyMn077,,2010-10-05,230192,,0.621,0.82,10,-4.865,1,0.0367,0.332,0.0,0.104,0.452,144.905
+Call Me Maybe,Carly Rae Jepsen,Kiss (Deluxe),29blfJv8AddJrjuG3DpE13,3TGRqZ0a2l1LRblBkJoaDx,,2012-01-01,193400,,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021
+Blank Space,Taylor Swift,1989,2QJmrSgbdM35R67eoGQo4j,1p80LdxRV74UKvL8gnD7ky,,2014-10-27,231827,,0.753,0.678,5,-5.421,1,0.0644,0.085,1.64e-06,0.13,0.583,96.006
+Teenage Dream,Katy Perry,Teenage Dream,2eQMC9nJE3f3hCNKlYYHL1,5jzKL4BDMClWqRguW5qZvh,,2010-01-01,227741,,0.719,0.798,10,-4.582,1,0.0361,0.0162,2.34e-06,0.134,0.591,120.011
+Story of My Life,One Direction,Midnight Memories (Deluxe),7p1fX8aUySrBdx4WSYspOu,4nVBt6MZDDP6tRVdQTgxJg,,2013-11-25,245493,,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07
+"thank u, next",Ariana Grande,"thank u, next",2fYhqwDWXjbpjaIJPEfKFw,3e9HZxeyfWwjeyPAMmWSSQ,,2019-02-08,207320,,0.717,0.653,1,-5.634,1,0.0658,0.229,0.0,0.101,0.412,106.966
+She Looks So Perfect,5 Seconds of Summer,5 Seconds Of Summer,2LkWHNNHgD6BRNeZI2SL1L,1gugDOSMREb34Xo0c1PlxM,,2014-06-27,202496,,0.494,0.951,9,-4.237,1,0.132,0.000569,0.0,0.327,0.441,160.025
+Treat You Better,Shawn Mendes,Illuminate,1ne2D0NxoGyZd31gAM4HNd,3QGsuHI8jO1Rx4JWLUh9jd,,2017-04-20,187973,,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695
+Sorry,Justin Bieber,Purpose (Deluxe),6Fr2rQkZ383FcMqFyT7yPr,09CtPGIpYB4BrO8qb1RGsF,,2015-11-13,200787,,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945
+Wildest Dreams,Taylor Swift,1989,2QJmrSgbdM35R67eoGQo4j,59HjlYCeBsxdI0fcm3zglw,,2014-10-27,220440,,0.554,0.666,8,-7.414,1,0.0747,0.0702,0.00593,0.106,0.472,140.056
+Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,1uyf3l2d4XYwiEqAb7t7fX,7BqBn9nzAq8spo5e7cZ0dJ,,2010-10-05,220734,,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021
+Drag Me Down,One Direction,Made In The A.M. (Deluxe Edition),1gMxiQQSg5zeu4htBosASY,2K87XMYnUMqLcX3zvtAF4G,,2015-11-13,192120,,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113
+Last Friday Night (T.G.I.F.),Katy Perry,Teenage Dream: The Complete Confection,5BvgP623rtvlc0HDcpzquz,455AfCsOhhLPRc68sE01D8,,2012-03-12,230747,,0.649,0.815,3,-3.796,0,0.0415,0.00125,4.31e-05,0.671,0.765,126.03
+I Ain't Worried,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",04PEOM6kIEeq9lRp1asNP2,4h9wh7iOZ0GGn8QVp4RAOB,,2022-05-13,148486,,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994
+I Knew You Were Trouble.,Taylor Swift,Red,1EoDsNmgTLtmwe1BDAVxV5,72jCZdH0Lhg93z6Z4hBjgj,,2012-10-22,217973,,0.622,0.469,3,-6.798,0,0.0363,0.00454,2.25e-06,0.0398,0.679,77.019
+Love Yourself,Justin Bieber,Purpose (Deluxe),6Fr2rQkZ383FcMqFyT7yPr,50kpGaPAhYJ3sGmk6vplg0,,2015-11-13,233720,,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418
+Sucker,Jonas Brothers,Happiness Begins,1Uf67JAtkVWfdydzFFqNF2,22vgEDb5hykfaTwLuskFGD,,2019-06-07,181027,,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958
+Toxic,Britney Spears,In The Zone,0z7pVBGOD7HCIB7S8eLkLI,6I9VzXrHxO9rA9A5euc8Ak,,2003-11-13,198800,,0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04
+You & I,One Direction,Midnight Memories (Deluxe),7p1fX8aUySrBdx4WSYspOu,2afCBiru10AFckfOa49wIa,,2013-11-25,237933,,0.574,0.329,1,-6.829,1,0.0274,0.22,0.0,0.0986,0.356,130.993
+Youngblood,5 Seconds of Summer,Youngblood,16Qs4jnIyXe7jprnMNRddy,55S2PQgSMYAhgoTCcGCDfw,,2018-04-12,203418,,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274
+Unholy (feat. Kim Petras),"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),0gX9tkL5njRax8ymWcXARi,3nqQXoyQOWXiESFLlDF1hG,,2022-09-22,156943,,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121
+Flowers,Miley Cyrus,Endless Summer Vacation,5DvJgsMLbaR1HmAI6VhfcQ,7DSAEUvxU8FajXtRloy8M0,,2023-08-18,200600,,0.706,0.691,0,-4.775,1,0.0633,0.0584,6.99e-05,0.0232,0.632,118.048
+Price Tag,"Jessie J, B.o.B",Who You Are (Platinum Edition),3ga4adzUpLaS2LDcoqfs2r,5mvKuE9Lf9ARVXVXA32kK9,,2011-01-01,223053,,0.638,0.831,5,-3.944,1,0.182,0.0281,3.06e-06,0.277,0.685,175.038
+The Middle,"Zedd, Maren Morris, Grey",The Middle,7nEiwcUSwycvC77kZ9ub7c,09IStsImFySgyp0pIQdqAc,,2018-01-23,184732,,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01
+Troublemaker (feat. Flo Rida),"Olly Murs, Flo Rida",Right Place Right Time (Expanded Edition),5kU9rWhYr4MmPmaGYP5z4v,6s8nHXTJVqFjXE4yVZPDHR,,2012-11-26,185587,,0.762,0.863,0,-3.689,0,0.0561,0.015,0.0,0.125,0.965,106.012
+Scars To Your Beautiful,Alessia Cara,Know-It-All (Deluxe),2AGNF8r2y8HL85yVk2bwmS,42ydLwx4i5V49RXHOozJZq,,2016-03-11,230227,,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169
+Oops!...I Did It Again,Britney Spears,Oops!... I Did It Again,5PmgtkodFl2Om3hMXONDll,6naxalmIoLFWR0siv8dnQQ,,2000-05-16,211160,,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053
+Classic,MKTO,MKTO,5IenxFp0vpnXBUxPcwJtbE,6FE2iI43OZnszFLuLtvvmg,,2012,175427,,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071
+Party In The U.S.A.,Miley Cyrus,The Time Of Our Lives,64aKkqxc3Ur2LYIKeS5osS,5Q0Nhxo0l2bP3pNjpGJwV1,,2009-01-01,202067,,0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021
+Closer,"The Chainsmokers, Halsey",Closer,0rSLgV8p5FzfnqlEk4GzxE,7BKLCZ1jbUBVqRi2FVlTVw,,2016-07-29,244960,,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01
+As It Was,Harry Styles,Harry's House,5r36AJ6VOJtp00oxSkBZ5h,4Dvkj6JhhA12EX05fT7y2e,,2022-05-20,167303,,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93
+Shivers,Ed Sheeran,=,32iAEBstCjauDhyKpGjTuq,50nfwKoDiSYg8zOCREWAm5,,2021-10-29,207853,,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02
+Stitches,Shawn Mendes,Handwritten,6sUOosXuYt0oUeczJRbedZ,5jsw9uXEGuKyJzs0boZ1bT,,2015-04-14,206880,,0.752,0.754,1,-6.684,1,0.0615,0.0151,0.0,0.0486,0.755,149.789
+If the World Was Ending (feat. Julia Michaels),"JP Saxe, Julia Michaels",Dangerous Levels of Introspection,538BxdI7oOQykSkEtyjhUD,77MdvMx9L4ZQuLhhn3o21h,,2021-06-25,209493,,0.429,0.486,1,-9.971,1,0.101,0.866,0.0,0.0982,0.661,146.99
+About Damn Time,Lizzo,About Damn Time,4JApkbiesQxv5drdEZRlZC,1PckUlxKqWQs3RlWXVBLw3,,2022-04-14,191822,,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966
+Maps,Maroon 5,V,2Auw0pTT6EcQdvHNimhLQI,4gbVRS8gloEluzf0GzDOFc,,2014-09-02,189960,,0.742,0.713,1,-5.522,0,0.0303,0.0205,0.0,0.059,0.879,120.032
+TiK ToK,Kesha,Animal (Expanded Edition),6fpLLJsDSSAlToEDW2jv4F,0HPD5WQqrq7wPWR7P7Dw1i,,2010-01-01,199693,,0.755,0.837,2,-2.718,0,0.142,0.0991,0.0,0.289,0.714,120.028
+Dancing With A Stranger (with Normani),"Sam Smith, Normani",Dancing With A Stranger (with Normani),1V9oE8bVilClrk5naqyyvL,6Qs4SXO9dwPj5GKvVOv8Ki,,2019-01-11,171030,,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998
+Starving,"Hailee Steinfeld, Grey, Zedd",Starving,18pR217SWwBjODSRWFBw0I,4Ce37cRWvM1vIGGynKcs22,,2016-07-22,181880,,0.728,0.616,4,-4.238,1,0.0645,0.378,0.0,0.105,0.508,99.962
+Photograph,Ed Sheeran,x (Deluxe Edition),1xn54DMo2qIqBuMqHtUsFd,1HNkqx9Ahdgi1Ixy2xkKkL,,2014-06-21,258987,,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989
+Sugar,Maroon 5,V,2Auw0pTT6EcQdvHNimhLQI,2iuZJX9X9P0GKaE93xcPjk,,2014-09-02,235493,,0.748,0.788,1,-7.055,1,0.0334,0.0591,0.0,0.0863,0.884,120.076
+The Lazy Song,Bruno Mars,Doo-Wops & Hooligans,1uyf3l2d4XYwiEqAb7t7fX,1ExfPZEiahqhLyajhybFeS,,2010-10-05,189109,,0.794,0.711,8,-5.124,0,0.0699,0.3,0.0,0.0955,0.955,174.915
+...Baby One More Time,Britney Spears,...Baby One More Time (Digital Deluxe Version),3WNxdumkSMGMJRhEgK80qx,3MjUtNVVq3C8Fn0MP3zhXa,,1999-01-12,211067,,0.759,0.699,0,-5.745,0,0.0307,0.202,0.000131,0.443,0.907,92.96
+Hot N Cold,Katy Perry,One Of The Boys,0r2BUyPTmpbfuz4rR39mLl,1y4eb6hmAvsqlDOl3fx9kk,,2008-06-17,220227,,0.706,0.841,7,-3.956,1,0.0418,7.95e-05,0.0,0.0688,0.861,132.032
+Chasing Pavements,Adele,19,59ULskOkBMij4zL8pS7mi0,56pHllZT7QOacB0bP56ofx,,2008-01-28,210507,,0.616,0.47,5,-6.092,0,0.0253,0.291,0.0,0.111,0.325,80.03
+Fight Song,Rachel Platten,Wildfire,0mFDIOqypzHp6Xd0el1hoT,37f4ITSlgPX81ad2EvmVQr,,2016-01-01,204013,,0.564,0.714,7,-4.987,1,0.129,0.0549,0.0,0.155,0.33,175.924
+So Am I,Ava Max,Heaven & Hell,26c7MmQ4w8EAvVLb4jilaM,2Xnv3GntqbBH1juvUYSpHG,,2020-09-18,183027,,0.681,0.657,6,-4.671,1,0.0432,0.0748,0.0,0.353,0.628,130.089
+New Rules,Dua Lipa,Dua Lipa (Deluxe),01sfgrNbnnPUEyz6GZYlt9,2ekn2ttSfGqwhhate0LSR0,,2017-06-02,209320,,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073
+Firework,Katy Perry,Teenage Dream,2eQMC9nJE3f3hCNKlYYHL1,4r6eNCsrZnQWJzzvFh4nlg,,2010-01-01,227893,,0.638,0.832,8,-5.039,1,0.049,0.141,0.0,0.113,0.648,124.071
+Grenade,Bruno Mars,Doo-Wops & Hooligans,1uyf3l2d4XYwiEqAb7t7fX,2tJulUYLDKOg9XrtVkMgcJ,,2010-10-05,222091,,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444
+Galway Girl,Ed Sheeran,÷ (Deluxe),3T4tUhGYeRNVUGevb0wThu,0afhq8XCExXpqazXczTSve,,2017-03-03,170827,,0.624,0.876,9,-3.374,1,0.1,0.0735,0.0,0.327,0.781,99.943
+Sweet but Psycho,Ava Max,Heaven & Hell,26c7MmQ4w8EAvVLb4jilaM,7DnAm9FOTWE3cUvso43HhI,,2020-09-18,187436,,0.72,0.706,1,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002
+abcdefu,GAYLE,abcdefu,6tUQPKlpR4x1gjrXTtOImI,4fouWK6XVHhzl78KzQ1UjL,,2021-08-13,168602,,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932
+Complicated,Avril Lavigne,Let Go,3zXjR3y2dUWklKmmp6lEhy,5xEM5hIgJ1jjgcEBfpkt2F,,2002-06-04,244507,,0.585,0.776,5,-5.898,1,0.0459,0.0572,7.74e-06,0.3,0.427,77.987
+Born This Way,Lady Gaga,Born This Way (Special Edition),5maeycU97NHBgwRr2h2A4O,6r2BECwMgEoRb5yLfp0Hca,,2011-01-01,260253,,0.587,0.828,11,-5.108,1,0.161,0.00327,0.0,0.331,0.494,123.907
+When We Were Young,Adele,25,3AvPX1B1HiFROvYjLb5Qwi,7GgWAITsYJaRM3r50rfh5w,,2015-11-20,290900,,0.376,0.595,3,-5.936,1,0.0496,0.303,0.0,0.095,0.265,144.361
+Too Good At Goodbyes,Sam Smith,The Thrill Of It All (Special Edition),3TJz2UBNYJtlEly0sPeNrQ,1mXVgsBdtIVeCLJnSnmtdV,,2017-11-03,201000,,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873
+Levitating (feat. DaBaby),"Dua Lipa, DaBaby",Future Nostalgia,5lKlFlReHOLShQKyRv6AL9,5nujrmhLynf4yMoMtj8AQF,,2020-03-27,203064,,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977
+Mercy,Shawn Mendes,Illuminate (Deluxe),3wBabo4pmzsYjALMSKY7Iq,0AS63m1wHv9n4VVRizK6Hc,,2017-04-20,208733,,0.555,0.662,11,-4.952,0,0.0827,0.125,0.0,0.111,0.356,148.128
+Roar,Katy Perry,PRISM (Deluxe),5MQBzs5YlZlE28mD9yUItn,6F5c58TMEs1byxUstkzVeM,,2013-10-18,223546,,0.554,0.772,7,-4.821,0,0.0418,0.00487,6.6e-06,0.354,0.455,179.984
+Without Me,Halsey,Without Me,0zzrCTzvL4ZmR42xF46Afm,5p7ujcrUXASCNwRaWNHR1C,,2018-10-04,201661,,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041
+Diamonds,Rihanna,Unapologetic (Edited Version),0T23GvNaBUGtMKxZko8LQG,1z9kQ14XBSN0r2v6fx4IdG,,2012-01-01,225147,,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972
+Bones,Imagine Dragons,Mercury - Acts 1 & 2,6yiXkzHvC0OTmhfDQOEWtS,54ipXppHLA8U4yqpOFTUhr,,2022-07-01,165265,,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061
+Say You Won't Let Go,James Arthur,Back from the Edge,7oiJYvEJHsmYtrgviAVIBD,5uCax9HTNlzGybIStD3vDh,,2016-10-28,211467,,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043
+On The Floor,"Jennifer Lopez, Pitbull",Love?,3sysiYphqNRQw7VKLCg1yE,3C0nOe05EIt1390bVABLyN,,2011-01-01,284867,,0.73,0.777,3,-5.194,0,0.0496,0.105,0.000478,0.0691,0.575,130.0
+"Moves Like Jagger - Studio Recording From ""The Voice"" Performance","Maroon 5, Christina Aguilera",Hands All Over,7strNUlU6xZqlVWBNUdOYv,7LcfRTgAVTs5pQGEQgUEzN,,2010,201160,,0.722,0.758,11,-4.477,0,0.0471,0.0111,0.0,0.308,0.62,128.047
+Wannabe,Spice Girls,Spice,3x2jF7blR6bFHtk4MccsyJ,1Je1IMUlBXcx1Fz0WE7oPT,,1996-01-01,173027,,0.768,0.864,11,-6.145,1,0.0324,0.101,0.0,0.162,0.891,110.008
+Paris,The Chainsmokers,Paris,64vx3cUb97lQGlgt8zozWL,15vzANxN8G9wWfwAJLLMCg,,2017-01-13,221520,,0.646,0.644,2,-6.763,1,0.031,0.0243,0.0,0.0888,0.251,99.999
+S&M,Rihanna,Loud (Japan Version),5QG3tjE5L9F6O2vCAPph38,7ySUcLPVX7KudhnmNcgY2D,,2010-01-01,243600,,0.769,0.684,1,-5.019,1,0.0411,0.0105,0.000125,0.0887,0.835,127.972
+Yellow,Coldplay,Parachutes,6ZG5lRT77aJ3btmArcykra,3AJwUDP919kvQ9QcozQPxg,,2000-07-10,266773,,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372
+This Town,Niall Horan,Flicker (Deluxe),7ahctQBwcSxDdP0fRAPo2p,0qvzXomUDJVaUboy2wMfiS,,2017-10-20,232852,,0.677,0.401,9,-8.467,1,0.0308,0.712,0.0,0.116,0.195,111.825
+I Want It That Way,Backstreet Boys,Millennium,5ySxm9hxBNss01WCL7GLyQ,47BBI51FKFwOMlIiX6m8ya,,1999-05-18,213307,,0.689,0.694,6,-5.83,0,0.027,0.257,0.0,0.148,0.482,99.039
+Set Fire to the Rain,Adele,21,0Lg1uZvI312TPqxNWShFXL,73CMRj62VK8nUS4ezD2wvi,,2011-01-24,242974,,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.68e-06,0.112,0.446,107.993
+Eastside (with Halsey & Khalid),"benny blanco, Halsey, Khalid",Eastside (with Halsey & Khalid),7pkLXlFdpQDfmHujT2AbBK,0d2iYfpKoM0QCKvcLCkBao,,2018-07-12,173800,,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391
+Umbrella,"Rihanna, JAY-Z",Good Girl Gone Bad: Reloaded,3JSWZWeTHF4HDGt5Eozdy7,49FYlytm3dAAraYgpoJZux,,2008-06-02,275987,,0.583,0.829,1,-4.603,1,0.134,0.00864,0.0,0.0426,0.575,174.028
+A Thousand Miles,Vanessa Carlton,Be Not Nobody,5e7T2qUigzt0oIr50KsOld,4w1lzcaoZ1IC2K5TwjalRP,,2002-04-30,237493,,0.56,0.825,11,-3.862,1,0.0379,0.323,0.0,0.161,0.268,94.931
+Timber (feat. Ke$ha),"Pitbull, Kesha",Global Warming: Meltdown (Deluxe Version),2F7tejLHzTqFq2XLol9ZGy,3cHyrEgdyYRjgJKSOiOtcS,,2012,204160,,0.581,0.963,11,-4.087,1,0.0981,0.0295,0.0,0.139,0.788,129.992
+Shut Up and Dance,WALK THE MOON,TALKING IS HARD,3mNoFlD1wsoXfkljfFzExT,4kbj5MwxO1bq9wjT5g9HaA,,2014-12-02,199080,,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038
+Señorita,"Shawn Mendes, Camila Cabello",Shawn Mendes (Deluxe),0xzScN8P3hQAz3BT3YYX5w,6v3KW9xbzN5yKLt9YKDYA2,,2019-06-19,190800,,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967
+The Man Who Can't Be Moved,The Script,The Script,2hWSBJTWE0ce0NqJv2vzCc,4AFwnrH5atiJoAd5xS5QtR,,2008-07-14,241373,,0.605,0.629,10,-5.051,1,0.0278,0.434,0.0,0.097,0.308,99.893
+Kiss Me,Sixpence None The Richer,Sixpence None the Richer,0PrcwzkQVEy4y6JPvT5bix,754kgU5rWscRTfvlsuEwFp,,1997-11-22,208680,,0.526,0.749,3,-6.964,1,0.0283,0.023,1.76e-06,0.0692,0.421,99.982
+Material Girl,Madonna,Celebration (double disc version),43lok9zd7BW5CoYkXZs7S0,22sLuJYcvZOSoLLRYev1s5,,2009-09-18,240280,,0.742,0.883,0,-3.419,1,0.0329,0.333,7.51e-06,0.0964,0.978,136.506
+Thinking out Loud,Ed Sheeran,x (Deluxe Edition),1xn54DMo2qIqBuMqHtUsFd,34gCuhDGsG4bRPIf9bb02f,,2014-06-21,281560,,0.781,0.445,2,-6.061,1,0.0295,0.474,0.0,0.184,0.591,78.998
+Only Girl (In The World),Rihanna,Loud (Japan Version),5QG3tjE5L9F6O2vCAPph38,2ENexcMEMsYk0rVJigVD3i,,2010-01-01,235493,,0.789,0.706,11,-4.233,0,0.0429,0.112,1.71e-05,0.0586,0.638,125.911
+Bitchin' Summer,Avril Lavigne,Avril Lavigne (Expanded Edition),7qjA5gbagHWVbqKUgVt49l,4N2RGPjya8OIyMYz3t5LuY,,2013-11-01,210587,,0.564,0.671,1,-5.189,1,0.0565,0.0219,0.0,0.0639,0.455,173.901
+Attention,Doja Cat,Attention,38xgBOLAcKoYWMSXWUDH1E,11xC6P3iKYpFThT6Ce1KdG,,2023-06-16,277044,,0.759,0.567,2,-7.911,1,0.248,0.118,0.0278,0.105,0.421,87.981
+Paint The Town Red,Doja Cat,Paint The Town Red,54dZypaXHAIDzBe9ujAZ63,2IGMVunIBsBLtEQyoI1Mu7,,2023-08-04,231750,,0.868,0.538,5,-8.603,1,0.174,0.269,3.34e-06,0.0901,0.732,99.968
+Agora Hills,Doja Cat,Scarlet,6DmPNcfpkXBVRJsEIJY9tl,7dJYggqjKo71KI9sLzqCs8,,2023-09-22,265360,,0.75,0.674,8,-6.128,0,0.097,0.228,8.91e-05,0.122,0.392,123.026
+I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",Twelve Carat Toothache,3HHNR44YbP7XogMVwzbodx,0O6u0VJ46W86TxN9wgyqDj,,2022-06-03,192841,,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964
+Kiss Me More (feat. SZA),"Doja Cat, SZA",Planet Her,1nAQbHeOWTfQzbOoFrvndW,3DarAbFujv6eYNliUTyqtz,,2021-06-25,208667,,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,0.781,110.97
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),2Q5DPv9uliinOBSdNooIe3,0hquQWY3xvYqN4qtiquniF,,2022-05-06,182907,,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969
+Boss Bitch,Doja Cat,Boss Bitch,4pmyFpGicLLIgNPc1TQXKc,78qd8dvwea0Gosb6Fe6j3k,,2020-01-23,134240,,0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.202,0.575,125.989
+You Right,"Doja Cat, The Weeknd",Planet Her,1nAQbHeOWTfQzbOoFrvndW,0k4d5YPDr1r7FX77VdqWez,,2021-06-25,186173,,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986
+Wine Pon You (feat. Konshens),"Doja Cat, Konshens",Amala,54tInqO543zy0Y5F2VsUQI,2s4AcE9n80mSHl87lp4gIm,,2018-03-30,219000,,0.797,0.444,9,-7.738,0,0.0411,0.304,0.00126,0.107,0.138,95.035
+So High,Doja Cat,So High,3VZiexdNV9MFUGDg2gFakT,2qyhy9ndo8tTGMzXeHTisR,,2014-03-11,201573,,0.647,0.567,10,-5.777,0,0.0374,0.133,9.36e-06,0.0638,0.659,131.933
+motive (with Doja Cat),"Ariana Grande, Doja Cat",Positions,3euz4vS7ezKGnNSwgyvKcd,5GkQIP5mWPi4KZLLXeuFTT,,2020-10-30,167990,,0.789,0.742,10,-5.664,0,0.0652,0.0681,0.0,0.166,0.661,116.965
+Need to Know,Doja Cat,Planet Her,1nAQbHeOWTfQzbOoFrvndW,3Vi5XqYrmQgOYBajMWSvCi,,2021-06-25,210560,,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041
+Gun,Doja Cat,Scarlet,6DmPNcfpkXBVRJsEIJY9tl,15sNe8FD178zMsVz6ug0AS,,2023-09-22,176840,,0.885,0.576,10,-7.17,0,0.238,0.0695,0.000235,0.0993,0.805,76.004
+Like That (feat. Gucci Mane),"Doja Cat, Gucci Mane",Hot Pink,1MmVkhiwTH0BkNOU3nw5d3,4EivmOT13NMpNSfTKn9p4s,,2019-11-07,163173,,0.879,0.498,4,-6.027,0,0.18,0.239,0.0,0.0967,0.405,106.044
+Candy,Doja Cat,Amala,54tInqO543zy0Y5F2VsUQI,1VJwtWR6z7SpZRwipI12be,,2018-03-30,190920,,0.689,0.516,8,-5.857,1,0.0444,0.513,0.0,0.163,0.209,124.876
+Ain't Shit,Doja Cat,Planet Her,1nAQbHeOWTfQzbOoFrvndW,5lAnYvAIkSDNXqfo7DyFUm,,2021-06-25,174253,,0.855,0.488,3,-4.601,1,0.208,0.506,0.0,0.347,0.619,124.097
+Go Off,Doja Cat,Scarlet,6DmPNcfpkXBVRJsEIJY9tl,032UZ3KVrzII6AE9Abnj7z,,2023-09-22,197493,,0.933,0.533,5,-8.0,0,0.0585,0.027,0.00416,0.118,0.552,140.991
+Rules,Doja Cat,Hot Pink,1MmVkhiwTH0BkNOU3nw5d3,1TMWcbxL5YF8rKsFHv5hAP,,2019-11-07,187040,,0.651,0.724,7,-5.457,1,0.166,0.172,0.0,0.13,0.686,144.146
+Demons,Doja Cat,Demons,7iduRgQGVmm0Thy4v734Py,1xemKSmCnH59ze3KX5wwgH,,2023-08-31,196653,,0.821,0.341,8,-5.915,1,0.281,8.73e-05,0.00746,0.18,0.344,139.885
+Get Into It (Yuh),Doja Cat,Planet Her,1nAQbHeOWTfQzbOoFrvndW,0W6I02J9xcqK8MtSeosEXb,,2021-06-25,138293,,0.912,0.655,8,-6.029,0,0.162,0.315,3.39e-05,0.0894,0.793,91.942
+Shutcho,Doja Cat,Scarlet,6DmPNcfpkXBVRJsEIJY9tl,4rjQxlKAIXbEqHzjrnYZ7x,,2023-09-22,187400,,0.763,0.441,1,-9.043,1,0.11,0.0343,0.0,0.132,0.409,145.926
+Del Mar,"Ozuna, Doja Cat, Sia",ENOC,69iuPQsXel3luOSDNF0q2Q,5cpJFiNwYyWwFLH0V6B3N8,,2020-09-04,214507,,0.759,0.636,6,-5.585,1,0.0369,0.0224,0.000143,0.166,0.536,109.976
+Kill Bill (feat. Doja Cat),"SZA, Doja Cat",Kill Bill (feat. Doja Cat),4OanbmuJAWz8JPVE4cJA9L,0CrcwVLUe8wzLUIXgjXVZJ,,2023-04-14,175837,,0.629,0.744,5,-6.124,0,0.0409,0.0769,0.247,0.194,0.451,89.021
+Tia Tamera (feat. Rico Nasty),"Doja Cat, Rico Nasty",Amala (Deluxe Version),3wOMqxNHgkga91RBC7BaZU,1uNePI826aqh9uC9pgbeHU,,2019-03-01,211013,,0.822,0.654,0,-4.623,1,0.132,0.019,0.0,0.233,0.421,119.884
+Ouchies,Doja Cat,Scarlet,6DmPNcfpkXBVRJsEIJY9tl,18EGw1StZNDftpUcX8PM74,,2023-09-22,122187,,0.854,0.808,1,-5.958,1,0.139,0.0194,2.41e-06,0.108,0.794,110.203
+I Don't Do Drugs (feat. Ariana Grande),"Doja Cat, Ariana Grande",Planet Her,1nAQbHeOWTfQzbOoFrvndW,0FFsgUoFibYISzMxuGS61W,,2021-06-25,188893,,0.683,0.615,5,-5.737,1,0.0966,0.222,8.25e-06,0.154,0.45,77.014
+Juicy,"Doja Cat, Tyga",Hot Pink,1MmVkhiwTH0BkNOU3nw5d3,7f5trao56t7sB7f14QDTmp,,2019-11-07,203093,,0.785,0.652,0,-2.607,1,0.0668,0.102,0.0,0.0697,0.484,170.024
+Best Friend (feat. Doja Cat),"Saweetie, Doja Cat",Best Friend (feat. Doja Cat),28Yv9BE6ZI6dccK0sxbEq4,2etHQJxIbV0soyPhelVs9Y,,2021-01-07,155884,,0.84,0.766,4,-4.12,1,0.136,0.00302,3.61e-06,0.0684,0.402,94.018
+Can't Wait,Doja Cat,Scarlet,6DmPNcfpkXBVRJsEIJY9tl,5ZyQqAgrPr0cVm0VfM69Np,,2023-09-22,235360,,0.472,0.79,6,-4.337,0,0.322,0.286,3.45e-06,0.0636,0.815,77.908
+Freaky Deaky,"Tyga, Doja Cat",Freaky Deaky,05oVghsqITa33yHnbW7uPz,3vySEUpD0tc801F2WZDLYw,,2022-02-25,215281,,0.799,0.653,2,-5.453,0,0.037,0.019,0.0,0.0935,0.236,104.019
+Cyber Sex,Doja Cat,Hot Pink,1MmVkhiwTH0BkNOU3nw5d3,1ghvzmzpx2nnrbx7wtpMgo,,2019-11-07,165733,,0.917,0.657,8,-5.716,1,0.0921,0.318,3.62e-06,0.0754,0.818,131.03
+Freak,Doja Cat,Freak,3jCcsG6jkQTnUJyCACAg0r,3aA6xB0tOilDDX17fIJ0Bl,,2020-08-07,284480,,0.688,0.716,7,-5.702,1,0.0385,0.0969,0.0,0.0989,0.373,116.912
+Streets - Silhouette Remix,Doja Cat,Streets (Silhouette Remix),3vUpSuV7VbV4vonGqQQmUG,0Uru1UoJdHKf2lxssQT3kC,,2021-03-12,242692,,0.742,0.449,11,-8.565,1,0.105,0.171,0.0466,0.125,0.144,90.072
+"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix","Ariana Grande, Doja Cat, Megan Thee Stallion",Positions (Deluxe),74vajFwEwXJ61OW1DKSPEa,2sQH02O2HBCPJCztBrCWNa,,2021-02-19,182438,,0.659,0.662,5,-5.768,1,0.434,0.211,0.0,0.228,0.704,109.957
+Dick (feat. Doja Cat),"StarBoi3, Doja Cat",Dick (feat. Doja Cat),5gH9EDMWWiLEplNCLb1r7l,3nY8AqaMNNHHLYV4380ol0,,2021-04-23,175238,,0.647,0.608,9,-6.831,1,0.42,0.13,0.0,0.0584,0.474,125.994
+Go To Town,Doja Cat,Amala,54tInqO543zy0Y5F2VsUQI,6iOvnACn4ChlAw4lWUU4dd,,2018-03-30,217813,,0.71,0.71,0,-2.474,1,0.0579,0.0716,1.07e-06,0.206,0.7,169.944
+In Your Eyes (with Doja Cat) - Remix,"The Weeknd, Doja Cat",In Your Eyes (Remix),0Jh3A8NAbc9eFpdUfhDedt,0UnTaVkntyh3vqvLEvbpQx,,2020-05-21,237912,,0.679,0.731,7,-5.522,0,0.0319,0.00518,0.000127,0.0614,0.727,99.984
+SCOOP (feat. Doja Cat),"Lil Nas X, Doja Cat",MONTERO,6pOiDiuDQqrmo5DbG0ZubR,6bpq1jGkVz66Q3LYeoXdjZ,,2021-09-17,174164,,0.841,0.527,6,-8.116,1,0.149,0.0427,1.54e-06,0.12,0.582,163.975
+Won't Bite (feat. Smino),"Doja Cat, Smino",Hot Pink,1MmVkhiwTH0BkNOU3nw5d3,7k51pIqTGEHHZOnpI11Qq2,,2019-11-07,195213,,0.807,0.783,5,-3.115,1,0.0964,0.351,0.0,0.14,0.592,127.996
+Up And Down,Doja Cat,Planet Her (Deluxe),4XLPYMERZZaBzkJg0mkdvO,1uQ1TZ9YIWCtBTgq09uoix,,2021-06-27,151507,,0.829,0.761,10,-4.882,0,0.117,0.186,7.78e-06,0.0705,0.67,74.979
+"Baby, I'm Jealous (feat. Doja Cat)","Bebe Rexha, Doja Cat","Baby, I'm Jealous (feat. Doja Cat)",2N367tN1eIXrHNVe86aVy4,2fTdRdN73RgIgcUZN33dvt,,2020-10-09,175873,,0.737,0.867,11,-2.259,0,0.0458,0.0398,0.0,0.32,0.506,98.05
+Equally Lost (feat. Doja Cat),"Tove Lo, Doja Cat",Sunshine Kitty,5kaCqETtik8oE7M9D8wxrW,0zFComc9VzjCKWm4PSbIJk,,2019-09-20,134846,,0.654,0.766,2,-5.48,1,0.127,0.0178,2.37e-05,0.28,0.521,187.901
+Ride,Doja Cat,Planet Her (Deluxe),4XLPYMERZZaBzkJg0mkdvO,4jw87bP3TuCGm15g9kc64g,,2021-06-27,176733,,0.722,0.592,9,-6.718,0,0.383,0.224,0.000697,0.0714,0.828,199.719
+champagne problems,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,0sY6ZUTh4yoctD8VIXz339,,2020-12-11,244000,,0.462,0.24,0,-12.077,1,0.0377,0.92,0.0,0.113,0.32,171.319
+Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),"Taylor Swift, Hayley Williams",Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,4ABYxlb92WBIjHu7TIKmml,,2023-07-07,306062,,0.576,0.57,7,-7.925,1,0.0434,0.362,0.0,0.0668,0.378,147.803
+Eyes Open (Taylor's Version),Taylor Swift,Eyes Open (Taylor's Version),6AeF9IkXFpHz5H3wUNX3L3,2NIBaWXdjaTDmytjjwbEfP,,2021-11-12,243264,,0.566,0.773,7,-6.976,1,0.0356,0.000818,0.00103,0.184,0.256,137.048
+Ours (Taylor’s Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,3yNJkriPzWjkkDAWHIAVUq,,2023-07-07,235803,,0.535,0.488,0,-8.261,1,0.0278,0.449,0.0,0.111,0.348,159.813
+Sweet Nothing,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,0wavGRldH0AWyu2zvTz8zb,,2022-10-21,188497,,0.337,0.156,0,-14.919,1,0.0518,0.964,7.72e-05,0.115,0.39,176.655
+Sparks Fly (Taylor’s Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,3MytWN8L7shNYzGl4tAKRp,,2023-07-07,261231,,0.588,0.758,5,-2.347,1,0.0305,0.0251,0.0,0.131,0.387,114.991
+exile (feat. Bon Iver),"Taylor Swift, Bon Iver",folklore,2fenSS68JI1h4Fo296JfGr,4pvb0WLRcMtbPGmtejJJ6y,,2020-07-24,285634,,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602
+Red,Taylor Swift,Red,1EoDsNmgTLtmwe1BDAVxV5,0cITLOYn1Sv4q27zZPqlNK,,2012-10-22,220827,,0.602,0.896,1,-4.267,0,0.0437,0.0773,8.87e-05,0.091,0.641,124.978
+Last Kiss (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,59KOoHFcw5XfICnO57holu,,2023-07-07,369120,,0.55,0.366,10,-8.46,1,0.0276,0.447,4.43e-06,0.101,0.16,79.401
+Delicate - Recorded at The Tracking Room Nashville,Taylor Swift,Spotify Singles,74utZeTCeaXy01BjOddyv8,1Fj0T1XKuhRu7EZzJ7NJIK,,2018-04-13,228461,,0.664,0.447,0,-8.404,1,0.0341,0.577,0.0,0.0968,0.431,90.976
+Paris,Taylor Swift,Midnights (3am Edition),3lS1y25WAhcqJDATJK70Mq,7712gjoih4QoDbXpljEk21,,2022-10-22,196259,,0.7,0.509,7,-10.547,1,0.0789,0.112,3.27e-05,0.137,0.345,110.947
+Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,3z6XUommYDWPHeFhmhhT6j,,2021-11-12,225960,,0.622,0.791,7,-6.106,1,0.0535,0.00188,3.72e-06,0.083,0.494,115.915
+This Love (Taylor’s Version),Taylor Swift,This Love (Taylor’s Version),3In1CblWZswwun5MhOa10y,4d1CG5ei1E2vGbvmgf5KKv,,2022-05-06,250100,,0.47,0.494,4,-8.672,1,0.0349,0.302,0.0,0.0672,0.0524,144.039
+Labyrinth,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,0A1JLUlkZkp2EFrosoNQi0,,2022-10-21,247962,,0.406,0.306,0,-15.48,1,0.0517,0.785,0.488,0.122,0.122,110.014
+"Would've, Could've, Should've",Taylor Swift,Midnights (3am Edition),3lS1y25WAhcqJDATJK70Mq,0aV5uARAknQgYhBaK944FP,,2022-10-22,260362,,0.483,0.84,7,-6.508,1,0.119,0.43,0.000575,0.146,0.55,157.979
+the 1,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,0Jlcvv8IykzHaSmj49uNW8,,2020-07-24,210252,,0.777,0.357,0,-6.942,1,0.0522,0.757,7.28e-06,0.108,0.172,139.883
+Bigger Than The Whole Sky,Taylor Swift,Midnights (3am Edition),3lS1y25WAhcqJDATJK70Mq,0BiqmkasE5FdrChwKfVp8X,,2022-10-22,218503,,0.422,0.235,6,-12.379,1,0.0568,0.826,0.00648,0.115,0.068,165.71
+End Game,"Taylor Swift, Ed Sheeran, Future",reputation,6DEjYFkNZh67HP7R9PSZvv,2x0WlnmfG39ZuDmstl9xfX,,2017-11-10,244827,,0.649,0.589,2,-6.237,1,0.0558,0.00845,0.0,0.108,0.151,159.073
+High Infidelity,Taylor Swift,Midnights (3am Edition),3lS1y25WAhcqJDATJK70Mq,5kiZGSxgqPdv6rbqL9THdd,,2022-10-22,231475,,0.646,0.529,10,-10.179,1,0.0864,0.723,0.0,0.0885,0.755,87.862
+Glitch,Taylor Swift,Midnights (3am Edition),3lS1y25WAhcqJDATJK70Mq,6wAFvJPpTZVirBKGZ4EnMW,,2022-10-22,148781,,0.675,0.466,11,-9.738,0,0.201,0.361,0.0,0.11,0.347,140.864
+Dear Reader,Taylor Swift,Midnights (3am Edition),3lS1y25WAhcqJDATJK70Mq,3QF5RsWzK1lCvf2o2cY65P,,2022-10-22,225194,,0.562,0.388,0,-12.088,1,0.0705,0.481,0.00145,0.117,0.159,107.747
+my tears ricochet,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,1MgV7FIyNxIG7WzMRJV5HC,,2020-07-24,255894,,0.456,0.263,0,-10.63,1,0.0332,0.806,0.0,0.0749,0.111,129.86
+Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),"Taylor Swift, Phoebe Bridgers",Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,01K4zKU104LyJ8gMb7227B,,2021-11-12,258813,,0.606,0.377,0,-9.455,1,0.0275,0.817,0.0,0.154,0.446,101.96
+All Too Well,Taylor Swift,Red (Deluxe Edition),1KlU96Hw9nlvqpBPlSqcTV,1q3RiD1tIWUpGsNFADMlvl,,2012-10-22,327893,,0.602,0.609,0,-7.803,1,0.0243,0.0382,0.0002,0.127,0.337,93.06
+September - Recorded at The Tracking Room Nashville,Taylor Swift,Spotify Singles,74utZeTCeaXy01BjOddyv8,5eGX87IiKsGuzS3iw4CfCX,,2018-04-13,187824,,0.641,0.444,6,-6.482,1,0.0239,0.412,0.00121,0.179,0.588,107.081
+I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),"Taylor Swift, Chris Stapleton",Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,4CkgMiMqZ5JzW9iYXSTMTL,,2021-11-12,285107,,0.391,0.715,0,-4.516,1,0.0495,0.167,0.0,0.183,0.473,149.654
+Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),"Taylor Swift, Ed Sheeran",Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,4IQkfUsrwXol38VV3U7t7T,,2021-11-12,240227,,0.61,0.488,3,-6.918,1,0.0293,0.817,0.0,0.312,0.443,125.039
+Cornelia Street,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,12M5uqx0ZuwkpLp5rJim1a,,2019-08-23,287267,,0.824,0.624,0,-9.728,1,0.0827,0.781,0.000189,0.1,0.248,102.012
+invisible string,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,6VsvKPJ4xjVNKpI8VVZ3SV,,2020-07-24,252881,,0.653,0.452,4,-11.143,0,0.055,0.838,7.73e-05,0.108,0.45,83.433
+Better Man (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),6x9s2ObPdpATZgrwxsk9c0,1gWRnZ52AK1ZUvpjjTteKf,,2021-11-12,297013,,0.473,0.579,4,-5.824,1,0.0384,0.214,0.0,0.0877,0.255,73.942
+betty,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,5kI4eCXXzyuIUXjQra0Cxi,,2020-07-24,294521,,0.593,0.377,0,-8.761,1,0.0253,0.6,0.0,0.0976,0.502,95.939
+‘tis the damn season,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,7dW84mWkdWE5a6lFWxJCBG,,2020-12-11,229840,,0.575,0.434,5,-8.193,1,0.0312,0.735,6.59e-05,0.105,0.348,145.916
+ME! (feat. Brendon Urie of Panic! At The Disco),"Taylor Swift, Brendon Urie, Panic! At The Disco",Lover,1NAmidJlEaVgA3MpcPFYGq,2Rk4JlNc2TPmZe2af99d45,,2019-08-23,193000,,0.61,0.83,0,-4.105,1,0.0571,0.033,0.0,0.118,0.728,182.162
+evermore (feat. Bon Iver),"Taylor Swift, Bon Iver",evermore,2Xoteh7uEpea4TohMxjtaq,3O5osWf1rSoKMwe6E9ZaXP,,2020-12-11,304107,,0.39,0.27,1,-10.673,1,0.0308,0.937,0.00227,0.111,0.32,125.177
+Afterglow,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,1SymEzIT3H8UZfibCs3TYi,,2019-08-23,223293,,0.756,0.449,9,-8.746,1,0.0344,0.13,0.0,0.114,0.399,111.011
+I Don’t Wanna Live Forever (Fifty Shades Darker),"ZAYN, Taylor Swift",Fifty Shades Darker (Original Motion Picture Soundtrack),5VML6S956h4YfoYPooqLEi,2y5aJvzXhHPA94U5GFAcXe,,2017-02-10,245653,,0.734,0.442,0,-8.432,1,0.0557,0.0594,1.63e-05,0.213,0.0973,117.967
+Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),"Taylor Swift, Ed Sheeran",Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,7qEUFOVcxRI19tbT68JcYK,,2021-11-12,245427,,0.498,0.61,6,-5.098,1,0.0363,0.271,0.0,0.223,0.474,79.918
+I Did Something Bad,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,4svZDCRz4cJoneBpjpx8DJ,,2017-11-10,238253,,0.696,0.602,0,-6.156,0,0.159,0.0679,2.11e-05,0.0696,0.305,82.989
+Love Story (Taylor's Version) - Elvira Remix,"Taylor Swift, ELVIRA",Love Story (Taylor's Version) [Elvira Remix],3x4gaf5IPyFQNrxZY07CXA,5RaBeejGtdPEszYEKYECs2,,2021-03-23,211857,,0.669,0.56,11,-8.285,0,0.0352,0.00215,3.23e-05,0.264,0.155,123.068
+"no body, no crime (feat. HAIM)","Taylor Swift, HAIM",evermore,2Xoteh7uEpea4TohMxjtaq,3RaT22zZsxVYxxKR7TAaYF,,2020-12-11,215627,,0.546,0.613,7,-7.589,0,0.0264,0.418,0.0,0.103,0.535,79.015
+I Forgot That You Existed,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,43rA71bccXFGD4C8GOpIlN,,2019-08-23,170640,,0.664,0.316,5,-10.345,1,0.519,0.298,2.03e-06,0.0812,0.541,92.875
+Call It What You Want,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,1GwMQaZz6Au3QLDbjbMdme,,2017-11-10,203507,,0.598,0.504,9,-9.874,1,0.0731,0.186,0.000221,0.34,0.252,163.954
+London Boy,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,1LLXZFeAHK9R4xUramtUKw,,2019-08-23,190240,,0.695,0.71,1,-6.639,1,0.05,0.0246,0.000104,0.133,0.557,157.925
+The Very First Night (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,6pYNq0ZwpPVazKzsqpf0G8,,2021-11-12,200280,,0.678,0.733,7,-5.025,1,0.0281,0.00115,0.0,0.104,0.581,121.009
+right where you left me - bonus track,Taylor Swift,evermore (deluxe version),6AORtDjduMM3bupSWzbTSG,3zwMVvkBe2qIKDObWgXw4N,,2021-01-07,245027,,0.581,0.619,10,-6.524,1,0.0282,0.769,0.000106,0.117,0.645,137.915
+Daylight,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,1fzAuUVbzlhZ1lJAx9PtY6,,2019-08-23,293453,,0.557,0.496,0,-9.602,1,0.0563,0.808,0.000173,0.0772,0.265,149.983
+Begin Again,Taylor Swift,Red,1EoDsNmgTLtmwe1BDAVxV5,0L4YCNRfXAoTvdpWeH2RGj,,2012-10-22,237613,,0.53,0.526,7,-8.349,1,0.0263,0.199,3.52e-06,0.232,0.323,79.025
+Fearless,Taylor Swift,Fearless,2dqn5yOQWdyGwOpOIi9O4x,6Eu31gddWw0gOGO506pJYA,,2008-11-11,241987,,0.594,0.712,5,-4.418,1,0.0273,0.04,0.0,0.309,0.476,99.972
+Miss Americana & The Heartbreak Prince,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,214nt20w5wOxJnY462klLw,,2019-08-23,234147,,0.662,0.747,11,-6.926,0,0.0736,0.028,0.00615,0.138,0.487,150.088
+the last great american dynasty,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,2Eeur20xVqfUoM3Q7EFPFt,,2020-07-24,230999,,0.686,0.662,7,-8.505,1,0.0413,0.467,0.0023,0.109,0.706,147.922
+The Archer,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,3pHkh7d0lzM2AldUtz2x37,,2019-08-23,211240,,0.292,0.574,0,-9.375,1,0.0401,0.12,0.00569,0.0663,0.166,124.344
+Picture To Burn,Taylor Swift,Taylor Swift,7mzrIsaAjnXihW3InKjlC3,32mVHdy0bi1XKgr0ajsBlG,,2006-10-24,173067,,0.658,0.877,7,-2.098,1,0.0323,0.173,0.0,0.0962,0.821,105.586
+That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),"Taylor Swift, Keith Urban",Fearless (Taylor's Version),4hDok0OAJd57SGIT8xuWJH,7eResoqEJJAVTkQYSqvO3P,,2021-04-09,189496,,0.588,0.608,5,-7.062,1,0.0365,0.225,0.0,0.092,0.508,90.201
+Carolina - From The Motion Picture “Where The Crawdads Sing”,Taylor Swift,Carolina (From The Motion Picture “Where The Crawdads Sing”),5Bwg2XxrjTlrNy6BC7KQZf,4axSuOg3BqsowKjRpj59RU,,2022-06-24,264439,,0.476,0.189,11,-13.777,0,0.0329,0.904,4.52e-06,0.254,0.324,115.851
+I Think He Knows,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,2YWtcWi3a83pdEg3Gif4Pd,,2019-08-23,173387,,0.897,0.366,0,-8.029,1,0.0569,0.00889,0.000353,0.0715,0.416,100.003
+Babe (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,0v4z1tuZvn6LGknom9Qx7d,,2021-11-12,224240,,0.584,0.743,4,-7.075,1,0.0931,0.0538,2.83e-06,0.121,0.746,167.844
+this is me trying,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,7kt9e9LFSpN1zQtYEl19o1,,2020-07-24,195097,,0.515,0.476,9,-9.843,1,0.0328,0.314,4.74e-05,0.171,0.412,135.886
+gold rush,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,5BK0uqwY9DNfZ630STAEaq,,2020-12-11,185320,,0.512,0.462,9,-10.491,1,0.0408,0.83,0.166,0.121,0.353,112.05
+long story short,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,2o2sgVJIgFXk8GQjWTgI6U,,2020-12-11,215920,,0.546,0.73,0,-7.704,1,0.0417,0.66,0.179,0.0972,0.573,157.895
+Forever Winter (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),6x9s2ObPdpATZgrwxsk9c0,0EepXu0NfnnUX8efEZR167,,2021-11-12,263533,,0.611,0.552,7,-5.828,1,0.031,0.256,0.0,0.134,0.41,116.012
+Lover (Remix) [feat. Shawn Mendes],"Taylor Swift, Shawn Mendes",Lover (Remix) [feat. Shawn Mendes],2UfvnX1YYeC2cExMQTMbXC,3i9UVldZOE0aD0JnyfAZZ0,,2019-11-13,221307,,0.448,0.603,7,-7.176,1,0.064,0.433,0.0,0.0862,0.422,205.272
+You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),"Taylor Swift, Maren Morris",You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),5xd9LleY1wqsgKVTwLoXYI,5pcjystBtalYeqaiXCcgEY,,2021-03-26,220839,,0.589,0.496,2,-7.606,1,0.0377,0.818,0.0,0.101,0.44,142.731
+Renegade,"Big Red Machine, Taylor Swift",How Long Do You Think It's Gonna Last?,3YbMxdapL6mvSQjosFkc0T,73W5aXorr5vxrySFcoZqIN,,2021-08-27,254467,,0.53,0.712,0,-8.135,1,0.0461,0.44,0.0233,0.0931,0.577,167.964
+exile (feat. Bon Iver) - the long pond studio sessions,"Taylor Swift, Bon Iver",folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],3VaaZ7OIbGLi60NVsnueoo,7bFqfMKnKsZJH9FytUXg3E,,2020-11-25,279893,,0.359,0.305,6,-10.295,1,0.0306,0.848,6.74e-05,0.111,0.108,151.956
+ivy,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,19CSr8rwW05VJL2F91KFNK,,2020-12-11,260440,,0.515,0.545,2,-9.277,1,0.0353,0.855,1.97e-05,0.0921,0.535,88.856
+the lakes - original version,Taylor Swift,the lakes (original version),40cMfQDrBCDmOaWZuNEmKq,0UAdDYrkCvVQftaKpL6q5f,,2021-07-24,227203,,0.197,0.406,2,-10.904,1,0.0619,0.717,0.000362,0.293,0.251,90.053
+it’s time to go - bonus track,Taylor Swift,evermore (deluxe version),6AORtDjduMM3bupSWzbTSG,1kdWw77ZpYOkhxeuhzU1j6,,2021-01-07,254640,,0.592,0.41,0,-12.426,1,0.0397,0.801,1.39e-05,0.09,0.416,151.923
+marjorie,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,12ntTeqEeTg7GAVpe8Mhpl,,2020-12-11,257773,,0.535,0.561,5,-11.609,1,0.0484,0.876,0.000136,0.115,0.287,96.103
+mirrorball,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,0ZNU020wNYvgW84iljPkPP,,2020-07-24,208978,,0.553,0.413,2,-10.037,1,0.0334,0.687,2.33e-06,0.0594,0.379,110.107
+Teardrops On My Guitar - Radio Single Remix,Taylor Swift,Taylor Swift,7mzrIsaAjnXihW3InKjlC3,7zMcNqs55Mxer82bvZFkpg,,2006-10-24,203040,,0.621,0.417,10,-6.941,1,0.0231,0.288,0.0,0.119,0.289,99.953
+Only The Young - Featured in Miss Americana,Taylor Swift,Only The Young (Featured in Miss Americana),5LGsh3kexUfi3qkIIxb8vK,2slqvGLwzZZYsT4K4Y1GBC,,2020-01-31,157507,,0.56,0.78,5,-4.895,0,0.0517,0.00244,0.0,0.0714,0.602,93.516
+illicit affairs,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,2NmsngXHeC1GQ9wWrzhOMf,,2020-07-24,190898,,0.559,0.31,10,-10.445,1,0.0338,0.881,0.0,0.106,0.46,119.845
+tolerate it,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,0PurA4JVJ8YQgSVopY8fn6,,2020-12-11,245440,,0.316,0.361,9,-10.381,1,0.0488,0.878,2.67e-05,0.0797,0.221,74.952
+willow - dancing witch version (Elvira remix),"Taylor Swift, ELVIRA",willow [dancing witch version (Elvira remix)],23u5rTisTUAWuQxaDft11P,2NnrAdjE9cPdMklonMBuAv,,2020-12-13,184819,,0.429,0.567,4,-10.157,0,0.272,0.449,1.5e-05,0.536,0.67,83.922
+happiness,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,73YUReisjb3A9ActdLLjJQ,,2020-12-11,315147,,0.559,0.334,11,-10.733,1,0.0376,0.87,0.0,0.114,0.211,122.079
+We Were Happy (Taylor’s Version) (From The Vault),Taylor Swift,Fearless (Taylor's Version),4hDok0OAJd57SGIT8xuWJH,34V9RiEPe8MNdU32qJsJa1,,2021-04-09,244237,,0.609,0.373,0,-8.819,1,0.0263,0.849,0.0,0.0779,0.13,106.007
+dorothea,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,670fUmXf4KQekzbEgaXyPA,,2020-12-11,225880,,0.605,0.488,4,-8.322,1,0.0264,0.696,0.0,0.129,0.354,119.966
+cardigan - cabin in candlelight version,Taylor Swift,cardigan (cabin in candlelight version),3kqqalY92DENp7FiztDOjH,2hmafYGj1CXYKIYcMnX4lj,,2020-07-30,228000,,0.652,0.237,0,-8.364,0,0.0335,0.9,0.0,0.0991,0.367,129.976
+mad woman,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,2QDyYdZyhlP2fp79KZX8Bi,,2020-07-24,237258,,0.592,0.699,3,-8.995,1,0.0471,0.655,1.68e-05,0.114,0.506,141.916
+Don’t You (Taylor’s Version) (From The Vault),Taylor Swift,Fearless (Taylor's Version),4hDok0OAJd57SGIT8xuWJH,4uuEGH5SVuzkkSFjo2DEiY,,2021-04-09,208609,,0.563,0.473,3,-11.548,1,0.0503,0.514,1.2e-05,0.109,0.405,101.934
+Our Song,Taylor Swift,Taylor Swift,7mzrIsaAjnXihW3InKjlC3,15DeqWWQB4dcEWzJg15VrN,,2006-10-24,201107,,0.668,0.672,2,-4.931,1,0.0303,0.111,0.0,0.329,0.539,89.011
+seven,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,6KJqZcs9XDgVck7Lg9QOTC,,2020-07-24,208907,,0.596,0.488,4,-10.769,1,0.0274,0.9,2.7e-05,0.091,0.415,94.926
+Dancing With Our Hands Tied,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,7I7JbDv63ZJJsSi24DyJrz,,2017-11-10,211507,,0.624,0.691,0,-6.686,0,0.196,0.0604,1.1e-05,0.138,0.284,160.024
+Death By A Thousand Cuts,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,2dgFqt3w9xIQRjhPtwNk3D,,2019-08-23,198533,,0.712,0.732,4,-6.754,1,0.0629,0.454,0.0,0.319,0.313,94.071
+Fifteen,Taylor Swift,Fearless,2dqn5yOQWdyGwOpOIi9O4x,4t0OI7XrODjSkAu3bTPmWj,,2008-11-11,294333,,0.556,0.651,7,-4.396,1,0.0266,0.067,0.0,0.145,0.203,95.485
+False God,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,5hQSXkFgbxjZo9uCwd11so,,2019-08-23,200307,,0.739,0.32,11,-10.862,0,0.239,0.736,0.000147,0.111,0.351,79.97
+Tim McGraw,Taylor Swift,Taylor Swift,7mzrIsaAjnXihW3InKjlC3,0Om9WAB5RS09L80DyOfTNa,,2006-10-24,232107,,0.58,0.491,0,-6.462,1,0.0251,0.575,0.0,0.121,0.425,76.009
+Soon You’ll Get Better (feat. The Chicks),"Taylor Swift, The Chicks",Lover,1NAmidJlEaVgA3MpcPFYGq,4AYtqFyFbX0Xkc2wtcygTr,,2019-08-23,201587,,0.433,0.182,0,-12.566,1,0.0641,0.907,0.0,0.123,0.421,207.476
+peace,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,7MbT4I8qGntX4fMdqMQgke,,2020-07-24,234000,,0.647,0.272,5,-12.906,1,0.0916,0.918,1.73e-05,0.0918,0.339,150.044
+White Horse (Taylor’s Version),Taylor Swift,Fearless (Taylor's Version),4hDok0OAJd57SGIT8xuWJH,5YL553x8sHderRBDlm3NM3,,2021-04-09,234516,,0.423,0.517,0,-7.377,1,0.0486,0.369,0.0,0.177,0.366,185.262
+Cornelia Street - Live From Paris,Taylor Swift,Cornelia Street (Live From Paris),4CF0YV0iNyfKoDt9jHbGj7,3fGnrtrtL1IHSX9t4DKOYf,,2020-05-18,296013,,0.502,0.462,11,-7.526,1,0.0265,0.578,0.0,0.721,0.304,97.085
+cowboy like me,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,1XjHRolIXL2M1EEOUsGGR4,,2020-12-11,275040,,0.604,0.517,0,-9.014,1,0.0347,0.768,0.000155,0.123,0.511,127.967
+epiphany,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,08fa9LFcFBTcilB3iq2e2A,,2020-07-24,289749,,0.354,0.267,1,-13.69,1,0.0281,0.731,0.000402,0.0858,0.113,94.219
+Death By A Thousand Cuts - Live From Paris,Taylor Swift,Death By A Thousand Cuts (Live From Paris),5nDpkszadFMGW6ZSYM9Q1V,3oF7Or7T35yhQbGxbCGvRX,,2020-05-17,199067,,0.584,0.655,4,-5.551,1,0.0306,0.712,0.0,0.97,0.604,91.844
+It’s Nice To Have A Friend,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,1SmiQ65iSAbPto6gPFlBYm,,2019-08-23,150440,,0.737,0.175,10,-9.912,1,0.0401,0.971,0.000337,0.171,0.545,70.008
+hoax,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,6MWoRt97mnSTXZhu3ggi9C,,2020-07-24,220043,,0.662,0.181,8,-15.065,1,0.0415,0.966,3.86e-06,0.133,0.429,118.819
+coney island (feat. The National),"Taylor Swift, The National",evermore,2Xoteh7uEpea4TohMxjtaq,3k7ne7VmH43ZPWxPdvPUgR,,2020-12-11,275320,,0.537,0.537,8,-11.266,1,0.0617,0.819,0.000904,0.142,0.292,107.895
+Highway Don't Care,"Tim McGraw, Taylor Swift, Keith Urban",Two Lanes Of Freedom,1O3BsjGx9plSOJ036ZY4Fl,4wFUdSCer8bdQsrp1M90sa,,2013-01-01,276880,,0.47,0.79,2,-5.352,1,0.039,0.0216,0.0,0.0863,0.495,158.061
+Bye Bye Baby (Taylor’s Version) (From The Vault),Taylor Swift,Fearless (Taylor's Version),4hDok0OAJd57SGIT8xuWJH,4qUijfYU8EoIWiY6oSyrgT,,2021-04-09,242158,,0.624,0.624,5,-7.86,1,0.0539,0.334,0.0,0.0995,0.527,80.132
+closure,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,35rdVq36LMHQX0Suw9a6tK,,2020-12-11,180653,,0.689,0.704,9,-10.813,1,0.245,0.835,4.83e-06,0.134,0.92,151.884
+Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,1Iq8oo9XkmmvCQiGOfORiz,,2023-10-26,229478,,0.596,0.658,0,-7.346,1,0.036,0.0504,0.0,0.127,0.176,100.012
+Cruel Summer,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,1BxfuPKGuaTgP7aM0Bbdwr,,2019-08-23,178427,,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994
+Style (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,1hjRhYpWyqDpPahmSlUTlc,,2023-10-26,231000,,0.575,0.824,2,-4.823,1,0.038,0.000418,0.0214,0.0901,0.292,94.971
+Love Story (Taylor’s Version),Taylor Swift,Love Story (Taylor’s Version),4j2syEjl3h1To8KbRgvmJn,3CeCwYWvdfXbZLXFhBrbnf,,2021-02-12,235767,,0.626,0.79,2,-4.302,1,0.0311,0.135,3.97e-06,0.0989,0.416,119.082
+Blank Space (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,45wMBGri1PORPjM9PwFfrS,,2023-10-26,231833,,0.737,0.725,0,-5.417,1,0.0641,0.0976,0.0,0.174,0.755,96.012
+You’re Losing Me (From The Vault),Taylor Swift,You're Losing Me (From The Vault),5q3jthpn2h59P7pe2gmAl7,3CWq0pAKKTWb0K4yiglDc4,,2023-11-29,277832,,0.747,0.391,0,-13.767,1,0.052,0.529,0.003,0.111,0.195,102.984
+Christmas Tree Farm,Taylor Swift,Christmas Tree Farm,5JnnrTE35MQagEnEkFthiF,2mvabkN1i2gLnGAPUVdwek,,2019-12-06,228027,,0.598,0.68,7,-4.505,1,0.0331,0.06,0.0,0.324,0.437,134.002
+Anti-Hero,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,0V3wPSX9ygBnCm8psDIegu,,2022-10-21,200690,,0.637,0.643,4,-6.571,1,0.0519,0.13,1.8e-06,0.142,0.533,97.008
+You Belong With Me (Taylor’s Version),Taylor Swift,Fearless (Taylor’s Version): The I Remember What You Said Last Night Chapter,0XCoR1j5Sa2su9uDS9AScR,4P7LVHDbzn7aI6wWRh5AHc,,2021-05-24,231124,,0.632,0.773,6,-4.856,1,0.0346,0.0623,0.0,0.0885,0.474,130.033
+Lover,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,1dGr1c8CrMLDpV6mPbImSI,,2019-08-23,221307,,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534
+Karma,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,7KokYm8cMIXCsGVmUvKtqf,,2022-10-21,204852,,0.642,0.62,8,-7.091,1,0.0666,0.0734,0.0,0.483,0.0969,90.02
+Say Don't Go (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,4NioO5R9sHEZh4cGzMHyNt,,2023-10-26,279833,,0.626,0.547,4,-8.285,1,0.0342,0.0656,1.67e-05,0.149,0.192,109.946
+Wildest Dreams (Taylor's Version),Taylor Swift,Wildest Dreams (Taylor's Version),5hxKw2PurC0i1VVJMAntDU,1Ov37jtRQ2YNAe8HzfczkL,,2021-09-17,220433,,0.583,0.67,8,-7.289,1,0.0646,0.0374,0.0001,0.126,0.498,140.061
+Enchanted (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,3sW3oSbzsfecv9XoUdGs7h,,2023-07-07,353253,,0.505,0.532,8,-3.526,1,0.0265,0.012,0.0,0.149,0.216,81.907
+"""Slut!"" (Taylor's Version) (From The Vault)",Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,71BqAINEnezjQfxE4VuJfq,,2023-10-26,180381,,0.629,0.413,7,-13.178,1,0.055,0.345,7.62e-05,0.0603,0.306,77.983
+I Knew You Were Trouble (Taylor's Version),Taylor Swift,Red (Taylor's Version),6x9s2ObPdpATZgrwxsk9c0,6tNSmBKSjFV1366ASuULfZ,,2021-11-12,219760,,0.584,0.557,6,-6.371,1,0.0342,0.0129,0.0,0.0576,0.767,154.008
+New Romantics (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,2vPMoMDXxu9uX1igWZmXSG,,2023-10-26,230178,,0.651,0.855,5,-5.959,1,0.0538,0.0068,9.81e-06,0.0759,0.698,121.98
+Don’t Blame Me,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,1R0a2iXumgCiFb7HEZ7gUE,,2017-11-10,236413,,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917
+Lavender Haze,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,5jQI2r1RdgtuT8S3iG8zFC,,2022-10-21,202396,,0.733,0.436,10,-10.489,1,0.08,0.258,0.000573,0.157,0.0976,96.985
+We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,Red (Taylor's Version),6x9s2ObPdpATZgrwxsk9c0,31CdkzHnMbvJuKZvtCQfR6,,2021-11-12,193147,,0.567,0.686,7,-6.139,1,0.175,0.0317,1.86e-06,0.0732,0.716,172.014
+Out Of The Woods (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,045ZeOHPIzhxxsm8bq5kyE,,2023-10-26,235800,,0.547,0.885,0,-5.961,1,0.0418,0.000512,9.37e-05,0.39,0.192,91.992
+Mine (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,7G0gBu6nLdhFDPRLc0HdDG,,2023-07-07,231707,,0.646,0.783,7,-2.846,1,0.0356,0.00444,1.38e-06,0.171,0.49,121.08
+Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,5KD6AEm19QnMbfWpfoOHMl,,2023-10-26,146437,,0.793,0.512,0,-9.319,1,0.0338,0.186,3.81e-05,0.0889,0.0662,109.994
+All Of The Girls You Loved Before,Taylor Swift,All Of The Girls You Loved Before,1Uauz6ql2dIPvIOH4JiuhD,4P9Q0GojKVXpRTJCaL3kyy,,2019-08-23,221407,,0.718,0.467,2,-9.66,1,0.0398,0.707,6.92e-05,0.126,0.396,95.96
+Delicate,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,6NFyWDv5CjfwuzoCkw47Xf,,2017-11-10,232253,,0.75,0.404,9,-10.178,0,0.0682,0.216,0.000357,0.0911,0.0499,95.045
+I Can See You (Taylor’s Version) (From The Vault),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,5kHMfzgLZP95O9NBy0ku4v,,2023-07-07,273186,,0.694,0.764,6,-4.893,1,0.0337,0.0586,0.0,0.0608,0.819,123.044
+Shake It Off (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,3pv7Q5v2dpdefwdWIvE7yH,,2023-10-26,219209,,0.632,0.807,7,-5.676,1,0.0738,0.0103,1.27e-05,0.29,0.921,160.055
+Midnight Rain,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,3rWDp9tBPQR9z6U5YyRSK4,,2022-10-21,174783,,0.643,0.363,0,-11.738,1,0.0767,0.69,5.17e-05,0.115,0.23,139.865
+august,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,3hUxzQpSfdDqwM3ZTFQY0K,,2020-07-24,261923,,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937
+Bad Blood (feat. Kendrick Lamar) (Taylor's Version),"Taylor Swift, Kendrick Lamar",1989 (Taylor's Version) [Deluxe],1o59UpKw81iHR0HPiSkJR0,6qAcApH8obo8eqatCKUHd9,,2023-10-27,199773,,0.602,0.648,2,-6.905,1,0.103,0.0104,0.0,0.217,0.174,170.091
+cardigan,Taylor Swift,folklore,2fenSS68JI1h4Fo296JfGr,4R2kfaDFhslZEMJqAFNpdd,,2020-07-24,239560,,0.613,0.581,0,-8.588,0,0.0424,0.537,0.000345,0.25,0.551,130.033
+22 (Taylor's Version),Taylor Swift,Red (Taylor's Version),6x9s2ObPdpATZgrwxsk9c0,2T9WeqSMJJb8YBDHPYGU4p,,2021-11-12,230960,,0.642,0.695,7,-5.62,1,0.0281,0.000443,1.02e-05,0.0753,0.642,103.984
+Look What You Made Me Do,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,1P17dC1amhFzptugyAO7Il,,2017-11-10,211853,,0.766,0.709,9,-6.471,0,0.123,0.204,1.41e-05,0.126,0.506,128.07
+Back To December (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,79uDOz0zuuWS7HWxzMmTa2,,2023-07-07,294190,,0.497,0.635,2,-3.927,1,0.0273,0.00621,0.0,0.117,0.203,142.063
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),6kZ42qRrzov54LcAk4onW9,5enxwA8aAbwZbf5qCHORXi,,2021-11-12,613027,,0.631,0.518,0,-8.771,1,0.0303,0.274,0.0,0.088,0.205,93.023
+Welcome To New York (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,1hR8BSuEqPCCZfv93zzzz9,,2023-10-26,212600,,0.761,0.607,7,-4.83,1,0.0312,0.00961,2.24e-05,0.367,0.674,116.98
+Snow On The Beach (feat. More Lana Del Rey),"Taylor Swift, Lana Del Rey",Midnights (The Til Dawn Edition),1fnJ7k0bllNfL1kVdNVW1A,4zmKGsrXjLmljb5fTaBTot,,2023-05-26,229943,,0.664,0.401,6,-10.934,0,0.0344,0.806,3.5e-06,0.108,0.315,109.846
+Mean (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,30Y4CV7A6YqtQtTTo7Ue4j,,2023-07-07,238693,,0.524,0.692,4,-3.866,1,0.0369,0.311,0.0,0.192,0.621,163.874
+Clean (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,2ByBBvpR9b7IynvRmnG7kG,,2023-10-26,271000,,0.771,0.386,4,-8.917,1,0.0297,0.276,2.01e-05,0.121,0.239,103.96
+Hits Different,Taylor Swift,Midnights (The Til Dawn Edition),1fnJ7k0bllNfL1kVdNVW1A,3xYJScVfxByb61dYHTwiby,,2023-05-26,234467,,0.672,0.782,5,-6.499,1,0.0421,0.148,4.73e-06,0.296,0.239,106.026
+Getaway Car,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,0VE4kBnHJUgtMf0dy6DRmW,,2017-11-10,233627,,0.562,0.689,2,-6.745,1,0.127,0.00465,2.23e-06,0.0888,0.351,172.054
+All You Had To Do Was Stay (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,6GXgd1BPD9bUpqw5AntGV5,,2023-10-26,193289,,0.586,0.72,0,-5.556,1,0.035,0.000718,0.0,0.0949,0.481,97.057
+Bejeweled,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,3qoftcUZaUOncvIYjFSPdE,,2022-10-21,194166,,0.696,0.559,7,-9.19,1,0.0693,0.0618,5.58e-05,0.0887,0.433,163.999
+willow,Taylor Swift,evermore,2Xoteh7uEpea4TohMxjtaq,0lx2cLdOt3piJbcaXIV74f,,2020-12-11,214707,,0.392,0.574,7,-9.195,1,0.17,0.833,0.00179,0.145,0.529,81.112
+Paper Rings,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,4y5bvROuBDPr5fuwXbIBZR,,2019-08-23,222400,,0.811,0.719,9,-6.553,1,0.0497,0.0129,1.36e-05,0.0742,0.865,103.979
+I Wish You Would (Taylor's Version),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,43y1WpBdnEy5TR9aZoSQL9,,2023-10-26,207650,,0.669,0.851,0,-6.526,1,0.0432,0.00357,1.04e-05,0.0676,0.541,118.026
+Dear John (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,1zU8j1x3yi9xalMF96pzKp,,2023-07-07,405907,,0.419,0.47,4,-5.016,1,0.0296,0.0236,0.0,0.163,0.133,119.294
+"You're On Your Own, Kid",Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,4D7BCuvgdJlYvlX5WlN54t,,2022-10-21,194207,,0.696,0.396,2,-10.289,1,0.0656,0.401,5.2e-06,0.125,0.38,120.041
+The Man,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,3RauEVgRgj1IuWdJ9fDs70,,2019-08-23,190360,,0.777,0.658,0,-5.191,1,0.054,0.0767,0.0,0.0901,0.633,110.048
+Better Than Revenge (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,0NwGC0v03ysCYINtg6ns58,,2023-07-07,220307,,0.496,0.885,11,-2.969,0,0.0803,0.000886,0.0,0.191,0.665,145.863
+You Need To Calm Down,Taylor Swift,Lover,1NAmidJlEaVgA3MpcPFYGq,6RRNNciQGZEXnqk8SQ9yv5,,2019-08-23,171360,,0.771,0.671,2,-5.617,1,0.0553,0.00929,0.0,0.0637,0.714,85.026
+If This Was A Movie (Taylor’s Version),Taylor Swift,If This Was A Movie (Taylor’s Version),6IZm7NfvWyXp952VF36Z5F,0kAZ3H6G9Zac4PMpmobMkj,,2021-04-09,237022,,0.472,0.701,4,-3.72,1,0.0279,0.091,0.0,0.23,0.304,147.854
+Suburban Legends (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version),64LU4c1nfjz1t4VnGhagcg,6T0sEnqjmHISIKwFETeeiP,,2023-10-26,171819,,0.699,0.621,0,-8.739,1,0.0369,0.198,0.0,0.104,0.344,118.048
+Foolish One (Taylor’s Version) (From The Vault),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,4s8BIKx4Zh6ryAEz8RTlaU,,2023-07-07,311765,,0.671,0.588,7,-4.675,1,0.0299,0.617,0.0,0.111,0.543,96.965
+Maroon,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,3eX0NZfLtGzoLUxPNvRfqm,,2022-10-21,218271,,0.637,0.398,7,-8.294,1,0.0564,0.0573,1.03e-06,0.101,0.0374,108.075
+When Emma Falls in Love (Taylor’s Version) (From The Vault),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,0zo975x58DlXbZllWvfYhg,,2023-07-07,252386,,0.474,0.763,2,-4.632,1,0.0505,0.159,0.0,0.138,0.231,78.133
+Vigilante Shit,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,1xwAWUI6Dj0WGC3KiUPN0O,,2022-10-21,164801,,0.798,0.277,4,-11.096,0,0.39,0.173,5.25e-05,0.121,0.163,79.846
+Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),"Taylor Swift, Fall Out Boy",Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,4e3ZNTAV6PCrdYMUrUlMpQ,,2023-07-07,266467,,0.547,0.855,7,-4.7,1,0.0597,0.0164,0.0,0.144,0.282,131.073
+Mastermind,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,7FmYn9e7KHMXcxqGSj9LjH,,2022-10-21,191039,,0.662,0.357,4,-14.064,1,0.154,0.553,0.00129,0.0837,0.124,125.966
+Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Taylor Swift,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),2MbdQUj7tAaaBBhUwJE3KG,7l2tmgUhV7Y2aJHjiszifg,,2021-04-07,277592,,0.661,0.819,11,-6.269,0,0.0519,0.167,0.0,0.0647,0.724,135.937
+Long Live (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,4hqJ4bSlYJOXb6Z4SRmzxs,,2023-07-07,317960,,0.375,0.65,0,-4.031,1,0.0402,0.0122,0.0,0.189,0.0752,203.89
+The Great War,Taylor Swift,Midnights (3am Edition),3lS1y25WAhcqJDATJK70Mq,3UMrglJeju5yWyYIW6o99b,,2022-10-22,240356,,0.573,0.741,5,-8.987,1,0.0353,0.219,2.23e-05,0.0842,0.554,96.016
+Safe & Sound (feat. Joy Williams and John Paul White) (Taylor’s Version),"Taylor Swift, Joy Williams, John Paul White",Safe & Sound (Taylor's Version),4eZKjfeKPSwd6NYsmlKjuR,2RJnNdu4pb3MypbBroHU0T,,2021-11-12,239668,,0.41,0.312,7,-11.01,1,0.0269,0.783,6.36e-06,0.0783,0.22,144.751
+Timeless (Taylor’s Version) (From The Vault),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,1HCdems7PQZRj42QDWLA0A,,2023-07-07,321397,,0.624,0.585,3,-5.847,1,0.0328,0.3,0.0,0.0916,0.65,142.883
+The Way I Loved You (Taylor’s Version),Taylor Swift,Fearless (Taylor's Version),4hDok0OAJd57SGIT8xuWJH,22bPsP2jCgbLUvh82U0Z3M,,2021-04-09,243137,,0.402,0.732,5,-4.665,1,0.0484,0.0033,0.0,0.108,0.472,161.032
+Gorgeous,Taylor Swift,reputation,6DEjYFkNZh67HP7R9PSZvv,1ZY1PqizIl78geGM4xWlEA,,2017-11-10,209680,,0.8,0.535,7,-6.684,1,0.135,0.0713,9.48e-06,0.213,0.451,92.027
+The Story Of Us (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),5AEDGbliTTfjOB8TSm1sxt,6dTA6y0C2ReQklntzZl8l3,,2023-07-07,267653,,0.515,0.781,4,-2.608,1,0.0535,0.00192,0.0,0.054,0.57,139.846
+Question...?,Taylor Swift,Midnights,151w1FgRZfnKZA9FEcg9Z3,0heeNYlwOGuUSe7TgUD27B,,2022-10-21,210557,,0.751,0.502,7,-8.763,1,0.167,0.2,0.0,0.296,0.106,108.943
+The Rumbling,SiM,The Rumbling,6WNTfLApSKQPPlqWHwgLq8,5JJKkuYGj99dfws5MiiJSR,,2022-02-07,220799,,0.459,0.878,5,-1.399,0,0.0688,5.62e-05,0.000307,0.371,0.494,144.852
+Under the Tree,SiM,Under the Tree,7wQyvP7maIKn0uTGr66eI3,7qKXSF8MilgyiL52oq1AA0,,2023-03-04,121692,,0.272,0.888,11,-1.757,0,0.068,0.00413,0.0,0.232,0.637,159.893
+Devil in Your Heart,SiM,"THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",1NqQpcihfQEtMLJ3pz8Wi3,3w8qOAwbHF6zYeYT7pj7DI,,2020-06-17,186027,,0.542,0.94,8,-0.713,1,0.0628,0.000737,0.0,0.133,0.765,120.053
+RED,SiM,RED,6jS6EMy8bdawl6dbBzag1X,66Rl6HThnoHCRRVCUbslIG,,2023-07-13,234159,,0.552,0.919,6,-1.379,1,0.0621,0.0029,0.0,0.0779,0.61,90.021
+KiLLiNG ME,SiM,SEEDS OF HOPE,47kmsCirEp0h93kZyTu4T5,1yDYJ7npSt07XLLOKGVkd6,,2011-10-12,175386,,0.381,0.945,5,-2.741,1,0.127,5.77e-05,0.00109,0.135,0.64,104.154
+EXiSTENCE,SiM,THE BEAUTiFUL PEOPLE,5GZMmsnK1viNAVvxIBB98A,4NOO855YQh16AF5FhhO41L,,2016-04-06,244427,,0.522,0.961,8,-2.963,1,0.0504,0.000109,2.53e-05,0.329,0.6,93.937
+Blah Blah Blah,SiM,PANDORA,3TtVUKmo06v25fMePfgKIk,71mE84b1tlwHSEQIYWOsjt,,2013-11-20,228120,,0.283,0.937,5,-3.766,0,0.0967,0.00113,0.00115,0.183,0.528,169.276
+SWEET DREAMS,SiM,PLAYDEAD,2KyzFbwIJu1JBkcZsdXbl0,2nWm1F041PLDHAFcKTiuf1,,2023-09-27,210946,,0.531,0.941,2,-1.13,1,0.135,0.00709,0.0,0.309,0.851,186.056
+BASEBALL BAT,SiM,"THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",1NqQpcihfQEtMLJ3pz8Wi3,33XeR9aWBw5iTZYkqIaOI2,,2020-06-17,246347,,0.47,0.984,0,-0.739,1,0.0547,0.000271,0.0,0.086,0.404,89.984
+GUNSHOTS,SiM,THE BEAUTiFUL PEOPLE,5GZMmsnK1viNAVvxIBB98A,182mGVc0KUeiWSuLSxDVux,,2016-04-06,229867,,0.574,0.935,0,-3.899,0,0.0651,0.00497,4.16e-06,0.319,0.802,76.497
+PANDORA,SiM,PANDORA,3TtVUKmo06v25fMePfgKIk,1sYs029qZ3SScza0CLENMp,,2013-11-20,88680,,0.462,0.965,5,-2.343,0,0.0918,4.99e-05,0.827,0.336,0.554,117.669
+PLAYDEAD,SiM,PLAYDEAD,2KyzFbwIJu1JBkcZsdXbl0,1c4hhwfHiqpjYXDO9tLXOf,,2023-09-27,120986,,0.532,0.888,0,-2.129,1,0.0587,7.44e-05,1.97e-05,0.0197,0.332,85.089
+Ａ,SiM,A,043ZPXFPotTR0yjuQ7cCKf,77shkefXyUkPU45nis6XkK,,2017-12-06,237733,,0.482,0.963,2,-2.042,0,0.0981,0.000639,0.000154,0.311,0.295,93.927
+MAKE ME DEAD!,SiM,THE BEAUTiFUL PEOPLE,5GZMmsnK1viNAVvxIBB98A,737XfNYZZEXtztAT3pg2Pz,,2016-04-06,237107,,0.592,0.957,3,-2.011,0,0.0787,0.00567,1.27e-06,0.597,0.619,99.99
+Amy,SiM,LiFE and DEATH,6aIhqRBMrxvM8lKXI7gZF4,0VRwc8GyHClVaxDssiXuSf,,2012-05-02,218067,,0.418,0.882,2,-4.263,1,0.14,0.000453,0.0,0.342,0.574,95.147
+HiDE and SEEK,SiM,PLAYDEAD,2KyzFbwIJu1JBkcZsdXbl0,2tyBPxSlHbkZLi1P3b2WLA,,2023-09-27,217972,,0.589,0.967,1,-1.768,0,0.109,0.00647,1.39e-06,0.311,0.583,97.035
+LET iT END,SiM,"THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",1NqQpcihfQEtMLJ3pz8Wi3,6UWv4TvHv7TyjmQiwjcTnM,,2020-06-17,194867,,0.536,0.986,3,-1.819,0,0.0859,0.000245,3.77e-06,0.127,0.353,106.991
+f.a.i.t.h,SiM,EViLS,7xwfxs1mzKHby7UBgbQ98j,4k9JMcindoOU3r4A296oKO,,2013-01-01,102120,,0.303,0.928,7,-4.78,1,0.144,0.000445,0.00267,0.467,0.204,123.549
+WHO'S NEXT,SiM,PANDORA,3TtVUKmo06v25fMePfgKIk,3FW0tPKg7QhnQTrm0N1laq,,2013-11-20,255573,,0.512,0.943,9,-2.762,1,0.108,0.000527,0.00459,0.143,0.477,91.089
+Die Alone,SiM,PLAYDEAD,2KyzFbwIJu1JBkcZsdXbl0,1rQ8Gwylv888X4jTodgvIi,,2023-09-27,137066,,0.562,0.992,0,-1.285,0,0.0787,0.00183,0.0,0.17,0.607,95.055
+CROWS,SiM,THE BEAUTiFUL PEOPLE,5GZMmsnK1viNAVvxIBB98A,27V3VIiOytoNo8rIldqMe0,,2016-04-06,229880,,0.565,0.969,4,-3.553,0,0.111,0.000354,0.0169,0.0734,0.662,119.089
+Jack. B,SiM,LIVING IN PAiN,0PfDA5jkTH9fhrwyzurFq1,2aUnm2VsuoYMvuCng6QDNb,,2010-10-06,238480,,0.583,0.878,6,-4.992,0,0.195,8e-05,2.28e-06,0.32,0.787,90.001
+Faster Than The Clock,SiM,SEEDS OF HOPE,47kmsCirEp0h93kZyTu4T5,68HLhUqDR1ypKaeCdCJnfc,,2011-10-12,152760,,0.436,0.908,8,-3.651,1,0.0862,0.000251,0.00194,0.396,0.664,103.454
+KiSS OF DEATH,SiM,PLAYDEAD,2KyzFbwIJu1JBkcZsdXbl0,4ZSB6whqtb9tEJfU0DXnWN,,2023-09-27,232359,,0.572,0.929,7,-1.703,0,0.039,0.00306,0.0,0.117,0.837,159.92
+DiAMOND,SiM,"THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",1NqQpcihfQEtMLJ3pz8Wi3,3WnMtJLc5oASMN0EvLD1Lr,,2020-06-17,226320,,0.172,0.991,2,-1.33,1,0.129,1.57e-05,0.00158,0.195,0.316,75.82
+Dance In The Dark,SiM,THE BEAUTiFUL PEOPLE,5GZMmsnK1viNAVvxIBB98A,4zuWy6YfSDMcSYpEbwK8nl,,2016-04-06,242107,,0.607,0.947,8,-2.899,0,0.175,0.00143,1.84e-05,0.139,0.708,94.005
+Fall In Love With You,SiM,SEEDS OF HOPE,47kmsCirEp0h93kZyTu4T5,0gJLyrotVfqsremyI0kBVm,,2011-10-12,218146,,0.432,0.947,7,-3.438,1,0.104,0.000329,0.0044,0.253,0.651,175.829
+BBT,SiM,PLAYDEAD,2KyzFbwIJu1JBkcZsdXbl0,4rLjFp0NP9HZMT2p6onyEV,,2023-09-27,210919,,0.514,0.967,10,-1.883,0,0.103,0.000979,0.0,0.359,0.803,176.064
+SAND CASTLE,"SiM, AKKOGORILLA","THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",1NqQpcihfQEtMLJ3pz8Wi3,6ofDpIec2dSq7fuX1M3y3a,,2020-06-17,248267,,0.635,0.942,8,-2.076,1,0.0525,0.000309,2.15e-06,0.1,0.633,105.02
+Dreaming Dreams,SiM,PANDORA,3TtVUKmo06v25fMePfgKIk,1cRqpPbxqftiI2AMWbAaZt,,2013-11-20,121547,,0.515,0.985,8,-2.852,1,0.145,0.00154,6.93e-06,0.324,0.357,118.017
+I Hate U (It's Not A Play On Words),SiM,SEEDS OF HOPE,47kmsCirEp0h93kZyTu4T5,1qXFiJZeExNVKo5ou8rKzs,,2011-10-12,178693,,0.44,0.926,1,-3.586,0,0.132,0.000379,0.000215,0.685,0.491,121.844
+FXXKFXXKFXXK,SiM,Beware,3yXRbwxo1mnwFLAiA9Heo5,5T2UxOyuVvII4WonBt1XW0,,2022-09-21,145200,,0.567,0.968,10,-1.729,1,0.073,0.00299,0.0,0.174,0.618,125.007
+No One Knows,SiM,"THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",1NqQpcihfQEtMLJ3pz8Wi3,7FXrbdUOQFns9FocrgJvKQ,,2020-06-17,230040,,0.364,0.993,2,-0.457,1,0.198,0.000209,1.56e-06,0.0709,0.215,178.35
+Rosso & Dry,SiM,PANDORA,3TtVUKmo06v25fMePfgKIk,3rAJ3xAY7UsbIZj633F5Vx,,2013-11-20,299387,,0.511,0.821,7,-3.53,0,0.0263,0.00528,0.00191,0.304,0.603,163.946
+SUCCUBUS,SiM,SEEDS OF HOPE,47kmsCirEp0h93kZyTu4T5,3Abl0OEGr9I8ZKKUOGVtXD,,2011-10-12,169866,,0.5,0.975,5,-3.998,1,0.143,0.000291,0.000174,0.338,0.417,118.044
+"Get Up, Get Up",SiM,LiFE and DEATH,6aIhqRBMrxvM8lKXI7gZF4,0e1b8OS1DhOSxRYvLRwvrq,,2012-05-02,235907,,0.245,0.919,5,-3.51,0,0.195,0.000413,0.00255,0.187,0.344,155.211
+Treasures,SiM,Beware,3yXRbwxo1mnwFLAiA9Heo5,5UGVnMGMsJosfxDBkTyBsq,,2022-09-21,222573,,0.502,0.962,0,-1.909,1,0.108,0.00689,0.0,0.314,0.703,180.087
+Fallen Idols,SiM,i AGAINST i,3vDwjXV8irmHMwtaKAHk8F,7Bz9bXnh91eKgetcwTlJEP,,2014-10-01,256000,,0.335,0.899,5,-3.36,0,0.065,0.00647,2.99e-06,0.353,0.73,89.54
+I'm Alright,SiM,SEEDS OF HOPE,47kmsCirEp0h93kZyTu4T5,3XZiKWlhZhKaIBvch1GRzm,,2011-10-12,167546,,0.545,0.908,7,-3.961,1,0.0601,5.78e-05,0.0657,0.308,0.835,95.024
+Same Sky,SiM,EViLS,7xwfxs1mzKHby7UBgbQ98j,1DoCoZ7ndhxwRyJ2YBTCyv,,2013-01-01,270533,,0.512,0.854,0,-5.068,1,0.0413,0.00167,0.000668,0.145,0.536,82.003
+THE KiNG,SiM,THE BEAUTiFUL PEOPLE,5GZMmsnK1viNAVvxIBB98A,0KU60Aw7mEcsadvJNVnDHE,,2016-04-06,200360,,0.526,0.974,4,-3.079,0,0.104,0.000405,0.000261,0.187,0.489,200.118
+"Boring People, Fucking Grays",SiM,PANDORA,3TtVUKmo06v25fMePfgKIk,68AGCurKTDxaSVwBeelzDt,,2013-11-20,204547,,0.551,0.977,1,-3.261,1,0.0969,0.000869,0.107,0.833,0.441,91.493
+T X H X C,SiM,Silence iz Mine,6mogcrDgtlUvRYK5GRlkcc,4eRV7lTq8X5uOSZIwV5n1W,,2008-06-25,153520,,0.395,0.894,2,-6.385,1,0.0696,0.00014,0.000435,0.155,0.793,92.554
+PSYCHO,SiM,CROWS,6vMbbZYmyAYuiTyIkZetBy,7ko5UW2pde1FRpiAbrYKNN,,2015-10-07,290573,,0.444,0.973,2,-3.767,0,0.226,0.000684,0.0,0.249,0.433,94.82
+RiOT,SiM,i AGAINST i,3vDwjXV8irmHMwtaKAHk8F,59i1Xdul6yg5YRkUMkTrs5,,2014-10-01,134627,,0.492,0.951,5,-3.792,1,0.125,0.00572,3.03e-06,0.572,0.671,176.168
+Millions of Stones,SiM,ANGELS and DEViLS,7cxOrrqpXR1uor6XDCYdZh,2grwUwyaTTI1yP8AKq2Dxr,,2015-06-10,226547,,0.392,0.953,0,-3.263,1,0.101,0.000199,0.0,0.0498,0.484,196.024
+Set Me Free,SiM,Silence iz Mine,6mogcrDgtlUvRYK5GRlkcc,4aRiTaYKgug1N0pIbOybHU,,2008-06-25,242613,,0.319,0.936,2,-6.227,1,0.215,0.00259,0.000721,0.352,0.639,190.111
+Light It Up,SiM,Light It Up,0uAuIWSSbAmIxK4omHsljd,27H9AHFWDxMjxbUzIAzqwg,,2022-09-09,190280,,0.568,0.966,11,-1.27,0,0.077,0.0105,0.0,0.286,0.464,95.02
+IKAROS,SiM,i AGAINST i,3vDwjXV8irmHMwtaKAHk8F,2RNBov7uMA3T67ThPEUwbN,,2014-10-01,206787,,0.338,0.956,3,-3.85,0,0.148,0.000737,0.00242,0.115,0.367,106.951
+Paint Sky Blue,SiM,Silence iz Mine,6mogcrDgtlUvRYK5GRlkcc,3z56KhWYn9asD6tURaREn8,,2008-06-25,217667,,0.338,0.569,5,-7.885,0,0.0866,7.82e-05,0.003,0.0695,0.484,162.293
+Diggy Diggy Hole,Wind Rose,Wintersaga,41qphLDtonmyZmvO5gnoui,0FDY2EHOv32kUoqplU1hdY,,2019-09-27,315986,,0.311,0.942,8,-5.175,1,0.0483,0.000206,0.238,0.158,0.651,125.006
+Fellows of the Hammer,Wind Rose,Warfront,5Jf1NavkE0nEpzo2rnjMrL,2RyG06POk4ybd4B0CZC02k,,2022-06-10,375595,,0.511,0.986,11,-5.586,0,0.0627,0.00012,0.476,0.487,0.236,115.016
+To Erebor,Wind Rose,Stonehymn,5PCLUEccjjF6AgoBNhrq2O,5cVwaW5DaEUrTKiZxdOxaT,,2017-05-26,313800,,0.489,0.965,2,-4.597,0,0.106,0.012,0.0016,0.12,0.314,107.946
+The Slave and the Republic,Wind Rose,Wardens of the West Wind (Mastering 2022),2WyzfEVvthTvdWOOj3dBOm,3qpWcHVspZAyHaqcOOd27E,,2022-11-04,64987,,0.243,0.559,7,-13.68,0,0.0383,0.00447,0.844,0.851,0.191,149.95
+Mine Mine Mine!,Wind Rose,Wintersaga,41qphLDtonmyZmvO5gnoui,2dDCZgcFGl9yj3ZEmaQM6x,,2019-09-27,313723,,0.21,0.933,7,-4.893,1,0.0604,2.06e-05,0.266,0.597,0.327,187.56
+Army of Stone,Wind Rose,Warfront,5Jf1NavkE0nEpzo2rnjMrL,1hOCeFetInJTLT7KeJ4ZsB,,2022-06-10,305783,,0.501,0.991,5,-5.791,0,0.0441,3.01e-05,0.0229,0.381,0.274,113.004
+Distant Battlefields,Wind Rose,Stonehymn,5PCLUEccjjF6AgoBNhrq2O,55xZyHwS6WkIPYjwHsoHzX,,2017-05-26,82907,,0.506,0.658,10,-12.557,0,0.242,0.138,0.932,0.703,0.742,79.839
+Where Dawn and Shadows Begin,Wind Rose,Wardens of the West Wind (Mastering 2022),2WyzfEVvthTvdWOOj3dBOm,3NwbRKSOVchY91nZbxD0T2,,2022-11-04,86320,,0.369,0.417,0,-13.076,0,0.0367,0.028,0.893,0.225,0.301,175.057
+Drunken Dwarves,Wind Rose,Wintersaga,41qphLDtonmyZmvO5gnoui,4qxK1lnNoYm1kevG69mhHU,,2019-09-27,272767,,0.444,0.958,0,-4.65,1,0.0509,1.68e-05,0.271,0.358,0.677,160.017
+Together We Rise,Wind Rose,Warfront,5Jf1NavkE0nEpzo2rnjMrL,1OMplIvNpCVCYirUTXF07d,,2022-06-10,302629,,0.581,0.968,5,-5.749,0,0.042,0.000151,0.666,0.0599,0.605,120.013
+Werewolves of Armenia,Wind Rose,Interludium (Deluxe Version),6GT4LxMljVb8iEe4G3vgJk,2iwoOmHKSeNktey8m1CCvT,,2023-04-07,377733,,0.444,0.973,1,-5.662,0,0.0565,1.88e-05,0.0591,0.257,0.204,145.989
+Siderion,Wind Rose,Shadows Over Lothadruin (Mastering 2022),4mZ5mhPvQfrY6vLfhoxAym,7eedc4vz7QesxWTvjvbwDS,,2022-11-04,260840,,0.433,0.913,7,-6.878,1,0.0569,0.000258,0.00202,0.401,0.194,98.959
+Wintersaga,Wind Rose,Wintersaga,41qphLDtonmyZmvO5gnoui,0GF5cdbcSmmNQoxvHtQtlC,,2019-09-27,311869,,0.487,0.969,0,-4.27,1,0.0625,5.71e-06,0.611,0.339,0.274,114.992
+Gates of Ekrund,Wind Rose,Warfront,5Jf1NavkE0nEpzo2rnjMrL,7hx4Fr1vbGmKd0IYOmBIqr,,2022-06-10,353164,,0.361,0.987,5,-5.359,0,0.142,0.000131,0.0234,0.0841,0.219,179.951
+The Breed of Durin,Wind Rose,Wardens of the West Wind (Mastering 2022),2WyzfEVvthTvdWOOj3dBOm,6ntVlLXMXvbX1QINLnNMNv,,2022-11-04,370253,,0.434,0.853,11,-7.238,1,0.0426,0.000195,0.00109,0.0675,0.36,180.047
+Awakening,Wind Rose,Shadows Over Lothadruin (Mastering 2022),4mZ5mhPvQfrY6vLfhoxAym,75Gnt0LsOhifqhoPmowHSe,,2022-11-04,158733,,0.238,0.406,4,-14.644,0,0.0344,0.0217,0.873,0.448,0.0521,123.183
+The King Under the Mountain,Wind Rose,Wintersaga,41qphLDtonmyZmvO5gnoui,4K9Tp3c635iPtzgJDfjNc1,,2019-09-27,334925,,0.446,0.949,1,-5.039,0,0.0567,1.1e-05,0.709,0.116,0.312,94.99
+Tales of War,Wind Rose,Warfront,5Jf1NavkE0nEpzo2rnjMrL,3n14qqc4XY4ncMPDQbfpto,,2022-06-10,284908,,0.4,0.988,11,-5.181,0,0.0684,7.46e-06,0.697,0.0974,0.503,75.01
+The Animist,Wind Rose,Stonehymn,5PCLUEccjjF6AgoBNhrq2O,2fJCZPvpzjnzxsd74jC3ku,,2017-05-26,85320,,0.517,0.756,0,-12.114,1,0.0356,0.0726,0.728,0.202,0.502,129.919
+Heavenly Minds,Wind Rose,Wardens of the West Wind (Mastering 2022),2WyzfEVvthTvdWOOj3dBOm,3nVi1Eo6IT1i70mb3WYJyJ,,2022-11-04,314293,,0.441,0.904,2,-7.818,1,0.0505,6.62e-05,0.039,0.131,0.359,155.042
+The Art of War,Wind Rose,Wintersaga,41qphLDtonmyZmvO5gnoui,4Yp2OFqM6iHTErzCUiQFdZ,,2019-09-27,349733,,0.522,0.942,0,-4.883,1,0.0368,1.28e-05,0.914,0.0543,0.487,119.978
+One Last Day,Wind Rose,Warfront,5Jf1NavkE0nEpzo2rnjMrL,4ONU89vcoea41MavhYnbhZ,,2022-06-10,389153,,0.367,0.982,0,-5.335,1,0.114,9.37e-05,0.242,0.614,0.151,195.075
+The Wolves' Call,Wind Rose,Stonehymn,5PCLUEccjjF6AgoBNhrq2O,60pOi8s2HyzdKVY4t0bZ1p,,2017-05-26,306240,,0.439,0.971,2,-4.319,0,0.0931,0.0247,2.05e-05,0.158,0.343,85.033
+The Endless Prophecy,Wind Rose,Shadows Over Lothadruin (Mastering 2022),4mZ5mhPvQfrY6vLfhoxAym,0yh38xfw3K2PYJEu9AnbSJ,,2022-11-04,293613,,0.524,0.914,4,-7.771,1,0.0548,0.000226,8.1e-05,0.105,0.411,125.932
+The Age of Conquest,Wind Rose,Wardens of the West Wind (Mastering 2022),2WyzfEVvthTvdWOOj3dBOm,2xPe3ZhLCVtzwGDUfYX0lW,,2022-11-04,386240,,0.367,0.878,5,-7.629,0,0.0463,7.73e-05,0.0419,0.201,0.375,174.981
+The Returning Race - Single Version,Wind Rose,The Returning Race,4YmMPX2V0dGUFXXSSqJev5,5CAf21gGmO1v2o0c6kHWIG,,2017-10-16,394375,,0.303,0.943,11,-5.746,0,0.103,0.113,4.07e-06,0.11,0.447,99.988
+Fallen Timbers,Wind Rose,Stonehymn,5PCLUEccjjF6AgoBNhrq2O,6Zoe9nLM6TGE3pFLivceCV,,2017-05-26,385160,,0.379,0.964,0,-5.272,1,0.205,0.0343,0.000658,0.449,0.337,179.994
+The Fourth Vanguard,Wind Rose,Shadows Over Lothadruin (Mastering 2022),4mZ5mhPvQfrY6vLfhoxAym,5YsTy5gtgZOJNytJUp2JVj,,2022-11-04,395573,,0.426,0.808,0,-7.409,1,0.0492,9.54e-05,0.00172,0.11,0.26,82.427
+Spartacus,Wind Rose,Wardens of the West Wind (Mastering 2022),2WyzfEVvthTvdWOOj3dBOm,0gQpO9HlAKdGgZiYcBkjWx,,2022-11-04,402493,,0.419,0.888,5,-7.642,0,0.0563,0.000131,0.00245,0.229,0.205,150.009
+Son of a Thousand Nights,Wind Rose,Son of a Thousand Nights,65pJa6NQa7HLnjNJayElOh,4CVpmQlzQLDjfPiIUmMD8d,,2022-09-21,292413,,0.462,0.673,11,-7.63,0,0.0352,0.0565,3.31e-06,0.104,0.15,118.046
+Dance of Fire,Wind Rose,Stonehymn,5PCLUEccjjF6AgoBNhrq2O,0uxNXSBHijVoLaAJsa9kXs,,2017-05-26,407173,,0.391,0.97,10,-5.209,0,0.182,0.0367,0.00193,0.233,0.202,159.969
+Majesty,Wind Rose,Shadows Over Lothadruin (Mastering 2022),4mZ5mhPvQfrY6vLfhoxAym,57poio2ayH9VvX9e6oyJ5s,,2022-11-04,578947,,0.304,0.775,7,-8.394,1,0.0395,0.000931,0.0143,0.156,0.298,131.978
+Led By Light,Wind Rose,Shadows Over Lothadruin (Mastering 2022),4mZ5mhPvQfrY6vLfhoxAym,1SygvIXNXeCG4VeSyGhcD9,,2022-11-04,427600,,0.229,0.887,2,-7.083,1,0.0577,0.00156,0.00138,0.148,0.328,140.958
+Winter Wonderland - Spotify Singles Holiday,Laufey,Spotify Singles Holiday,1Ph9nV8cNv7Gq7yHOlmbgh,1LmkdWSxjCV7wKTPsCvYWN,,2023-11-14,132800,,0.528,0.281,2,-9.784,1,0.037,0.839,0.0,0.0873,0.514,127.617
+Falling Behind,Laufey,Everything I Know About Love,0Ydm84ftyiWRGOIFkdl30L,4KGGeE7RJsgLNZmnxGFlOj,,2022-08-26,173640,,0.449,0.353,7,-12.986,1,0.0915,0.942,0.0786,0.109,0.55,165.888
+From The Start,Laufey,From The Start,1BOZNMzXTIkz8nUfGCxfpe,1Ukxccao1BlWrPhYkcXbwZ,,2023-05-11,169573,,0.664,0.405,1,-7.413,1,0.08,0.877,0.000765,0.11,0.743,81.89
+A Night To Remember,"beabadoobee, Laufey",A Night To Remember,73wBVA41AulgjGiL3rBwfe,180AbZduI6bYQIzwCHRwu9,,2023-10-20,233388,,0.726,0.624,2,-7.799,0,0.0277,0.498,0.0294,0.0909,0.573,114.99
+Promise,Laufey,Bewitched,1rpCHilZQkw84A3Y9czvMO,08PdFBcXzpkn1cWNgmKqhn,,2023-09-08,234267,,0.263,0.112,5,-16.55,1,0.0344,0.935,8.5e-05,0.0565,0.0903,76.244
+Valentine,Laufey,Everything I Know About Love,0Ydm84ftyiWRGOIFkdl30L,6cx5CvFhqN19efStehJqoW,,2022-08-26,168907,,0.472,0.204,3,-13.065,1,0.0452,0.917,0.0,0.107,0.224,82.51
+Let You Break My Heart Again,"Laufey, Philharmonia Orchestra",Let You Break My Heart Again,2YkyuQGoMV2FlG7mFprnRf,709p9UGPAuyImWf1Z3vjRo,,2021-08-13,269067,,0.299,0.142,2,-15.134,1,0.0369,0.965,0.113,0.111,0.123,76.748
+I Wish You Love,Laufey,Typical of Me EP,7pooeoqY4uJkTaW70qxm3z,5zHLswJplBXyPstFSSMIOH,,2021-04-30,155139,,0.736,0.376,0,-9.48,1,0.0324,0.837,3.48e-06,0.151,0.633,108.066
+Lovesick,Laufey,Bewitched,1rpCHilZQkw84A3Y9czvMO,39fD0qvjgk8RarJnoBiDTx,,2023-09-08,225360,,0.583,0.372,4,-9.58,1,0.0281,0.664,9.51e-06,0.112,0.338,104.973
+Fragile,Laufey,Everything I Know About Love,0Ydm84ftyiWRGOIFkdl30L,608wYP5XWenLz8cOSYjX7X,,2022-08-26,241080,,0.361,0.413,3,-12.43,1,0.065,0.931,0.000179,0.231,0.336,149.301
+Street by Street,Laufey,Street by Street,16JUiUeNlBM9cdIyyuN6nw,0OuOPYd05eORfLw94apb8j,,2020-04-06,224098,,0.694,0.279,0,-10.871,1,0.0546,0.87,2.49e-06,0.137,0.216,82.068
+Like the Movies,Laufey,Typical of Me EP,7pooeoqY4uJkTaW70qxm3z,1hUXDEqjNIIbfjTcaz3jzb,,2021-04-30,162759,,0.575,0.274,0,-10.242,1,0.035,0.908,8.67e-05,0.146,0.214,87.13
+Dreamer,Laufey,Bewitched,1rpCHilZQkw84A3Y9czvMO,1YxQxV5sKZN1TgVpXl5MLA,,2023-09-08,210827,,0.613,0.146,2,-11.211,1,0.0394,0.954,0.0,0.0857,0.413,117.075
+Beautiful Stranger,Laufey,Everything I Know About Love,0Ydm84ftyiWRGOIFkdl30L,38TpUKiHQZyBKiD9LMMy6X,,2022-08-26,201267,,0.609,0.231,1,-12.348,1,0.0375,0.898,5.63e-05,0.316,0.354,84.007
+Love Flew Away,"Laufey, Adam Melchor",Love Flew Away,47zvBT8HjRo9jkGESnCy8k,5Uro6tis4oexrT4Po1q71H,,2021-10-07,147347,,0.411,0.361,5,-8.466,1,0.0302,0.92,2.36e-06,0.102,0.315,86.325
+Best Friend,Laufey,Typical of Me EP,7pooeoqY4uJkTaW70qxm3z,5zQR0qoA4S1Iwj2bAwW03a,,2021-04-30,164277,,0.757,0.405,3,-10.403,1,0.0902,0.815,1.16e-06,0.143,0.332,83.024
+Second Best,Laufey,Bewitched,1rpCHilZQkw84A3Y9czvMO,4Y9Ge3i5r0vgFAZq653Yx3,,2023-09-08,204813,,0.419,0.204,10,-14.566,1,0.0343,0.952,1.45e-05,0.0999,0.154,135.141
+Slow Down,Laufey,Everything I Know About Love,777K2ytcKbDsX0AZ2y8CBS,4KLZOU5V5XuEkvytSgyW6u,,2022-10-14,145093,,0.696,0.12,11,-15.161,1,0.0371,0.966,0.00242,0.106,0.422,98.805
+No One Knows (with Laufey),"Stephen Sanchez, Laufey",Angel Face,6CczqhUdYOH4qLSDnN3zkg,2ZQ6YMcGxwyvAfV6dl8hkB,,2023-09-22,239309,,0.481,0.42,5,-10.629,1,0.0301,0.66,0.0,0.192,0.349,99.91
+Magnolia,Laufey,Typical of Me EP,7pooeoqY4uJkTaW70qxm3z,0R5vO904RzxDJ30yZaspQD,,2021-04-30,180301,,0.3,0.258,1,-12.129,1,0.0363,0.861,0.0,0.166,0.309,167.407
+Haunted,Laufey,Bewitched,1rpCHilZQkw84A3Y9czvMO,1bx9j48IeWnDnPqcTTqT8Q,,2023-09-08,200627,,0.481,0.266,7,-14.83,0,0.0284,0.962,0.0133,0.127,0.0932,109.087
+What Love Will Do to You,Laufey,Everything I Know About Love,0Ydm84ftyiWRGOIFkdl30L,4TvZH3MgJ1ZNBPquN2xwjK,,2022-08-26,171253,,0.409,0.219,1,-11.73,1,0.0572,0.94,1.14e-06,0.11,0.382,76.061
+Someone New,Laufey,Someone New,1OdANZQlB2kBHw4dFjIiii,1trLEhC9nDvvj36MfnlwcJ,,2020-05-25,198000,,0.49,0.261,0,-12.213,1,0.0375,0.892,7.95e-06,0.13,0.16,90.134
+James,Laufey,Typical of Me EP,7pooeoqY4uJkTaW70qxm3z,2y1NtQ2ZfIq0zBUP3tOlbX,,2021-04-30,175970,,0.499,0.37,9,-9.907,1,0.0446,0.846,0.000188,0.16,0.37,133.513
+While You Were Sleeping,Laufey,Bewitched,1rpCHilZQkw84A3Y9czvMO,753iehfOnYSmjVfjx20znR,,2023-09-08,177493,,0.299,0.333,4,-10.896,1,0.0343,0.931,4.19e-05,0.291,0.395,156.164
+The Nearness of You - Live at The Symphony,"Laufey, Iceland Symphony Orchestra",A Night At The Symphony,0ONGXnqkOl98GYJy619wqn,4vjFL3VnYcaJqX1HmQEBRa,,2023-03-02,168400,,0.199,0.381,0,-8.637,1,0.0341,0.886,4.71e-06,0.681,0.166,88.364
+Everytime We Say Goodbye - Live at The Symphony,"Laufey, Iceland Symphony Orchestra",A Night At The Symphony,0ONGXnqkOl98GYJy619wqn,5cddyAdFOA3JsC3MhYmc2Y,,2023-03-02,273547,,0.136,0.483,10,-7.889,1,0.0397,0.832,5.02e-05,0.683,0.112,167.184
+Ég Veit Þú Kemur - Live at The Symphony,"Laufey, Iceland Symphony Orchestra",A Night At The Symphony,0ONGXnqkOl98GYJy619wqn,3X87xXj9SO8crggRjenwYZ,,2023-03-02,216733,,0.285,0.525,0,-4.401,1,0.0331,0.703,0.000146,0.702,0.362,73.323
+Bruddanem (feat. Lil Durk),"JID, Lil Durk",The Forever Story,3QVjpIxcksDkJmOnvlOJjg,60pZpM5WjUBQvaQ5E37XW6,,2022-08-26,235424,,0.765,0.501,4,-6.64,0,0.252,0.62,0.0,0.135,0.721,130.173
+Surround Sound (feat. 21 Savage & Baby Tate),"JID, 21 Savage, Baby Tate",The Forever Story (Extended Version),4rJDCELWL0fjdmN9Gn4f4g,1udwFobQ1JoOdWPQrp2b6u,,2022-10-31,229938,,0.575,0.56,5,-7.302,1,0.478,0.173,0.0,0.257,0.471,75.956
+Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, JID, Arcane, League of Legends",Mercury - Acts 1 & 2,6yiXkzHvC0OTmhfDQOEWtS,3CIyK1V4JEJkg02E4EJnDl,,2022-07-01,173381,,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011
+151 Rum,JID,DiCaprio 2,2oI6gtIXrvNiL2VEMmj5kY,22WV03i2lBbwNVCE1g671p,,2018-11-26,156780,,0.756,0.867,7,-3.626,1,0.162,0.155,0.00285,0.33,0.666,129.983
+"Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)","Dreamville, JID, Bas, J. Cole, EARTHGANG, Young Nudy",Revenge Of The Dreamers III,2n3quCZ0anEa46j2IveacI,36J0iaPDGbYGsHvYpaYs3k,,2019-07-05,169147,,0.761,0.586,0,-5.368,1,0.359,0.0392,0.0,0.0558,0.719,149.804
+Dance Now (feat. Kenny Mason),"JID, Kenny Mason",The Forever Story (Extended Version),4rJDCELWL0fjdmN9Gn4f4g,2WrldKXSBVbNNm3A9vJryi,,2022-10-31,227556,,0.786,0.475,1,-10.902,1,0.248,0.0919,9.6e-06,0.176,0.264,135.0
+Zero (J.I.D Remix),"NewJeans, JID",Zero (J.I.D Remix),45wwQll1Ay4A1Rz79wWuNt,12Yy0hZrUebGnr3IrppPnW,,2023-06-20,224682,,0.69,0.77,1,-5.731,0,0.231,0.166,0.000169,0.663,0.692,172.02
+Danger (Spider) (Offset & JID),"Offset, JID",METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE),1bwbZJ6khPJyVpOaqgKsoZ,3X6qK1LdMkSOhklwRa2ZfG,,2023-06-02,205267,,0.833,0.686,11,-6.39,1,0.117,0.0421,0.000128,0.227,0.252,143.427
+Van Gogh (feat. Lil Yachty),"JID, Lil Yachty",BlakkBoyz present Half Doin Dope/Van Gogh,19BajLbOujVKO4BPCTIzoc,2tcI5EedPVjrxwewRQs62W,,2023-09-01,126957,,0.763,0.659,2,-6.147,1,0.212,0.0974,0.0,0.115,0.539,137.974
+Kody Blu 31,JID,The Forever Story (Extended Version),4rJDCELWL0fjdmN9Gn4f4g,6ZGoFntcQUWTPGGQPQmecY,,2022-10-31,224630,,0.559,0.719,4,-7.897,0,0.156,0.149,4.2e-06,0.46,0.532,76.184
+Sandstorm (feat. JID),"Mereba, JID",The Jungle Is The Only Way Out,40L9yPrh6yD1ECI3ofNfPc,1NlWBpNYAnFT7gMGyC0Y1M,,2019-02-27,179027,,0.637,0.512,2,-10.027,1,0.0978,0.59,0.000464,0.0712,0.33,109.492
+"Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)","Jon Batiste, JID, NewJeans, Camilo",Be Who You Are (Real Magic),1Pk1W5xbmAqG6wBNL4sjq5,7fcZk7OXeFWD7DWybltVVf,,2023-05-31,189714,,0.657,0.875,2,-4.206,1,0.089,0.0328,0.0,0.267,0.745,143.884
+Options (feat. JID),"Doja Cat, JID",Planet Her,1nAQbHeOWTfQzbOoFrvndW,1ayV64ur8VWgc6OPtPRl1q,,2021-06-25,159160,,0.842,0.522,7,-7.844,1,0.0985,0.293,6.91e-05,0.107,0.285,132.986
+Raydar,JID,The Forever Story (Extended Version),4rJDCELWL0fjdmN9Gn4f4g,3utisM1p90YUtH7yjXyrrY,,2022-10-31,204909,,0.596,0.59,4,-7.625,0,0.38,0.0582,3.26e-06,0.103,0.453,156.924
+"Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)","Dreamville, Bas, JID, Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy, Ski Mask The Slump God",Revenge Of The Dreamers III,2n3quCZ0anEa46j2IveacI,5WnfnSpuNEGXyEt78PBA6d,,2019-07-05,217867,,0.642,0.647,7,-6.312,0,0.428,0.517,0.0,0.0649,0.664,120.749
+Workin Out,JID,DiCaprio 2,2oI6gtIXrvNiL2VEMmj5kY,46Lx5epWOQBA3J86ovnxmV,,2018-11-26,226859,,0.818,0.57,10,-8.067,0,0.285,0.384,0.000102,0.19,0.561,126.938
+On Sight,"Free Nationals, JID, Kadhja Bonet, MIKNNA",Free Nationals,53oqFs4q8sfqH6IPiyleEN,5WiShbQYrJnoG7mD961IKY,,2019-12-13,249454,,0.707,0.663,2,-7.548,0,0.0908,0.276,0.000387,0.693,0.712,94.965
+Stars (feat. Yasiin Bey),"JID, Yasiin Bey",The Forever Story (Extended Version),4rJDCELWL0fjdmN9Gn4f4g,1SsbAUqPSt20PhHAuVSDNu,,2022-10-31,258245,,0.495,0.59,10,-10.506,0,0.299,0.393,0.0,0.249,0.384,117.745
+Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes),"Dreamville, JID, J. Cole, Kenny Mason, Sheck Wes",D-Day: A Gangsta Grillz Mixtape,3tFjhFPqGhhLrCULnPu7Wy,1BzXvBpIFWJgu0P8P6xmP4,,2022-03-31,309323,,0.671,0.857,7,-5.435,1,0.292,0.266,0.0,0.668,0.597,118.574
+NEVER,JID,The Never Story,1gPqbxhs90kppgOVxGOPzd,7hsulgRNgbyczeAg8tChCB,,2017-03-10,241682,,0.594,0.645,1,-7.45,1,0.315,0.0287,1.66e-05,0.0668,0.205,103.974
+Off Deez (with J. Cole),"JID, J. Cole",DiCaprio 2,2oI6gtIXrvNiL2VEMmj5kY,3JAeYOjyJodI4PRs44lx2l,,2018-11-26,213358,,0.836,0.579,9,-6.164,1,0.243,0.00207,0.0,0.11,0.431,85.486
+Can’t Punk Me (feat. EARTHGANG),"JID, EARTHGANG",The Forever Story (Extended Version),4rJDCELWL0fjdmN9Gn4f4g,2H2l7zo9EqtqxFr8R8N8Zg,,2022-10-31,203378,,0.616,0.581,1,-6.637,1,0.516,0.186,0.0,0.116,0.676,82.812
+Bruuuh (with Denzel Curry) - Remix,"JID, Denzel Curry",Bruuuh (with Denzel Curry) [Remix],2VBF1VUAfb250CHkaReyAz,5LghBGmNUUwI2BvX2boIdK,,2021-02-05,206446,,0.813,0.621,9,-9.273,1,0.209,0.0144,4.03e-05,0.0793,0.377,112.101
+EdEddnEddy,JID,The Never Story,1gPqbxhs90kppgOVxGOPzd,4vmqU3xlzuhxtaeXrtAX1F,,2017-03-10,140512,,0.769,0.421,0,-9.6,1,0.421,0.141,0.00707,0.389,0.326,157.964
+Half Doin Dope (with BabyTron feat. Lil Yachty),"JID, BabyTron, Lil Yachty",BlakkBoyz present Half Doin Dope/Van Gogh,19BajLbOujVKO4BPCTIzoc,1J0O3RqCeoMcXbayQZDZXL,,2023-09-01,208929,,0.62,0.737,1,-5.901,1,0.354,0.0551,0.0,0.747,0.919,134.958
+Smoke Break-Dance (feat. JID),"Mick Jenkins, JID",The Patience,1R7oXtXCQEI7GDujxImL87,3EcqaLV76JnvSQOInAmdXv,,2023-08-18,175751,,0.893,0.657,9,-7.054,0,0.0633,0.0932,2.19e-06,0.0786,0.817,119.957
+Scatter Brain (feat. Ludacris & JID),"Conway the Machine, Ludacris, JID",La Maquina,35C2QYq4OgkEXETksStyzz,4w7lBzX0EcDuy8tQLQvjC2,,2021-04-16,209118,,0.855,0.478,1,-8.698,1,0.107,0.0684,0.0,0.111,0.355,135.987
+8701,"JID, 6LACK",The Never Story,1gPqbxhs90kppgOVxGOPzd,0gmYtRyuvRKpd6cCApSDTh,,2017-03-10,111810,,0.547,0.636,4,-8.739,0,0.443,0.112,1.01e-05,0.142,0.416,173.961
+Mamas PrimeTime,"Westside Gunn, JID, Conway the Machine, Cartier A Williams",And Then You Pray For Me,3CXoPCQuBb7kP9vEFcfXKU,5DBkCzSGttobRr6ApIEd4f,,2023-10-13,299568,,0.642,0.833,1,-6.637,1,0.3,0.231,3.16e-06,0.0879,0.515,153.384
+LO TENGO,"Trueno, JID",Lo Tengo,5HZh2hBhcjb55tiTWqOmdU,5ynDRNBqzffgtqSSxuIovs,,2022-11-24,167443,,0.765,0.735,11,-3.628,0,0.215,0.345,0.0,0.197,0.674,98.707
+Wells Fargo (with JID & EARTHGANG feat. Buddy & Guapdad 4000) - Interlude,"Dreamville, JID, EARTHGANG, Buddy, Guapdad 4000",Revenge Of The Dreamers III,2n3quCZ0anEa46j2IveacI,2gtFMLjQpCTGekMi4oXZxN,,2019-07-05,123413,,0.8,0.826,1,-3.198,1,0.107,0.0706,4.76e-06,0.181,0.241,148.021
+Extinct,"REASON, Isaiah Rashad, JID",New Beginnings,3wzeXReoE5Ul6ZMLvkAnHw,70hDklZStSazrExPjHJPfR,,2020-10-09,222249,,0.63,0.694,2,-6.593,1,0.313,0.419,0.0,0.134,0.44,91.749
+Ma Boy (with JID & Lute),"Dreamville, JID, Lute",Creed III: The Soundtrack,4V6qjHa2otWYkYHB6bdO1S,3JbFiK22Q0bfFzzIG1pYVy,,2023-03-03,167000,,0.883,0.807,1,-5.517,1,0.129,0.02,0.000184,0.113,0.461,138.058
+All Bad,"JID, Mereba",The Never Story,1gPqbxhs90kppgOVxGOPzd,0G6ExlA2fcJIDGoayswUNT,,2017-03-10,291760,,0.538,0.238,11,-14.541,1,0.316,0.854,0.0482,0.11,0.507,78.881
+"1993 (with J. Cole, JID, Cozz & EARTHGANG feat. Smino & Buddy)","Dreamville, J. Cole, JID, Cozz, EARTHGANG, Smino, Buddy",Revenge Of The Dreamers III,2n3quCZ0anEa46j2IveacI,1KbCc89SxYma4BnBChkJBs,,2019-07-05,210467,,0.525,0.725,7,-5.318,1,0.629,0.529,0.0,0.598,0.693,175.63
+Off Da Zoinkys,JID,DiCaprio 2,2oI6gtIXrvNiL2VEMmj5kY,0l7uQ6vQcYxjqbjRbDH2HW,,2018-11-26,208569,,0.708,0.632,7,-7.491,1,0.475,0.133,0.0,0.621,0.373,137.981
+Not My Problem (feat. JID),"Dua Lipa, JID",Future Nostalgia (The Moonlight Edition),0JeyP8r2hBxYIoxXv11XiX,69GVTnxGmUlF2ymLPL2CEp,,2021-02-11,143176,,0.695,0.732,0,-3.308,1,0.317,0.442,0.0,0.428,0.802,107.926
+Baguetti (with JID & Kenny Beats),"Smino, JID, Kenny Beats",Baguetti (with JID & Kenny Beats),692sDiMDjKQpNM67yO8HLn,3DcL8FXLA9iKwqnyj9POLt,,2020-07-21,180765,,0.788,0.513,7,-9.56,1,0.535,0.418,0.0,0.125,0.663,70.08
+Soho (feat. JID),"WESTSIDE BOOGIE, JID",Everythings For Sale,14drLk9rMpA7GPk1MRvRE5,35Rbqn962gEydsN1VKOC3T,,2019-01-25,133307,,0.792,0.603,5,-7.216,0,0.362,0.252,0.0,0.08,0.515,137.088
+WATERBOYZ (with JID & J. Cole),"EARTHGANG, JID, J. Cole",GHETTO GODS,2NwAbsKSl0jrpFw7nyeX8v,1KyXCd04yHni5pMGFwgzuE,,2022-02-25,303400,,0.842,0.657,6,-4.349,0,0.224,0.00428,0.0,0.112,0.707,140.057
+HOME - Remix,"Mike Dimes, JID",HOME (Remix),1XICstMIOhkW04lNgZ1QuD,3K2bwOFxBVT4oMGQrj2nho,,2022-06-07,195160,,0.882,0.571,0,-5.541,0,0.231,0.175,0.0,0.303,0.406,117.973
+Hereditary,JID,The Never Story,1gPqbxhs90kppgOVxGOPzd,0fK60qLRIpyT05TXzoSBY0,,2017-03-10,243206,,0.491,0.551,7,-12.332,1,0.358,0.466,1.94e-05,0.199,0.361,154.992
+Skrawberries (feat. BJ The Chicago Kid),"JID, BJ The Chicago Kid",DiCaprio 2,2oI6gtIXrvNiL2VEMmj5kY,076jPFqxYEu1me4zsTBWJ0,,2018-11-26,218892,,0.613,0.77,6,-4.197,0,0.209,0.0951,0.0,0.076,0.505,80.969
+All I Feel Is Rain (feat. JID),"Khalid, JID",Scenic Drive (The Tape),5HBwLKK7l3N8fovxDlTBpE,1cH4Hlu7R2jiN5l6bvvsvT,,2021-12-03,204507,,0.64,0.659,2,-8.307,0,0.0492,0.116,0.0,0.648,0.569,88.933
+Garden Party,"Masego, Big Boi, JID",Garden Party,7p0R9IR7TOzFe7rENEKQn9,7166FiVEnGCG27MITo4kXC,,2021-10-06,229026,,0.38,0.793,9,-5.887,0,0.467,0.303,0.0,0.335,0.529,174.007
+"MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]","Killer Mike, T.I., Jacquees, JID","MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",60JfsbLNllrEy2zwjO2qzL,4H8RhDIpZidT57dKw30k1C,,2023-09-08,288018,,0.537,0.525,0,-9.024,1,0.297,0.403,0.0,0.27,0.12,139.39
+"Ain't No Way [Feat. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h]","Denzel Curry, 6LACK, Rico Nasty, JID, Jasiah, Kitty Ca$h, Powers Pleasant",Melt My Eyez See Your Future,7KtyUeiJidoZO0ybxBXw0Q,1InX2gJz9jvp4tLOc84DWe,,2022-03-25,264613,,0.405,0.707,5,-7.586,0,0.111,0.0929,2.96e-06,0.348,0.327,80.666
+Reaper (feat. JID),"Boombox Cartel, JID",Reaper (feat. JID),0jmZxsfDKqkjBLiFytB3gg,1KzGwlHu27TUfH3gF1RFAa,,2021-05-07,164800,,0.601,0.815,1,-3.741,1,0.328,0.0113,0.0,0.0933,0.265,149.973
+Big Black Truck (with JID),"Dreamville, JID",Revenge Of The Dreamers III: Director's Cut,5PerfGh9Smd6XjwkxpmL4V,2pQUmVMJiuGx3Dh0daDcJz,,2020-01-16,152973,,0.607,0.48,9,-7.833,1,0.635,0.451,0.0,0.357,0.142,171.332
+Barry From Simpson (with JID feat. 2 Chainz & Young Nudy),"Dreamville, JID, 2 Chainz, Young Nudy",D-Day: A Gangsta Grillz Mixtape,3tFjhFPqGhhLrCULnPu7Wy,4m3u9rV6KkVemoL5NFqXem,,2022-03-31,197535,,0.746,0.52,1,-6.687,1,0.423,0.104,0.0,0.301,0.445,126.983
+SIRENS | Z1RENZ [FEAT. J.I.D | J.1.D],"Denzel Curry, JID",TA13OO,6idVoBWP2mt1qoMtASm3gc,6b4A1mLzePAHGn3XCicLAe,,2018-07-27,236107,,0.66,0.784,6,-7.696,1,0.285,0.0806,0.0,0.113,0.642,157.991
+Novacane,Frank Ocean,Novacane,3RYdEXhGHojkTILUdtnRVJ,4osgfFTICMkcGbbigdsa53,,2011-01-01,302347,,0.762,0.508,3,-9.112,1,0.0919,0.0584,0.00126,0.16,0.37,93.51
+Streets,Doja Cat,Hot Pink,1MmVkhiwTH0BkNOU3nw5d3,60ynsPSSKe6O3sfwRnIBRf,,2019-11-07,226987,,0.749,0.463,11,-8.433,1,0.0842,0.21,0.0382,0.338,0.189,90.035
+Everything Is Yours,Kehlani,SweetSexySavage (Deluxe),4B4in9QlrlYWSHlYSRebdC,0wrEpbtamvQTLIjDFkVQSl,,2017-01-27,200621,,0.608,0.466,6,-7.268,0,0.286,0.326,0.0,0.099,0.307,91.947
+In Too Deep (feat. Kiana Ledé),"Jacob Collier, Kiana Ledé",Djesse Vol. 3,33cj3kzLqVOg9zvy69Wrc8,3nGhp4FuIaitNYn4s7XHaX,,2020-08-14,232707,,0.661,0.29,9,-14.568,1,0.0453,0.605,0.0096,0.0629,0.13,151.887
+Not You Too (feat. Chris Brown),"Drake, Chris Brown",Dark Lane Demo Tapes,6OQ9gBfg5EXeNAEwGSs6jK,3Q4gttWQ6hxqWOa3tHoTNi,,2020-05-01,269680,,0.458,0.452,9,-9.299,0,0.047,0.342,1.94e-05,0.0703,0.316,86.318
+Count Me In (with Kiana Ledé),"THEY., Kiana Ledé",Count Me In (with Kiana Ledé),65NQgtjY4po7Ge313WrkA0,2zLLUKyL10JBXPqUS7e7Ne,,2021-02-24,194480,,0.643,0.676,5,-7.351,0,0.0441,0.362,5.99e-06,0.125,0.409,130.028
+alone,Ambré,alone / the catch up,2QRf3UXAEnvnXwbwYYiX8I,5YKG3B8N60T4f9ObVN0h1H,,2020-12-10,175077,,0.723,0.491,5,-10.568,0,0.0789,0.703,0.000159,0.193,0.579,99.99
+7:00,Bryson Tiller,A N N I V E R S A R Y (Deluxe),272GPDEjWzJtyZfHDWFXBy,7LJZyNjN5U0LdYSBQ9hlLz,,2021-02-26,188293,,0.685,0.572,0,-5.685,0,0.147,0.11,0.0,0.183,0.275,117.336
+my mine,Jhené Aiko,Sailing Soul(s),6zp8MKrhIwSdZojADmIDim,2B8Y5LaNSEkuB3LA9okArd,,2021-03-19,241773,,0.608,0.659,9,-7.704,0,0.19,0.511,0.0,0.348,0.773,147.759
+You,"Belly, Kehlani",Another Day In Paradise,5nzfqNZrBUrlymfcwr3Bep,41acFV8AQ4hBan85BEY5ql,,2016-05-27,264080,,0.658,0.7,5,-1.974,0,0.074,0.641,0.0,0.155,0.531,96.011
+Own It,Drake,Nothing Was The Same (Deluxe),2gXTTQ713nCELgPOS0qWyt,3ptQ2qKjiGOIW1USCFXVtT,,2013-01-01,251973,,0.654,0.342,8,-11.305,0,0.101,0.0487,3.37e-05,0.313,0.294,103.064
+Just Might (with PARTYNEXTDOOR),"Summer Walker, PARTYNEXTDOOR",Over It,1gdysQW3m9f0KCDMn0oY6X,6UmIpeMZXD9jtUZyba8ABF,,2019-10-04,205732,,0.634,0.366,7,-7.925,1,0.0867,0.641,2.53e-06,0.106,0.152,104.925
+Bullshit (with Summer Walker),"Young Rog, Summer Walker",Bullshit (with Summer Walker),5810GNyLIRJFqgG9YlvmsZ,4Pu1aCH45nTWtg6Df0pmzy,,2021-02-05,178991,,0.77,0.611,11,-7.454,1,0.0348,0.00169,0.0135,0.111,0.896,139.983
+Smoke Break (feat. Future),"Chance the Rapper, Future",Coloring Book,71QyofYesSsRMwFOTafnhB,1Uq3IOIy1CUlHUgP6vWpum,,2016-05-27,226494,,0.705,0.453,3,-8.174,1,0.196,0.257,0.0,0.143,0.283,124.942
+Over My Dead Body,Drake,Take Care (Deluxe),6X1x82kppWZmDzlXXK3y3q,2Gnsof1hvZzjE1xdLRpjtf,,2011-11-15,272573,,0.489,0.57,1,-10.291,1,0.306,0.759,2.1e-06,0.179,0.584,185.516
+Be Quiet (feat. Kiana Ledé),"Tone Stith, Kiana Ledé",FWM,02lsNtAHGwFmDToftNBfcI,35kIFc8JO1jth3ispxZLIg,,2021-06-11,173267,,0.691,0.463,7,-7.355,0,0.0928,0.193,1.92e-06,0.105,0.22,88.913
+LOST YOU,Snoh Aalegra,LOST YOU,3DMw1U0phfSBMkmO6pI5eF,0Gmjaje0sMUwD5mIHlhlfs,,2021-06-21,177720,,0.426,0.47,5,-8.097,0,0.0755,0.528,0.000882,0.112,0.45,86.508
+Ur Best Friend (with Kehlani),"Kiana Ledé, Kehlani",Ur Best Friend,5vQaqB1ZfaOW6BSEGuQ8HC,1gsYCXkisSnnjBb3qwYZoc,,2021-07-23,182858,,0.565,0.531,2,-6.09,1,0.197,0.497,1.94e-06,0.102,0.237,129.424
+4th Baby Mama,Summer Walker,Still Over It,4lPqFAvgmG97pxyxQsyCQx,3WSBP6JEf4Y2aKD2swQ8AG,,2021-11-05,225000,,0.874,0.348,9,-9.643,1,0.0767,0.339,8.6e-06,0.116,0.151,111.98
+Right My Wrongs,Bryson Tiller,T R A P S O U L,6eZdwrhB97A3EYx9QppGfl,5rgrBsAFYMun6yhtnLKRPz,,2015-10-02,249320,,0.543,0.449,1,-8.065,1,0.0463,0.345,0.0,0.157,0.29,132.609
+Furthest Thing,Drake,Nothing Was The Same (Deluxe),5mz0mJxb80gqJIcRf9LGHJ,6E1ILfm6wNkA6kautk3mQP,,2013-01-01,267373,,0.484,0.78,9,-5.264,0,0.135,0.147,0.0,0.057,0.271,137.101
+Next To You,Bryson Tiller,A N N I V E R S A R Y,5KpXxX7OUDXRs25qLyN8NA,2SSyJ6hTS0JeHTg63wVDZ7,,2020-10-02,190144,,0.639,0.439,8,-8.425,1,0.0601,0.0375,3.56e-06,0.0699,0.559,141.408
+Shut It Down,"Drake, The-Dream",Thank Me Later,6jlrjFR9mJV3jd1IPSplXU,3d8PDk3B4am5c6TsUCznUW,,2010-01-01,419307,,0.59,0.434,9,-9.298,0,0.069,0.411,0.0,0.0979,0.399,119.905
+Can I,Kehlani,It Was Good Until It Wasn't,6ROLwnmW9pOioLned0DaP3,0uDdI4fAXCuNhQbmxENdsO,,2020-05-08,167810,,0.574,0.791,1,-3.752,1,0.11,0.419,0.0,0.0982,0.612,119.537
+Session 32,Summer Walker,Session 32,1q6DMLVcuKBfYpfJ1KWtKh,2ktg2oZDyFAX3iY1QNkXl5,,2018-04-05,98027,,0.574,0.123,1,-13.959,1,0.196,0.894,0.00111,0.118,0.117,115.431
+SWV (with NO1-NOAH),"Summer Walker, NO1-NOAH",Life On Earth - EP,0MJ0Sjfn5PCa4kpUbU31JR,4ii5S0UcGpdAANl098llgB,,2020-07-10,182373,,0.691,0.314,10,-9.715,0,0.0653,0.38,0.00118,0.115,0.365,117.015
+2AM,SZA,Ctrl (Deluxe),6FKP2O0oOvZlDkF0gyTjiJ,3vZGtceCbJVh5aDT4XhE0p,,2022-06-09,242823,,0.504,0.267,9,-13.678,0,0.406,0.438,0.0,0.141,0.392,83.966
+Throw It Away,Summer Walker,Still Over It,4lPqFAvgmG97pxyxQsyCQx,21DN44aYlSoyfOQcboC0IP,,2021-11-05,151714,,0.645,0.658,0,-8.517,0,0.0653,0.266,1.82e-05,0.128,0.53,139.968
+Liability,Drake,"Honestly, Nevermind",3cf4iSSKd8ffTncbtKljXw,2vy9Ry1TNjCD85TiCbTz0r,,2022-06-17,237933,,0.557,0.706,0,-6.592,1,0.0649,0.268,0.0,0.132,0.582,105.013
+Escape From LA,The Weeknd,After Hours,4yP0hdKOZPNshxUOjY0cZj,1sOW4PuG5X3Ie3EXUhAopJ,,2020-03-20,355960,,0.404,0.524,5,-8.996,0,0.0593,0.0456,0.00316,0.199,0.168,145.74
+SUNDOWN (feat. Justin Bieber),"BEAM, Justin Bieber",ALIEN,6To6T5lr8PLhCQ8ik3vPdv,7J9UCy56nirwKuf1IMYtE1,,2022-02-04,223161,,0.612,0.42,11,-8.964,1,0.0838,0.135,0.0,0.109,0.265,124.633
+Amazing.,Kiana Ledé,KIKI (Deluxe),39hdawySriH7efjFpv9v3q,4t1H9wjYMBxu5itruGtOxP,,2020-10-23,197712,,0.453,0.209,3,-10.489,1,0.168,0.897,8.63e-05,0.0853,0.325,72.846
+The Color Violet,Tory Lanez,Alone At Prom,5Gm2XKBgnlzd6qTi7LE1z2,3azJifCSqg9fRij2yKIbWz,,2021-12-10,226467,,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0,0.0863,0.463,105.02
+Dreaming of Me,SiR,November,5zdFKRmlSDwAMZ5NFVGbx9,6NueIkCzLhp4rXpNAiXDdh,,2018-01-19,216500,,0.537,0.55,7,-6.122,0,0.0815,0.484,0.0,0.126,0.312,135.764
+I Believed It (feat. Mac Miller),"dvsn, Ty Dolla $ign, Mac Miller",Cheers to the Best Memories,1WNwlBvoohUFZcJt3uLrd4,0BKuCr5M2nggLQnUjllayK,,2021-08-20,246610,,0.524,0.699,1,-5.559,0,0.0462,0.303,0.0,0.769,0.703,145.191
+Love Again,"Brandy, Daniel Caesar",B7,3qrqjSJilAHhhCYeSr7pD7,4zxcKfH4FcsMz3YitP2gG0,,2020-07-31,214760,,0.432,0.472,7,-5.383,0,0.114,0.415,2.06e-06,0.097,0.509,77.35
+UNPREDICTABLE,"DESTIN CONRAD, Kiana Ledé",UNPREDICTABLE,4FlLFmeikHa7syfabGqL0k,37ahk4lY6MT9jibtVmvYAH,,2022-04-05,189921,,0.65,0.45,0,-8.635,0,0.176,0.165,2.98e-05,0.17,0.301,133.671
+IN THE AIR,DESTIN CONRAD,COLORWAY,4cGY0jqWYTCIPwQRXHgKvy,4TLJNON6mZLpfZX3g4Oh8B,,2021-03-05,136696,,0.794,0.389,8,-6.132,1,0.0545,0.0375,0.00194,0.109,0.259,114.92
+Out Loud (feat. Kehlani),"Syd, Kehlani",Broken Hearts Club,04xudYiCT2xyEVfF5Ov14Y,0P11qKeHWhUy0rDPeY8dyB,,2022-04-08,203037,,0.565,0.364,6,-9.512,1,0.2,0.328,0.0,0.108,0.527,155.705
+EX,Kiana Ledé,Myself,4EhEkDClVOByI6FzYxfvlc,75kPv2ONogrKsnSKF1TAne,,2019-06-07,222347,,0.767,0.526,0,-6.991,1,0.238,0.2,0.0,0.111,0.44,73.437
+Plenty More.,Kiana Ledé,KIKI,6UmILTxwjM8sME3wbsZgQh,7ELEV9fgYGdOOvtRfzOQfq,,2020-04-03,208747,,0.503,0.329,6,-8.088,1,0.0348,0.783,6.32e-05,0.119,0.25,159.123
+Mood (feat. Zacari),"SiR, Zacari",Chasing Summer,5zUDvKAyEKkrhYLWJJWGPQ,4eULGB0zI7NIdV2KjWbbiZ,,2019-08-30,191360,,0.599,0.686,8,-5.951,1,0.0422,0.0177,0.00105,0.0929,0.663,148.009
+Bria's Interlude (feat. Omarion),"Drake, Omarion",So Far Gone,1LShhEEKRT5MNPcO7jtYHh,4i3GraNMzBKze1WsVl38DS,,2009,139575,,0.49,0.507,2,-6.205,0,0.0849,0.209,0.00104,0.119,0.237,147.037
+That's Why I Love You (feat. Sabrina Claudio),"SiR, Sabrina Claudio",Chasing Summer,5zUDvKAyEKkrhYLWJJWGPQ,3Ku9kSWtDQPC8bSWpHR7z0,,2019-08-30,241747,,0.64,0.496,3,-6.077,0,0.284,0.333,0.0,0.13,0.547,119.849
+No Love (with SZA),"Summer Walker, SZA",Still Over It,4lPqFAvgmG97pxyxQsyCQx,08SB2OtZkaliju77WYEKxk,,2021-11-05,231498,,0.707,0.618,1,-5.825,0,0.19,0.17,0.0,0.293,0.517,133.876
+Want U Around (feat. Ruel),"Omar Apollo, Ruel",Apolonio,7HlxxaJOHK0ArY4Ae4Qfc7,1Qu24vc8msUVLcMZWa4k1x,,2020-10-16,247720,,0.571,0.443,0,-6.76,1,0.0451,0.3,6.95e-06,0.101,0.621,143.923
+Score (feat. SZA & 6LACK),"Isaiah Rashad, 6LACK, SZA",The House Is Burning,6TQ8nqw43uUOWu7Yqp58ko,2ns1kl3c5NMvGCt2xVMNlI,,2021-07-30,200968,,0.5,0.515,7,-8.283,1,0.31,0.442,0.00018,0.0681,0.566,85.173
+Feels,Kehlani,While We Wait,73ZvpuYhKDr2FW4vlPsTpW,4BOikd4oZjOYMde9AXfrTo,,2019-02-22,181140,,0.369,0.609,9,-4.477,0,0.184,0.259,4.1e-05,0.133,0.381,80.362
+Home,Dylan Sinclair,Proverb,0UGslTI60Tlnf3nRga8znK,3X1R2hYu7PeUNG2rOd9b7w,,2020-09-25,201602,,0.369,0.318,0,-13.166,1,0.046,0.706,0.0944,0.108,0.0517,89.449
+Wild Irish Roses,Smino,blkswn,3bTjPEgPzm1XwXsNlMVHhs,6efkcs2aUBMFKxl0cl2JWQ,,2017-03-14,169320,,0.639,0.295,0,-11.237,0,0.544,0.554,3.09e-05,0.3,0.634,86.947
+Supermodel,SZA,Ctrl,76290XdXVF9rPzGdNRWdCh,5wTVNpi5WDByxBgKgUE6MU,,2017-06-09,181120,,0.613,0.442,6,-8.874,1,0.288,0.651,0.0,0.26,0.252,119.737
+Recognize (feat. Drake),"PARTYNEXTDOOR, Drake",PARTYNEXTDOOR TWO,6s2isojT7rGZUgJyymjjKU,5wUUWVRvrciJqFitZF8R0P,,2014-07-29,311197,,0.643,0.541,2,-5.801,1,0.0426,0.0102,0.0,0.102,0.165,119.499
+I Hate U,SZA,I Hate U,1hJUh5y1ggqqGsCivnRmHw,5dXWFMwD7I7zXsInONVl0H,,2021-12-03,174000,,0.535,0.388,7,-9.805,0,0.155,0.507,0.0,0.11,0.412,106.703
+Déjà vu,TWENTY88,TWENTY88,4gqnsOwnA490OYq58VfJV3,6amzJ3wmEDf7e5tHAndZmn,,2016-04-01,251907,,0.568,0.617,8,-8.994,1,0.2,0.164,0.0,0.0888,0.404,123.667
+Take Care of You (feat. Syd),"Charlotte Day Wilson, Syd",ALPHA,1BFl2k9tZL0Jm6ebJHGQ5K,5lYcnEFmVi9yWbU4ZINRyJ,,2021-07-09,214438,,0.666,0.535,4,-9.033,0,0.112,0.827,0.0228,0.202,0.259,127.029
+What's On Your Mind (feat. Jacquees),"K CAMP, Jacquees",Kiss 5,6hwJxTqbEGXROsiAs0qWNV,0te0mYcVMqRLc4vuDjZ0Yg,,2020-04-24,231718,,0.633,0.471,1,-9.284,1,0.282,0.028,4.42e-06,0.166,0.375,129.17
+Take Me Away (feat. Syd),"Daniel Caesar, Syd",Freudian,3xybjP7r2VsWzwvDQipdM0,3E895HtTn6lB40SA0l9EkL,,2017-08-25,226116,,0.395,0.409,6,-8.58,1,0.056,0.708,1.62e-05,0.0982,0.193,74.088
+GAF (feat. Guapdad 4000),"Bri Steves, Guapdad 4000",TBH,4U3RNjH7iKyqC0xwYtIUFk,2IMxBnxu3m0DByGJrBAzUT,,2021-07-30,220107,,0.489,0.623,7,-6.99,0,0.272,0.477,7.61e-05,0.0992,0.4,74.864
+honda civic '98,Chase Shakur,It'll Be Fine,4zM4CuOsWdfR60jW7w4jVr,1ztPf79mbGpktO7TjB7tWW,,2022-06-24,187723,,0.461,0.426,0,-10.213,0,0.0355,0.696,0.111,0.186,0.387,110.418
+Welcome to the Party,PARTYNEXTDOOR,PARTYNEXTDOOR,4EZoN6mRXNcGxHXZC2doJH,5BtE11fzSHM9BooIr2qNpN,,2013-07-01,114160,,0.636,0.541,6,-6.181,0,0.0539,0.0548,3.41e-05,0.101,0.172,143.133
+AMBRÉ'S INTERLUDE,"DESTIN CONRAD, Ambré",SATIN,14DbuWegTlHKKUW1WfUdny,3WwvdFw13kO3JF26XCKsGz,,2022-11-11,101232,,0.599,0.555,11,-9.56,0,0.16,0.579,9.19e-06,0.87,0.715,105.291
+Gotta Move On (feat. Bryson Tiller),"Diddy, Bryson Tiller",Gotta Move On (feat. Bryson Tiller),0JZyDPMrhPEnsuJEbVymJJ,3K9IrLs25jHtvWjAAFAfav,,2022-06-17,160777,,0.699,0.679,9,-4.528,1,0.0556,0.55,0.0,0.0816,0.56,102.919
+Reminder,The Weeknd,Starboy,2ODvWsOgouMbaA5xf0RkJe,37F0uwRSrdzkBiuj0D5UHI,,2016-11-25,218880,,0.706,0.505,8,-6.923,1,0.193,0.142,0.0,0.164,0.388,160.053
+TBH,PARTYNEXTDOOR,PARTYNEXTDOOR,4EZoN6mRXNcGxHXZC2doJH,7lndZZ3IUNVPPYWI04jOaB,,2013-07-01,123080,,0.543,0.681,1,-7.876,0,0.0477,0.159,1.49e-06,0.298,0.154,124.914
+Waiting,Mercydaone,Waiting,2VDWdbQVmsTDGGRXscMEBA,5fhPEiZeE2v0gEEkJNoH8m,,2023-01-04,180048,,0.352,0.267,5,-17.001,0,0.0732,0.47,0.953,0.099,0.142,92.001
+DEPENDS,Nobu Woods,DEPENDS,5XFP9KFN7cfa2rSUkl30SK,6AIAP4JUBUKhDURiyYz02W,,2022-10-14,240000,,0.585,0.353,1,-11.081,1,0.157,0.7,1.68e-05,0.102,0.22,80.008
+3AM in Oakland,Karri,3AM in Oakland,6fypcxh577ibSA2kOKfyl2,104f3GOgOZkTfHkhK21oge,,2023-02-03,206271,,0.525,0.372,1,-11.303,0,0.332,0.498,0.0,0.142,0.24,96.663
+Hello - Slowed Down,"NateTaylorr, Tricks",Hello EP,2tQ25A1GGpTTVg17fu3CFw,3p3tLocVrQWpEtEzeu8lk7,,2023-02-10,152348,,0.747,0.646,1,-7.355,0,0.056,0.162,4.65e-06,0.117,0.0765,115.018
+Commotion,Jozzy,"Songs for Women, Free Game for Niggas - EP",64iyjndrqCyY9dbldsSZx1,6JGbBAVvplOLmXrb8o0ily,,2023-02-24,213363,,0.786,0.637,5,-6.084,0,0.0569,0.0264,0.0,0.112,0.275,126.113
+Tell Me,Khamari,Tell Me,6533zPPlpWV1bfbToZdD4c,627yvru8268y11clOwn3f4,,2022-11-11,204033,,0.693,0.354,11,-9.92,0,0.0718,0.499,7.52e-05,0.0773,0.349,123.048
+PATTERNS,"Chelan, NNAVY",PATTERNS,0ajIIb5zoGQxKE9Vceq2X4,6CMYCujHKYkgEqjTSOzYTa,,2021-03-05,224051,,0.566,0.378,7,-12.745,1,0.456,0.75,0.0,0.129,0.328,49.931
+New Type (feat. Childish Gambino),"Summer Walker, Childish Gambino",CLEAR 2: SOFT LIFE EP,034Q9kY3buGcizT3Xpj9Re,35PofXWEoF8DnGTA1SIuyJ,,2023-05-19,265907,,0.704,0.419,1,-11.689,0,0.169,0.658,0.000153,0.103,0.376,135.087
+ROUNDS ON ME,7AE,ROUNDS ON ME,6Zkc62F8AB8kmHEjBdFLKt,4lCQNzh2bMLTdLRT7uYxsQ,,2023-05-12,192593,,0.337,0.433,9,-7.916,1,0.185,0.168,0.0,0.108,0.402,74.504
+only u,Karri,only u,2U7bhZNHzxwpRJQ9de7LmZ,0jatnHT0N0LSpbE1obPLB9,,2023-03-31,146128,,0.576,0.312,9,-7.717,1,0.0325,0.804,0.0,0.0937,0.377,147.769
+Get Along Better,"Drake, Ty Dolla $ign",Certified Lover Boy,3SpBlxme9WbeQdI9kx7KAV,5ScbulRnixQ2XAdvrPMFjz,,2021-09-03,229304,,0.32,0.466,8,-6.77,1,0.0374,0.00645,0.0,0.133,0.338,177.693
+Breaking Point,Leon Thomas,Breaking Point,4dyk9fUSB7SfSQE0CbyQI4,2Eg5fW5yInLRGszS4s9eN6,,2022-12-12,293571,,0.507,0.538,1,-7.454,1,0.0643,0.4,1.9e-05,0.161,0.239,111.458
+Constant Bullshit,Summer Walker,Still Over It,4lPqFAvgmG97pxyxQsyCQx,1luvsaicSpNDRLgOtRZxWO,,2021-11-05,197094,,0.438,0.54,4,-9.456,0,0.0519,0.223,0.0,0.141,0.389,118.581
+LMK,Kiana Ledé,Grudges,7LjBbLFOHLzCsOlxYpFqU2,3NaYHkZmo48PEkbRQMyXAT,,2023-06-16,213737,,0.732,0.489,5,-8.121,0,0.049,0.176,0.00111,0.356,0.353,68.663
+Need U Bad,Jazmine Sullivan,Fearless,2V99Z0aZgSK6XTbh19UYTU,0Ri0LzOMJmqi9HGZE5cRYV,,2008-09-23,257427,,0.529,0.659,7,-5.318,1,0.0629,0.0232,0.0,0.114,0.36,138.196
+Out The Way,Samaria,Out The Way,3ZqHjjh7jnUEGPf4b5xbwO,1F90ozGQw5nVHCT5o8yXK3,,2022-08-18,155415,,0.763,0.487,11,-6.515,0,0.21,0.362,1.57e-05,0.0797,0.558,126.032
+Pick Up Your Feelings,Jazmine Sullivan,Heaux Tales,1btIckWsQDd7fAx0BBZF0n,2I7CJZLo2nDqGuzZJA1XlZ,,2021-01-07,229413,,0.758,0.413,2,-6.239,0,0.0464,0.321,0.0,0.117,0.599,85.46
+Soul Ties,"Kaash Paige, SSGKobe",Teenage Fever,0nfhJM8ywsCnOmoJNblItu,5jTLperHBWrDOPE5tgbyTo,,2020-08-14,182373,,0.387,0.296,5,-11.452,0,0.0698,0.775,0.00018,0.11,0.114,85.126
+ALL MINE,Brent Faiyaz,WASTELAND,0PHMNbcgHfzSUALlfk7wGg,3XgGQ1wjo5khvq2UImjyNF,,2022-07-08,216063,,0.617,0.378,9,-8.54,1,0.0315,0.428,9.16e-05,0.11,0.22,141.967
+Moment Of Your Life,"Brent Faiyaz, Coco Jones",Moment Of Your Life,2M8xH28B7GMVUFMA7Ofcis,6ffrYPrHM70FScnrtHIcPh,,2023-08-23,195000,,0.762,0.48,10,-6.595,0,0.0471,0.611,0.0,0.0907,0.598,127.95
+Blame,Bryson Tiller,Blame,2OOcufzAxz4qgzadyJaEty,6S5dMjMifQYmyTu1mX4f8P,,2019-07-26,127029,,0.729,0.38,11,-8.558,0,0.099,0.0319,5.01e-05,0.119,0.323,114.975
+Snooze,SZA,SOS,07w0rG5TETcyihsEIZR3qG,4iZ4pt7kvcaH6Yo8UoZ4s2,,2022-12-09,201800,,0.559,0.551,5,-7.231,1,0.132,0.141,0.0,0.11,0.392,143.008
+Feelings 4 You,Xavier Omär,Feelings 4 You,4zQasO3J7GKXQ8zEdFSbqx,7whRnyXkGLSkwluSMe1JH5,,2022-05-20,256202,,0.652,0.312,8,-7.399,0,0.0495,0.367,4.15e-06,0.134,0.203,117.702
+Fly Girl,Dylan Sinclair,Fly Girl,3DxsNT0EdadtakLU9wAGke,3W87RPGCLGupGSWEcNbyED,,2023-08-16,192023,,0.51,0.463,5,-8.4,0,0.188,0.496,0.000226,0.111,0.533,108.598
+Snooze (Acoustic) (feat. Justin Bieber),"SZA, Justin Bieber",Snooze (Acoustic) (feat. Justin Bieber),0bQ8NyqdTKKQpZHYhZqCUU,5YABYtKx9qa56vBjlXDbmw,,2023-09-15,190465,,0.462,0.331,9,-8.794,0,0.0432,0.911,0.0,0.15,0.604,141.364
+How's My Driving?,PHABO,Soulquarius,762U5ToU14EyGscZC1iwzg,2z96ik5sQ6zv9POLTZrPKb,,2021-07-16,173000,,0.837,0.267,3,-11.066,0,0.118,0.138,1.73e-06,0.13,0.321,89.967
+Polaris,PHABO,Soulquarius,762U5ToU14EyGscZC1iwzg,7M45t3EEd8YECUo5LhMEEW,,2021-07-16,110000,,0.606,0.416,8,-9.399,0,0.0645,0.565,1.42e-06,0.0876,0.684,82.109
+Luv Songs (Unruly),PHABO,Don't Get Too Cozy,3fGURvjAC7mZz3nMfPRRBI,0puWG0IhM981IsC1hd2640,,2023-06-16,175496,,0.595,0.676,6,-4.915,0,0.412,0.169,0.0,0.357,0.586,139.806
+Come Thru,Drake,Nothing Was The Same (Deluxe),5mz0mJxb80gqJIcRf9LGHJ,3eN46sMTppXYMAyWi37wn1,,2013-01-01,236360,,0.558,0.468,3,-5.812,1,0.173,0.159,0.0,0.586,0.405,81.977
+Deeper,Kiana Ledé,Grudges,7LjBbLFOHLzCsOlxYpFqU2,58z9odzkFuph91CkBcmOzY,,2023-06-16,214455,,0.632,0.645,4,-5.288,1,0.0266,0.0352,0.0,0.102,0.184,101.014
+I'm Ready For You,Bryson Tiller,A N N I V E R S A R Y,5KpXxX7OUDXRs25qLyN8NA,1zmv0tPVWdbCuvBw90MYwO,,2020-10-02,174093,,0.741,0.64,0,-6.452,0,0.405,0.228,8.55e-05,0.138,0.893,179.095
+Self Righteous,Bryson Tiller,T R A P S O U L (Deluxe),5J1kAtiZQl3MzMErgeFt0I,0DGxo886PNNfuOZInCdVOg,,2020-09-25,241406,,0.603,0.607,0,-7.057,1,0.245,0.192,0.0,0.185,0.239,112.06
+S(EX),Maeta,When I Hear Your Name,4iJiu3yFSwRNPe7dJBwtPM,2cWzJkYYdvAZjaf2KcYLcj,,2023-06-09,224316,,0.584,0.395,4,-6.631,0,0.0889,0.0751,1.1e-05,0.109,0.0508,119.087
+You Lie,Maeta,You Lie,31GBLu2w8zXjHY1tuPXlmy,1p8VaLzpvIRhMfKNZTtUgp,,2023-05-08,58500,,0.672,0.3,9,-10.795,0,0.0437,0.562,0.56,0.113,0.143,99.889
+No Feelings,JON VINYL,No Feelings,4JUDavAIny5Dww4tFD712w,7KQPINPzT8M3ynLnWhl45M,,2023-04-21,169428,,0.539,0.516,7,-7.557,0,0.0549,0.57,0.0,0.132,0.403,120.758
+Mind Your Business (Bosses in Love) [feat. Kehlani and Ty Dolla $ign],"Diddy, Ty Dolla $ign, Kehlani",The Love Album: Off The Grid,1Z67w2JtLfO8D2dP0Mwpy1,2yFSWQW0fYm0MjLktlg5fy,,2023-09-15,296655,,0.24,0.695,8,-6.086,0,0.0727,0.0563,0.0,0.348,0.406,77.057
+Preach,"Drake, PARTYNEXTDOOR",If You're Reading This It's Too Late,0ptlfJfwGTy0Yvrk14JK1I,1OHoBC4icbuNhpSxP400sv,,2015-02-12,236973,,0.605,0.51,11,-8.094,0,0.423,0.165,8.8e-05,0.104,0.389,65.255
+John Redcorn,SiR,Chasing Summer,5zUDvKAyEKkrhYLWJJWGPQ,5ibTi2YwtvbB1bTOv2I93d,,2019-08-30,187893,,0.734,0.438,6,-6.124,0,0.0865,0.224,0.00292,0.215,0.645,143.961
+Valentine's Day (Shameful),Kehlani,Valentine's Day (Shameful),2x9hiwj8Rc9b2MoQ3FKWcY,6GCRnf1W9OKxok9fvNp3pz,,2020-02-19,291884,,0.503,0.411,7,-10.602,0,0.387,0.578,0.0,0.101,0.348,134.752
+Irresponsible,Kiana Ledé,Irresponsible,5Mv9dyRbKf8x90M86mibc0,3PIDY9vzQP6U8OLTYlcA50,,2022-09-16,192545,,0.669,0.498,1,-6.168,0,0.0313,0.271,0.0,0.146,0.44,99.816
+So Be It (with Summer Walker) - Remix,"Alex Vaughn, Summer Walker",The Hurtbook (Homegirl Pack),5kljTEylYVvyu90Qnw6JIB,2IkJZzXP6fg0A7WOpp1xAE,,2023-03-17,193782,,0.612,0.636,3,-5.328,0,0.0899,0.144,0.0,0.126,0.221,131.922
+Still Got 4ever,Samaria,Still Got 4ever,3G3kujnBjUxC2etYtHDto6,0lT3BPJaW1LFCUjpxNHIaq,,2022-09-23,137716,,0.8,0.519,7,-5.42,0,0.055,0.0689,5.45e-05,0.0835,0.607,139.953
+DAYDREAM,DESTIN CONRAD,SATIN,14DbuWegTlHKKUW1WfUdny,2dsbZwFPMYhchakMgL72DD,,2022-11-11,181144,,0.723,0.461,4,-9.747,0,0.0776,0.623,4.89e-06,0.237,0.183,117.983
+Forfeit. (ft. Lucky Daye),"Kiana Ledé, Lucky Daye",KIKI,6UmILTxwjM8sME3wbsZgQh,4uMvvCwqs046uxyJiFJTT1,,2020-04-03,242400,,0.77,0.442,1,-8.033,1,0.164,0.489,0.0,0.0974,0.392,131.988
+Fire & Desire,Drake,Views,40GMAhriYJRO1rsY4YdrZb,4BhGTc3Cgay2U1QcTS7vQe,,2016-05-06,238120,,0.722,0.252,1,-14.411,0,0.0761,0.0671,0.0,0.0852,0.275,79.923
+Until The End Of Time - Spotify Singles,"Coco Jones, Leon Thomas",Spotify Singles,6SL03KQzLNrxyO6AfIBe7y,0XdwIG7p28SeTam3DVdMX6,,2023-02-14,283314,,0.695,0.526,8,-7.486,1,0.043,0.0635,0.0,0.215,0.534,121.939
+My Affection (with PARTYNEXTDOOR),"Summer Walker, PARTYNEXTDOOR",Life On Earth - EP,0MJ0Sjfn5PCa4kpUbU31JR,2aSM4sbNN7cSmpYOG0sf46,,2020-07-10,213933,,0.632,0.495,7,-8.335,1,0.143,0.333,0.0,0.0941,0.233,77.083
+first take,Travis Scott,Birds In The Trap Sing McKnight,42WVQWuf1teDysXiOupIZt,6wwruKU956ldDyz55DZTt1,,2016-09-16,313909,,0.423,0.536,7,-3.8,1,0.16,0.015,0.0,0.095,0.0895,71.313
+Do It,Eso.XO.Supreme,Monsters,4t7WyFjLCoUCUKgprFwjn3,7GbuOABWTb4qEPv6TywnIq,,2016-09-29,221638,,0.403,0.685,8,-5.017,1,0.157,0.00823,0.0,0.268,0.402,95.679
+Love You Too Much,Lucky Daye,Painted,0sxfu0XUwHOtnKiZgkTQwk,4XjnaL1dDauhuvNFz1SLwW,,2019-05-24,465816,,0.392,0.473,8,-11.377,0,0.118,0.824,1.56e-05,0.117,0.284,111.317
+Hate the Club (feat. Masego),"Kehlani, Masego",It Was Good Until It Wasn't,6ROLwnmW9pOioLned0DaP3,0QUbiLQySWPq5Lh3f7A9bN,,2020-05-08,278715,,0.663,0.626,1,-4.756,1,0.0567,0.456,7.25e-06,0.0984,0.494,105.026
+All I Need,Dylan Sinclair,Proverb,0UGslTI60Tlnf3nRga8znK,3defzp8pBpPdxU2uyIdHAA,,2020-09-25,135210,,0.446,0.329,2,-12.39,0,0.0976,0.796,3.32e-06,0.106,0.187,78.321
+BILL$,DESTIN CONRAD,COLORWAY,4cGY0jqWYTCIPwQRXHgKvy,0H6CZCG2F1N3XZWNZAVqE7,,2021-03-05,143093,,0.681,0.324,2,-8.565,0,0.123,0.399,2.32e-05,0.0754,0.431,135.088
+Mine (feat. Drake),"Beyoncé, Drake",BEYONCÉ [Platinum Edition],2UJwKSBUz6rtW4QLK74kQu,63FrXif0Pdu4NAPvTh87mw,,2014-11-24,378600,,0.557,0.428,5,-11.306,1,0.136,0.0673,0.0019,0.144,0.0996,103.009
+All in My Head,SiR,HER,2xN6GSmwvjc6QT0UiFTsip,3xmMSz19KFdVx2q2WNbnIF,,2016-10-06,214228,,0.602,0.716,6,-6.507,1,0.143,0.011,0.000378,0.118,0.481,149.026
+Always Forever,Bryson Tiller,A N N I V E R S A R Y,5KpXxX7OUDXRs25qLyN8NA,1LV5cAo02H8h5YlZNcjULM,,2020-10-02,170053,,0.605,0.489,10,-7.234,0,0.174,0.168,2.36e-06,0.187,0.326,147.341
+You Know Wassup,Kehlani,You Know Wassup,5PdJ9s1UhLttMDmAMyMdtt,6HUO25AttZZCoKAY0vUVtc,,2019-11-22,201143,,0.475,0.404,0,-8.899,1,0.0946,0.65,0.0,0.1,0.463,104.513
+Call Out My Name,The Weeknd,"My Dear Melancholy,",4qZBW3f2Q8y0k1A84d4iAO,09mEdoA6zrmBPgTEN5qXmN,,2018-03-30,228373,,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17
+Hold On,The Internet,Hive Mind,27ThgFMUAx3MXLQ297DzWF,5tqZJUHEuqdN12RZVq2l9p,,2018-07-20,406467,,0.7,0.414,0,-10.864,1,0.0373,0.849,0.0606,0.107,0.444,60.479
+Shot For Me,Drake,Take Care (Deluxe),63WdJvk8G9hxJn8u5rswNh,6k7b4mcxLP5HPo6hNoXoM6,,2011-11-15,224720,,0.566,0.465,2,-11.714,1,0.235,0.0555,0.0,0.567,0.177,143.015
+DYING 4 YOUR LOVE,Snoh Aalegra,DYING 4 YOUR LOVE,1EUCSZciwmAutnu9M8lqZW,5d6qTZOLnj4zbgFGRoJiNz,,2020-07-10,206773,,0.733,0.413,6,-7.797,0,0.167,0.275,4.85e-05,0.0833,0.576,76.062
+FWM,Tone Stith,FWM,19yDmZ6XifuMc31QkkmRVl,7aJwamBFV2pjHTXUnlDgZb,,2021-02-05,196657,,0.615,0.551,7,-6.763,0,0.144,0.285,0.00105,0.109,0.363,142.019
+Can You Blame Me (feat. Lucky Daye),"Kehlani, Lucky Daye",It Was Good Until It Wasn't,6ROLwnmW9pOioLned0DaP3,12xVuIohhHSklxvi1ItKGA,,2020-05-08,183019,,0.724,0.564,1,-4.627,0,0.0591,0.498,0.0,0.107,0.541,113.943
+Come Thru,Drake,Nothing Was The Same (Deluxe),2gXTTQ713nCELgPOS0qWyt,5CDy1I6rSt6vXdqIb87A6f,,2013-01-01,236360,,0.558,0.468,3,-5.812,1,0.173,0.159,0.0,0.586,0.405,81.977
+London Bridge,TWENTY88,TWENTY88,4gqnsOwnA490OYq58VfJV3,4ShIMQAPiYBkCdHCvLbelR,,2016-04-01,269240,,0.573,0.642,11,-10.613,1,0.621,0.487,0.0,0.319,0.32,143.69
+From Time,"Drake, Jhené Aiko",Nothing Was The Same (Deluxe),2gXTTQ713nCELgPOS0qWyt,10VBBaul4zVD0reteuIHM2,,2013-01-01,322160,,0.738,0.491,1,-9.726,0,0.413,0.626,0.0,0.126,0.448,94.378
+Power Trip (feat. Miguel),"J. Cole, Miguel",Born Sinner,1NfrmcXk8xNennyxQ57JcW,7FOJvA3PxiIU0DN3JjQ7jT,,2013-06-14,241160,,0.667,0.61,1,-7.054,1,0.217,0.322,0.000203,0.426,0.465,99.991
+Juke Jam (feat. Justin Bieber & Towkio),"Chance the Rapper, Justin Bieber, Towkio",Coloring Book,71QyofYesSsRMwFOTafnhB,3eze1OsZ1rqeXkKStNfTmi,,2016-05-27,219683,,0.505,0.397,5,-9.349,1,0.324,0.716,0.0,0.0853,0.558,95.063
+True Colors,The Weeknd,Starboy,4AdZV63ycxFLF6Hcol0QnB,6i759FCuKx713ZnYjtpQGU,,2016-11-24,206027,,0.616,0.424,1,-8.237,1,0.251,0.284,0.0,0.173,0.582,76.676
+Teenage Fever,Drake,More Life,1lXY618HWkwYKJWBRYR4MK,6n3HGiq4v35D6eFOSwqYuo,,2017-03-18,219692,,0.766,0.283,8,-10.33,0,0.0846,0.111,0.0172,0.115,0.144,97.04
+Who Hurt You?,Daniel Caesar,Who Hurt You?,15M9pZ8gsdoN67yLjyQ039,23c9gmiiv7RCu7twft0Mym,,2018-10-16,231964,,0.649,0.493,11,-7.645,0,0.11,0.586,0.000167,0.0667,0.277,104.542
+Redemption,Drake,Views,40GMAhriYJRO1rsY4YdrZb,4cRBqWBjuccCowYVHFlXK6,,2016-05-06,333947,,0.694,0.314,0,-7.82,1,0.116,0.611,2.07e-06,0.117,0.341,119.905
+Deep,Summer Walker,Deep,2N6Aa7UAYdLKkgOvtBfv3z,777u4gZI5BYcV8GxAH5nCh,,2018-05-18,95390,,0.544,0.37,3,-9.925,0,0.369,0.628,3.45e-05,0.107,0.279,76.823
+CPR,Summer Walker,Last Day Of Summer,4hTM8jZ8DCCqglmZUDMSPz,5Tp4UJvnsF4Zd05k0zXUte,,2018-10-19,203240,,0.693,0.369,7,-12.683,0,0.175,0.637,0.00335,0.0951,0.141,140.148
+Thinkin Bout You,Frank Ocean,channel ORANGE,392p3shh2jkxUxY2VHvlH8,7DfFc7a6Rwfi3YQMRbDMau,,2012-07-10,200747,,0.721,0.339,0,-11.195,1,0.0532,0.409,0.00153,0.0973,0.2,129.83
+Ransom (feat. 6LACK & Kehlani),"SAINt JHN, 6LACK, Kehlani",While The World Was Burning,5YrVHzZ2sBhsSaWIKpX0OW,3TBciTNFP9ehwQQoIbqeuA,,2020-11-20,203465,,0.433,0.549,0,-8.752,0,0.373,0.57,0.0,0.117,0.329,79.907
+Jungle,Drake,If You're Reading This It's Too Late,0ptlfJfwGTy0Yvrk14JK1I,7JXZq0JgG2zTrSOAgY8VMC,,2015-02-12,320400,,0.697,0.235,7,-8.651,1,0.0534,0.62,0.000144,0.107,0.378,99.947
+Crew Love,"Drake, The Weeknd",Take Care (Deluxe),63WdJvk8G9hxJn8u5rswNh,0TiC3GtlMCskf2hIUIBcDV,,2011-11-15,208813,,0.418,0.546,0,-9.057,0,0.238,0.227,0.0,0.229,0.294,160.152
+Second Chances. (ft. 6LACK),"Kiana Ledé, 6LACK",KIKI,6UmILTxwjM8sME3wbsZgQh,6t5MVzUCfeK1ASDMkKadxW,,2020-04-03,192120,,0.501,0.349,3,-10.883,0,0.391,0.786,0.0,0.107,0.322,72.855
+Streetcar,Daniel Caesar,Pilgrim's Paradise,4uP43hIpmEEDuW7aOfiU2C,7Cu2COdH93MnuireuKNiS3,,2015-11-12,246972,,0.41,0.298,3,-11.796,1,0.0473,0.721,0.0,0.158,0.142,109.651
+Reckless,Arin Ray,Platinum Fire (Deluxe),0e8ZsVbYFyzRhHYKNOgthl,1BybndP1YgPEIk6WUnL6kT,,2018-12-14,233266,,0.686,0.701,5,-5.702,0,0.0968,0.257,0.00281,0.088,0.605,173.994
+PEACE OF MIND,PARTYNEXTDOOR,COLOURS 2,3LIpVZI59rH2HMJMX9KFX1,46HZ8l9wPo9JNsk7dZLamb,,2017-06-02,303030,,0.782,0.367,1,-5.28,0,0.0548,0.283,0.0,0.0899,0.425,99.005
+Just Might (with PARTYNEXTDOOR),"Summer Walker, PARTYNEXTDOOR",Over It,1qgJNWnPIeK9rx7hF8JCPK,43IMaycr34ZR5kS8mlL5hH,,2019-10-04,205733,,0.69,0.377,7,-7.907,1,0.0793,0.672,1.06e-06,0.106,0.18,104.924
+East Atlanta Love Letter (feat. Future),"6LACK, Future",East Atlanta Love Letter,3fc97ZWLIMc1xawhxbKrh2,6rJmWa5DvQ3Nby3tdcX2L0,,2018-09-14,246088,,0.581,0.315,5,-11.947,0,0.0781,0.389,1.68e-05,0.0766,0.185,61.381
+Playing Games (with Bryson Tiller) - Extended Version,"Summer Walker, Bryson Tiller",Over It,1qgJNWnPIeK9rx7hF8JCPK,2xyx0o4xNOLLjBSbOOdcbA,,2019-10-04,143227,,0.726,0.408,11,-6.606,0,0.0614,0.603,0.0,0.225,0.459,115.918
+Girls Love Beyoncé (feat. James Fauntleroy),"Drake, James Fauntleroy",Care Package,7dqpveMVcWgbzqYrOdkFTD,56NDFbD0tCUawnqeU2wcvv,,2019-08-02,225012,,0.619,0.489,11,-11.25,0,0.46,0.782,0.0,0.106,0.328,126.046
+Love Songs,Kaash Paige,Love Songs,4vL7paKcyH9alU9RW6oRtg,6ABrDJwa6iVFuT1O1F9ZUm,,2018-11-19,148629,,0.654,0.367,5,-10.203,1,0.0938,0.825,0.000505,0.106,0.489,119.986
+Never Call Me,"Jhené Aiko, Kurupt",Trip,7CAAClnSiXdMibPT1oyl4k,0WXct4PcELq8Jh1R4Yhw4W,,2017-09-22,270547,,0.48,0.309,2,-10.238,0,0.225,0.874,1.28e-06,0.101,0.131,99.136
+Change (with Kehlani),"Arin Ray, Kehlani",Change (with Kehlani),580D5yVakExsIvkwZqbXqK,2beHQY7DvKp9q4vwilKKRS,,2019-08-16,192973,,0.712,0.473,6,-4.413,0,0.0693,0.057,0.0,0.182,0.327,86.965
+On Chill (feat. Jeremih),"Wale, Jeremih",Wow... That's Crazy,0JRDNN0AuZZiwyrOWkNDXC,5z51HY4ei5QhTjcvwq5Msw,,2019-10-11,214035,,0.597,0.733,1,-6.017,1,0.41,0.134,0.0,0.159,0.639,171.016
+Amphetamine,Smino,blkswn,3bTjPEgPzm1XwXsNlMVHhs,3Zau3JcrZcBfw8aVjKGkSX,,2017-03-14,469831,,0.619,0.532,5,-9.554,1,0.515,0.715,1.33e-05,0.0953,0.401,120.019
+After Dark (feat. Static Major & Ty Dolla $ign),"Drake, Static Major, Ty Dolla $ign",Scorpion,1ATL5GLyefJaxhQzSPVrLX,3mvYQKm8h6M5K5h0nVPY9S,,2018-06-29,289560,,0.687,0.429,2,-13.075,1,0.192,0.0407,0.0,0.142,0.336,141.966
+The Weekend,SZA,Ctrl,76290XdXVF9rPzGdNRWdCh,6gU9OKjOE7ghfEd55oRO57,,2017-06-09,272187,,0.4,0.366,8,-9.405,0,0.0597,0.242,0.0,0.126,0.161,73.313
+I Get Lonely,Drake,Care Package,7dqpveMVcWgbzqYrOdkFTD,3sMC6vfTTSa0mMAPTwzDVD,,2019-08-02,253562,,0.477,0.501,11,-9.178,0,0.0398,0.706,5.61e-06,0.0953,0.689,81.376
+Finesse,Drake,Scorpion,1ATL5GLyefJaxhQzSPVrLX,2WP8G2pdddDmnh1xbfKBOI,,2018-06-29,182080,,0.807,0.319,0,-8.152,0,0.0581,0.133,0.000338,0.101,0.299,94.992
+Jaded,Drake,Scorpion,1ATL5GLyefJaxhQzSPVrLX,4c2xt1trwYZpMqPWY35Xi9,,2018-06-29,262453,,0.764,0.271,0,-5.697,1,0.0414,0.037,0.0,0.175,0.0371,116.019
+Broken Clocks,SZA,Ctrl,76290XdXVF9rPzGdNRWdCh,2fXwCWkh6YG5zU1IyvQrbs,,2017-06-09,231253,,0.692,0.684,6,-7.364,1,0.155,0.131,0.0,0.156,0.406,112.912
+THE NEWS,PARTYNEXTDOOR,THE NEWS,5i6nptGVzZL6qY4YW0gTtN,5A3TwAmhxbQ1qZCJ8N2H8C,,2019-11-21,267384,,0.74,0.465,7,-8.27,0,0.0411,0.304,0.00404,0.101,0.276,116.74
+Own It,Drake,Nothing Was The Same (Deluxe),5mz0mJxb80gqJIcRf9LGHJ,1dHUNRY8eVXvSo6kvyFyNx,,2013-01-01,251973,,0.654,0.342,8,-11.305,0,0.101,0.0487,3.37e-05,0.313,0.294,103.064
+Can I,Drake,Care Package,7dqpveMVcWgbzqYrOdkFTD,3e0ZGE7Gp034iLknjQk4QW,,2019-08-02,189289,,0.643,0.178,4,-8.56,0,0.0588,0.484,0.0108,0.122,0.0674,85.042
+Hold Me Down,Daniel Caesar,Freudian,3xybjP7r2VsWzwvDQipdM0,1Mza2sr6tPhy6jjI3HB9fW,,2017-08-25,231268,,0.463,0.427,8,-9.799,0,0.0549,0.628,0.000565,0.0911,0.231,116.059
+Crazy.,Kiana Ledé,KIKI,6UmILTxwjM8sME3wbsZgQh,2r3s5xjWNJKwGxzJfdgEuX,,2020-04-03,135760,,0.654,0.523,1,-7.773,0,0.133,0.744,0.0,0.113,0.0404,78.99
+Toxic,Kehlani,It Was Good Until It Wasn't,6ROLwnmW9pOioLned0DaP3,5nexAvWNhwg51EavnDgViy,,2020-05-08,168183,,0.653,0.453,7,-5.395,0,0.0351,0.307,0.00101,0.113,0.0405,111.737
+Bad News,Kehlani,It Was Good Until It Wasn't,6ROLwnmW9pOioLned0DaP3,1Fraz3CzCuOULnToogIwWW,,2020-05-08,185884,,0.426,0.408,10,-4.751,1,0.0441,0.121,0.0,0.159,0.0493,132.203
+Lonely,Che Ecru,buries,0lJWRVK86cJ8AMKL7fzATJ,3eUPzIwNPydb6yB6HXuQHq,,2017-04-30,248761,,0.751,0.703,2,-6.365,1,0.0698,0.322,0.0,0.0786,0.302,111.956
+White Tee (with NO1-NOAH),"Summer Walker, NO1-NOAH",Life On Earth - EP,0MJ0Sjfn5PCa4kpUbU31JR,5m0eMnsWwzgGsUxe1mhFYR,,2020-07-10,211373,,0.791,0.366,1,-8.337,1,0.0966,0.744,7.24e-06,0.106,0.335,124.878
+Drank in My Cup,Kirko Bangz,Drank in My Cup,7tivRA9WDD0rWVazWm2pFS,3m8CQnnfJJp4eQMWWl3zay,,2011-09-16,232160,,0.451,0.632,8,-7.98,0,0.297,0.0114,0.0,0.198,0.234,132.89
+cartier love,simon tran,cartier love,4iRgqXgGPUaveVOyd2nV4f,1Ng4R3Y1MfqvvzhdLgB6gj,,2020-07-17,172635,,0.643,0.197,11,-14.133,1,0.438,0.569,0.0,0.11,0.213,99.174
+Let Me Explain,Bryson Tiller,Let Me Explain,3BjVNKsPNcmSGG5n4bHNUq,1trZGMI2CGyVT44STkpCoN,,2016-10-20,223969,,0.809,0.504,2,-3.201,1,0.15,0.00156,0.0,0.0856,0.525,120.065
+Heartbreaker,Justin Bieber,Journals,1rknZw4cyL9NInAqSwc8AA,2GCKWEsbb0Xo1oodTOKVi1,,2014-05-13,262840,,0.568,0.517,6,-7.316,0,0.0894,0.146,0.0,0.343,0.578,104.443
+lambo,Luke James,to feel love/d,0XotuUDdk43G8R4edptbju,07RKtQeEIpysXlxoeTK4Hx,,2020-01-31,300057,,0.557,0.675,6,-9.293,0,0.0369,0.0468,0.229,0.144,0.519,132.012
+Stuck On You,Giveon,Stuck On You,3Gy88OoWtHL93e8PQHiLTX,08HPWLi0YmRUStJzkQ1ffh,,2020-09-30,205116,,0.599,0.449,7,-7.423,1,0.0529,0.161,2.66e-05,0.107,0.143,158.0
+Still Your Best,Giveon,When It's All Said And Done,62Yd5v100Og1YZ7FNsGv9q,2qvWsotNWTvRkwCksOnl92,,2020-10-02,177446,,0.484,0.405,6,-7.685,1,0.0897,0.482,0.0,0.144,0.219,95.589
+Dead Man Walking,Brent Faiyaz,Dead Man Walking,7JN4bDXgC4mDcuhghlFBHc,5VlTQnZO89Ioku8ssdbqJk,,2020-09-18,247080,,0.505,0.267,9,-13.763,0,0.05,0.279,0.0,0.096,0.439,143.929
+safety net (feat. Ty Dolla $ign),"Ariana Grande, Ty Dolla $ign",Positions,3euz4vS7ezKGnNSwgyvKcd,14gkWVFMwdxBMyqBw1wmIg,,2020-10-30,208457,,0.552,0.599,1,-5.75,0,0.0404,0.0703,0.0,0.0986,0.0916,161.884
+Wicked Games,The Weeknd,Trilogy,5EbpxRwbbpCJUepbqVTZ1U,6VwBbL8CzPiC4QV66ay7oR,,2012-11-13,323747,,0.658,0.591,9,-5.197,1,0.0309,0.00959,5.27e-06,0.325,0.326,114.078
+Rehab (Winter In Paris),Brent Faiyaz,Fuck The World,3vi20DRHkqv4HyVg9Rt9wC,0zWbYGQq5O1KQd0iqzgjP6,,2020-02-07,180304,,0.549,0.242,5,-11.692,1,0.038,0.809,8.1e-05,0.127,0.286,144.211
+Trust,Brent Faiyaz,Lost,03nFfkhtHqQZZqprep3G6r,0oufSLnKQDoBFX5mgkDCgR,,2018-10-19,158421,,0.764,0.394,8,-8.559,1,0.152,0.231,9.37e-05,0.117,0.465,92.009
+I Want You Around,Snoh Aalegra,"- Ugh, those feels again",42wtqDcTQlJJbUzAPBSwaK,2VqKx3HH8gaZPabNWYvksy,,2019-08-16,212787,,0.705,0.433,4,-9.706,1,0.204,0.388,0.134,0.0841,0.602,168.006
+Trip,Ella Mai,Trip,0QzJuxEhSm5KgZ1G4KDRow,7noud145AHZGg74vpWOsCa,,2018-08-03,217118,,0.717,0.605,11,-5.68,0,0.075,0.214,0.0,0.138,0.387,81.047
+Not Another Love Song,Ella Mai,Not Another Love Song,5QJAMz9LqY5DC2BAjLmO7p,5XqDJFVCyRTm5J7cIfRmR1,,2020-10-02,217801,,0.499,0.612,4,-5.947,0,0.127,0.171,4.99e-05,0.0993,0.218,157.218
+Last Time (feat. Snoh Aalegra),"Giveon, Snoh Aalegra",When It's All Said And Done,62Yd5v100Og1YZ7FNsGv9q,2UcZEi2BIfz4wz2fxr6K3a,,2020-10-02,193850,,0.634,0.416,1,-8.507,0,0.0446,0.39,1.43e-05,0.445,0.384,81.5
+Love Like That,Snoh Aalegra,"- Ugh, those feels again",42wtqDcTQlJJbUzAPBSwaK,3sExIYzfZX7TxzWs9ki1Of,,2019-08-16,195846,,0.635,0.614,8,-7.226,0,0.0676,0.0102,2.25e-05,0.0831,0.631,165.92
+Only Fan. (with Jacquees),"Kiana Ledé, Jacquees",KIKI (Deluxe),39hdawySriH7efjFpv9v3q,4fMlzf67gGH5GQJITsxrXQ,,2020-10-23,221266,,0.427,0.52,1,-8.714,1,0.0661,0.31,0.0,0.0731,0.482,139.639
+Clouded,Brent Faiyaz,Fuck The World,3vi20DRHkqv4HyVg9Rt9wC,2J6OF7CkpdQGSfm1wdclqn,,2020-02-07,110129,,0.583,0.344,2,-8.765,1,0.0559,0.774,0.0,0.143,0.581,65.203
+Heartbreak Anniversary,Giveon,TAKE TIME,1zHR48K6XtWYm6bhrw4J6C,3FAJ6O0NOHQV8Mc5Ri6ENp,,2020-03-27,198371,,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087
+Still Your Best,Giveon,When It's All Said And Done,7GO8GILzY6wfpeFW4p5Hrq,4mPqY3ys5yhDmCCA9AKLNk,,2020-10-01,177446,,0.532,0.405,6,-7.683,1,0.069,0.481,0.0,0.144,0.223,114.363
+20 Something,SZA,Ctrl,76290XdXVF9rPzGdNRWdCh,4h6ViRoztTBpWcJ1zFT9Zg,,2017-06-09,198160,,0.569,0.299,11,-8.603,1,0.275,0.739,0.0,0.054,0.505,81.049
+ALL I NEED (feat. Drake),"Popcaan, Drake",FIXTAPE,3yqk7nimwdE2FdaA85iJM8,5s0e986tlNvseDl2YydUc6,,2020-08-07,177899,,0.573,0.427,10,-9.0,0,0.05,0.0675,9.25e-05,0.101,0.127,91.405
+Better,SWAVAY,Pure Pack,4Sy7ETSDtX3J42AhEjgKU0,5B1WYxPLcnoWXY7dnan4gk,,2019-11-01,256987,,0.72,0.299,1,-6.925,1,0.14,0.0894,0.174,0.0549,0.644,196.005
+Falling,Blxst,Falling,5lB6V48aL4Bc0c2odPP94F,63W7L2H1GPwapQcfjZnPlh,,2019-03-11,177103,,0.605,0.34,7,-10.45,0,0.255,0.315,0.0,0.104,0.443,144.561
+Clutch (feat. Kiana Ledé),"Col3trane, Kiana Ledé",Clutch (feat. Kiana Ledé),3TfI9sGZXMZtRYDMuSdDxd,6QqF0MqjQVotftZIuQUbvf,,2020-05-15,206681,,0.634,0.564,1,-7.984,0,0.359,0.663,0.000239,0.111,0.637,116.233
+Cupid's Curse (feat. Kehlani),"Phora, Kehlani",Cupid's Curse (feat. Kehlani),6qMrvrbpfWuLkaJxmI6s0v,0c03Msz0N2XIiBEpwbdlGd,,2020-10-23,212801,,0.685,0.4,6,-10.025,1,0.0635,0.699,0.0,0.148,0.543,110.874
+Gin & Tonic,Joe Trufant,Fall Through 2,0bZe3eaLSxxugfDS8gKtau,1sC9eXEyskNLuZmTONggdW,,2020-04-10,172800,,0.573,0.453,5,-8.318,0,0.267,0.61,0.0,0.114,0.345,149.466
+Backseat,Joe Trufant,Fall Through 2,0bZe3eaLSxxugfDS8gKtau,0L3gjLJtINQC0Lcn5dNdF9,,2020-04-10,209118,,0.636,0.457,2,-8.53,0,0.0726,0.605,0.0,0.127,0.421,102.097
+RPG (feat. 6lack),"Kehlani, 6LACK",While We Wait,73ZvpuYhKDr2FW4vlPsTpW,1EGrDTfEuAiRzRdxlblpET,,2019-02-22,236218,,0.758,0.534,7,-7.368,0,0.287,0.402,0.0,0.0917,0.719,132.94
+Dimension (feat. Skepta & Rema),"JAE5, Skepta, Rema",Dimension (feat. Skepta & Rema),0Zp33hB1LZhbpMQCNfzeVF,2Jy4EdqIZswDZvVDh5dx3A,,2021-03-18,234027,,0.561,0.722,4,-6.437,0,0.068,0.173,4.86e-05,0.175,0.173,103.099
+Can't Let You Go - Remix,"Stefflon Don, Tiwa Savage, Rema",Can't Let You Go (Remix),5uB7MTykLx39PBynOcJIKC,1jpWdlkRzrWWSg3tESHf34,,2021-02-11,194856,,0.742,0.678,7,-6.258,1,0.0528,0.0429,1.56e-06,0.141,0.528,104.99
+One Shirt (feat. Jonzing World),"D'Prince, Ruger, Rema, Jonzing World",One Shirt (feat. Jonzing World),7eZ8jGTEyRAtAWhSG2ttZq,03WVVqszHZDnqIXmnDH8ag,,2021-01-20,266179,,0.671,0.903,3,-3.016,0,0.068,0.254,0.0,0.0919,0.963,92.007
+Come Around,"Flipz, WSTRN, Loski",Come Around,2rzZBJCfN3RpeuL2XOjJaH,2bUg7apLMRQk6ylD8euCF8,,2020-08-28,172226,,0.776,0.717,11,-3.304,0,0.211,0.0288,7.31e-05,0.0866,0.471,138.976
+We Meuve,"DJ Paak, RLS, MR OULALA, Shady Humble",We Meuve,4fn1vLXY4w1UBsHgfPLFhr,5fWnmk9LAiqti5l4MZXquN,,2021-07-23,205905,,0.77,0.78,3,-8.089,0,0.04,0.048,0.00205,0.0195,0.701,125.004
+Ifeoma,"DJ Sean K, Oxlade",Ifeoma,3r3oqCyV7HcHwasp7BA89l,65FKm5EggqJeZXSBHhy0DE,,2021-05-07,180000,,0.8,0.72,0,-5.552,0,0.07,0.513,0.0112,0.108,0.856,100.019
+Man Dem,"Crayon, One Acen",Twelve A.M,6ZOAzx00nKsqJYRTW3wknJ,4EziPrWWeLbMzI6Oho0O7z,,2021-03-26,172848,,0.817,0.638,1,-5.122,0,0.0813,0.675,3.33e-05,0.169,0.781,107.044
+Damages,Tems,For Broken Ears,2sU8ByeYc5BOBFNDr58CGV,3Xfwu3xtPqmJ4nM4jpBm8O,,2020-09-25,169412,,0.712,0.497,1,-8.106,1,0.431,0.528,2.65e-05,0.125,0.516,128.385
+Tele,"Kelvyn Boy, Crayon",Blackstar,2rqhoCZ6mgcoGmw5UeuvGC,2vajVHA2NB5qMBaPR9mNMn,,2020-11-06,194400,,0.848,0.743,1,-7.095,0,0.0804,0.362,0.0014,0.102,0.706,100.036
+Music Messiah,"DJ Neptune, Wande Coal",Music Messiah,7cGUSuo0tL7nojDwuzfZtR,3lPOu76tRlaN6gb38z4ptx,,2021-05-28,162783,,0.737,0.867,3,-3.146,0,0.0696,0.345,0.0969,0.102,0.69,76.7
+Need You,"Fitila, Korede Bello",Need You,2DG0UVAWGEXWAZbLkvqu8d,0BcCVtBus5fmRraeC5YR3y,,2021-01-22,198602,,0.848,0.626,6,-3.675,0,0.0939,0.335,5.64e-05,0.115,0.718,93.995
+Body On Fire (feat. Buju & Inci),"Jess ETA, S'Bling, Bnxn, Inçi",Body On Fire (feat. Buju & Inci),76vh5um7IUHn8C4MgGvO1B,1EdURRWCxDPCbODG6bl9vy,,2021-04-02,194043,,0.712,0.644,5,-7.443,0,0.0407,0.189,0.0,0.166,0.802,94.003
+Repeat (feat. Koffee),"J Hus, Koffee",Big Conspiracy,3ORNNahv0Z1IU0AKoliZwn,6Yblv6BbZHIkyrpYl4E0Zk,,2020-01-24,153147,,0.867,0.725,6,-5.199,0,0.141,0.0099,6.26e-06,0.127,0.537,91.966
+Slow Down,King Promise,Slow Down,1M7aXbvLJZZU0tcW75opXe,06NG4AQXXeWnnODyUCC6ZU,,2021-05-13,177373,,0.842,0.446,5,-9.91,0,0.0695,0.672,0.0396,0.111,0.676,110.106
+Sobente,"Ecool, Myde",NewSide,70FGiijxM2AjqwkXGYnuZk,2cRkgw8R0yRG98EOANqwux,,2020-03-13,208862,,0.789,0.844,6,-3.569,0,0.2,0.0284,6.47e-05,0.0416,0.817,97.96
+Lighter,Jo-El Sii,Abracadabra,04MSZg3vUHX4KgCyYRkm9M,5eIjNWZt545SaLrBptobo4,,2021-04-09,151801,,0.729,0.656,7,-5.107,0,0.0474,0.0182,2.89e-06,0.127,0.542,103.096
+System (feat. WizKid),"Dave, Wizkid",We're All Alone In This Together,6HwzIlrCDq3WF9vMq8meqG,5gOtq0sKU24ZF8hnXlSp1V,,2021-07-22,181550,,0.817,0.669,0,-4.278,0,0.1,0.105,1.25e-06,0.247,0.693,106.934
+Afro Jigga,"LADIPOE, Rema",Providence,6y0Jfh7dZgzKcxM2hP7PgF,4z48XG61raE7WwbtJdIvqe,,2021-11-04,186923,,0.679,0.493,2,-8.22,1,0.393,0.304,0.0,0.514,0.571,99.166
+Sempe,L.A.X,ZaZa Vibes,18XSFBvoDjWRmApQZIDzkD,7AbLGIOzFkx6jHq5en5xiH,,2020-11-25,171429,,0.699,0.703,9,-7.651,0,0.273,0.517,0.0216,0.112,0.478,195.864
+Meliza,DJ Flex,Meliza,0sF2YBWi7MTf3VTsKJKWi1,6zvFe4L9dXSjpZvmcq7dmT,,2021-06-10,212007,,0.756,0.495,8,-9.028,0,0.0491,0.22,0.335,0.108,0.715,108.999
+Nu Riddim,Ycee,Love Drunk,5d0oU10qoxpnSpa4PCaKXo,3KW6KJKinwAszaajAHOSQF,,2021-10-01,189796,,0.705,0.688,10,-6.857,0,0.0401,0.424,0.000178,0.116,0.339,98.022
+Sere - Remix,"SPINALL, Fireboy DML, 6LACK",Sere (Remix),2VTdHWIwS3hf7Yi1I14ZG9,6kxo2n2WY48fAhLuiwYOAb,,2021-05-07,194182,,0.778,0.66,7,-6.662,0,0.0592,0.156,0.0,0.137,0.747,110.016
+It Is What It Is,Adekunle Gold,Catch Me If You Can,3b5r0ZryUlByiw2byA2IKn,2GVeh0VTzmdRKQ1VDie5zT,,2022-02-04,174588,,0.768,0.706,4,-7.437,0,0.263,0.19,8.75e-05,0.095,0.525,97.186
+KU LO SA - A COLORS SHOW,Oxlade,KU LO SA - A COLORS SHOW,36bNKiiUjxUCaAO7QtUVfi,2WigMwGJysIh9fRnSJvpjn,,2022-06-10,147581,,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9
+Finesse,"Pheelz, Bnxn",Finesse,4QEC4uzBJJfLVv2bD337g1,4Gasn91fsCefnN8zM5GjA8,,2022-03-03,155293,,0.859,0.551,1,-7.916,0,0.149,0.559,0.0,0.194,0.777,102.049
+Overloading (OVERDOSE),"Mavins, Crayon, Ayra Starr, LADIPOE, Magixx, Boy Spyce",Overloading (OVERDOSE),0PhRHHW803w4pHDJR4AUw8,4lVEVXrlQlXPdYWMGTwrFe,,2022-05-13,205000,,0.546,0.611,0,-9.459,0,0.172,0.484,0.00149,0.101,0.749,104.059
+Buga (Lo Lo Lo),"Kizz Daniel, Tekno",Buga (Lo Lo Lo),0nNEQYgoVlVYZEOrAC2D3h,4eZZofkV1OQ9GDqAgHqNpA,,2022-05-03,183103,,0.92,0.716,8,-7.104,1,0.105,0.296,0.00222,0.104,0.961,115.991
+Did You See,J Hus,Common Sense,6fUnZqjU3bwBOZIsQ4kN1Q,6DXEZzM4wBa3EOl0NCNSvz,,2017-05-12,181413,,0.579,0.579,11,-6.787,0,0.394,0.387,0.0,0.17,0.842,104.757
+Slow Down (feat. Tion Wayne),"Darkoo, Tion Wayne",Slow Down (feat. Tion Wayne),4slIaFabUZiXFQt1LJXTu1,1kW0R9RBRSZe9sWjp8DkKY,,2021-07-15,198058,,0.601,0.5,8,-6.665,0,0.192,0.66,3.6e-06,0.106,0.429,102.617
+Running,"Ayra Starr, Lojay",19 & Dangerous (Deluxe),16ppCNm1KGCgUS0g3iKqh8,1tKsfYB65Kz74yk0HMCdcH,,2022-10-21,142572,,0.557,0.539,0,-9.587,1,0.0877,0.521,0.0,0.101,0.562,102.877
+One Woman,"Adekunle Gold, Ty Dolla $ign",Catch Me If You Can,3b5r0ZryUlByiw2byA2IKn,7BglTfVmbUUOCQUNof4RBF,,2022-02-04,160800,,0.79,0.526,6,-5.311,0,0.231,0.367,9.89e-05,0.076,0.953,98.241
+Likkle Riddim,Joeboy,Likkle Riddim,7MqW36qjIreNVJ5Vf659uJ,3weAbRf5cn9SiCYxqZedot,,2022-10-07,165613,,0.826,0.679,1,-7.582,1,0.0904,0.385,0.594,0.0895,0.817,99.967
+Want You,Oxlade,Want You,7I2CUrd8gtIBHVXXhFbCuX,0vyg6EqfMiu45hQzFmi0YF,,2022-03-18,205192,,0.828,0.649,11,-8.052,0,0.29,0.61,0.000594,0.0812,0.612,100.012
+Therapy,Stonebwoy,Therapy,5HTQ5jXZYHmG0rsYpABqGp,1qIATFQg93M6KvhPh9QSNc,,2022-05-03,185342,,0.567,0.72,5,-5.428,0,0.229,0.0456,3.04e-06,0.167,0.436,188.128
+Bloody Samaritan (with Kelly Rowland) - Remix,"Ayra Starr, Kelly Rowland, Loud Urban Choir",Bloody Samaritan (with Kelly Rowland) [Remix],7DT4lrXkDrsd4yP2z3D8NX,0RGGAP5gpvToJyUZbiEcXO,,2022-09-28,189000,,0.806,0.738,8,-7.443,0,0.149,0.125,0.0,0.0805,0.385,105.008
+Bounce,"Lexsil, Otile Brown",Bounce,1hvjC4J7XL2yLFg54fhKu4,5dNifN92fKRGXWas8YQ80O,,2021-12-03,201247,,0.717,0.835,1,-5.911,0,0.179,0.728,0.013,0.141,0.775,101.25
+Ride with Me,"Teckine, Mai Myers",Ride with Me,4hlKM87HVW6YcmZYpqYQ8N,25bFpQA16dS8yTqEdzVbN7,,2021-04-13,206118,,0.759,0.575,2,-9.488,1,0.0471,0.541,0.0,0.139,0.776,95.982
+Mood (feat. BNXN),"Wizkid, Bnxn",Made In Lagos: Deluxe Edition,6bCs4XCCkm9cTwlswlu0VD,6jdTkoEaer7XNGSblczoSu,,2021-08-27,209760,,0.897,0.7,1,-2.776,0,0.117,0.0193,0.009,0.12,0.755,101.944
+Dumebi,Rema,Rema,4l8Gg5qk0QodyJ12SNtdUf,0SjQBdIddPvKSWxr8vk6QX,,2019-03-22,179775,,0.923,0.657,3,-5.173,0,0.0605,0.199,0.00407,0.108,0.734,110.015
+2 Sugar (feat. Ayra Starr),"Wizkid, Ayra Starr","More Love, Less Ego",73rKiFhHZatrwJL0B1F6hY,1DA2ADZs6O28y2rmdmpekw,,2022-11-11,187907,,0.914,0.643,6,-3.862,0,0.134,0.0498,0.0,0.0618,0.764,105.033
+From Up Above,Twinjabi,From Up Above,2mKhNK268xfxpiBtuIejNt,1oGrLEdtViIzZ2hNPbR1fL,,2022-10-21,135140,,0.963,0.565,8,-6.273,0,0.067,0.171,0.00114,0.101,0.739,107.055
+How Many Times,"DJ Big N, Ayra Starr, Oxlade",How Many Times,32pRltYP2ioIOuycPQFpXm,45Vvoe20MW6GD7FwoacZc8,,2023-04-14,192000,,0.654,0.666,5,-6.618,1,0.185,0.412,0.00493,0.113,0.804,209.929
+soso,Omah Lay,Boy Alone,5NLjxx8nRy9ooUmgpOvfem,1wADwLSkYhrSmy4vdy6BRn,,2022-07-14,183057,,0.711,0.725,3,-8.315,0,0.0941,0.424,0.129,0.11,0.53,105.016
+Electricity,"Pheelz, Davido",Electricity,5vOpDVowekdCylaDIiV5We,6McBvfxgkVfREmQPwTKBUn,,2022-08-18,132913,,0.823,0.717,9,-3.879,1,0.0704,0.0356,0.0,0.102,0.489,110.998
+Ta Ta Ta (with Jason Derulo),"Bayanni, Jason Derulo",Ta Ta Ta (with Jason Derulo),6plZIBIIAhS0URu19s65O1,1LRGZESVn8eF7WVY5DzLNy,,2023-04-14,159500,,0.744,0.627,5,-9.216,0,0.118,0.0496,0.000701,0.1,0.56,104.12
+woman,Omah Lay,Boy Alone,5NLjxx8nRy9ooUmgpOvfem,5v8Fxy6Zw8gOzi802lpDOt,,2022-07-14,168743,,0.831,0.601,2,-5.674,0,0.321,0.386,0.116,0.104,0.492,104.068
+"PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)","DJ Tunez, Wizkid, Adekunle Gold, Omah Lay","PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",6OTNestAuAxK7wytwRiq9q,6iC4xfqow6iAsRhPh5IrWz,,2020-08-13,213600,,0.755,0.645,3,-6.933,0,0.0944,0.625,5.79e-06,0.197,0.695,99.889
+Tiki Taka,Vacra,Tiki Taka,0BxUHxJCLTnXXtBjIUK51N,7LKbaK4RD00Nso9EJk4opn,,2022-11-10,174480,,0.833,0.872,7,-4.988,0,0.0426,0.384,0.365,0.113,0.741,112.044
+Aquafina,Young Jonn,Aquafina,3mMVoC6HJ8mqcq9qd5GmUC,59sAr7NvZDeH7oYrkiyZcQ,,2023-04-28,168103,,0.821,0.619,6,-9.496,0,0.102,0.0286,4.93e-06,0.118,0.388,115.949
+Bunda,"SPINALL, Olamide, Kemuel",Bunda,011rNBobpGt1eRJPtqeOlQ,2Sd6kW3eOWZBe86hIA8YNm,,2023-01-20,207991,,0.775,0.595,6,-12.688,0,0.0488,0.0651,0.00157,0.156,0.623,111.974
+For Daddy,Mayorkun,For Daddy,3i534DhtsQpI3SVgoBH6mf,3AqnDZV9TZJU6SfuXK90iT,,2023-04-27,153233,,0.738,0.813,7,-5.876,0,0.0409,0.423,0.00305,0.104,0.744,116.015
+Girl Next Door,"Tyla, Ayra Starr",Girl Next Door,1FLS0YAOPY3Mcb0o5n5fl4,000N4CJL8IjQ0f2I4grgBO,,2023-05-11,189568,,0.762,0.731,1,-5.114,1,0.0501,0.0879,0.000229,0.173,0.563,113.987
+GWAGWALADA,"Bnxn, Kizz Daniel, Seyi Vibez",GWAGWALADA,0lgduYlejtLccLxJo5Q1fc,6wuMo4ZR83PhlhXhJ1S3VY,,2023-02-15,190542,,0.838,0.569,4,-8.414,0,0.0529,0.194,0.0377,0.0802,0.63,113.046
+Go Dance,"Afro B, Busy Signal",Afrowave 3,79dXMRWb9dGw08ud6M87GH,60ikLb85vSEVkZKnNyuFic,,2019-10-11,181111,,0.922,0.715,7,-5.892,1,0.102,0.000226,0.000194,0.066,0.8,108.028
+Wine For Me,Popcaan,Forever,0xAUnt43o2FfxIpVFusIOq,5YTI54BQ2RulzKKcGl4TSu,,2018-07-20,189543,,0.758,0.591,1,-6.921,1,0.313,0.0522,2.48e-05,0.0949,0.524,99.977
+Pull Up,"Timaya, Burna Boy",Chulo Vibes,1JlzIGbFMWsyL5WBEADj6Q,3qF8DcoQpQ1IXlMbTKHylP,,2019-02-08,196800,,0.847,0.7,6,-5.571,1,0.0532,0.678,0.000129,0.0975,0.88,99.956
+Vibrate,"Afro B, Konshens, Stadic, Jonny Blaze",Vibrate,5ownMtyYCzXj0gYwkJudh0,6IpYgAtkoBjRh0aLd6Uyko,,2020-04-25,162353,,0.902,0.948,2,-2.59,1,0.111,0.141,0.000387,0.0306,0.804,102.002
+Back It Up (feat. Geko),"Ms Banks, Geko","The Coldest Winter Ever, Pt. 2",2VhbDV9Uog2Ds3KbPWqyeW,61atvnbKvHYadL9BwI873w,,2019-12-12,187068,,0.726,0.759,7,-4.853,1,0.056,0.0455,0.0,0.108,0.774,97.993
+Bad,"Blaiz Fayah, Tribal Kush",Bad,63pt4WgsnKd5kJ3O5DBPD6,2WrxGpnCvpwiQkcHDDmVXc,,2021-01-22,150303,,0.783,0.748,2,-4.118,1,0.188,0.00451,4.62e-05,0.135,0.799,99.16
+Nice To Meet Ya (feat. Yxng Bane),"Wes Nelson, Yxng Bane",Nice To Meet Ya (feat. Yxng Bane),5lSwDdPjMSQk27KwUYlC2r,1YHjRAptXqPdsdx3g6FNJL,,2021-04-01,181919,,0.802,0.719,4,-4.271,0,0.0792,0.081,0.0,0.141,0.336,101.971
+Omo,Burna Boy,African Giant,34vlTd4355ddD4q9pPsoqF,4FtuDjqmTPP9mjxygLKzEm,,2019-07-25,147143,,0.895,0.718,2,-4.579,0,0.0581,0.246,1.45e-05,0.0892,0.88,100.036
+Bloody Samaritan,Ayra Starr,Bloody Samaritan,6yVmMVK9QFBPECEAft4mOd,3Keas2doqXf1veo2DOOIdz,,2021-07-31,187000,,0.796,0.719,8,-7.018,0,0.138,0.036,0.0,0.0718,0.242,105.027
+Distant,B Young,Differences,2r9OrPhMwHZ8sDQBG02Q5J,4dOTiHhybueXICWQke4Jin,,2021-07-30,150171,,0.693,0.508,4,-8.727,0,0.0863,0.591,6.14e-05,0.0975,0.553,104.995
+Joko,Shae Jacobs,Joko,3yQhw3IyBP4qUlzqGPBIWa,2Hl8gV4o4WTclSWJ77xvMY,,2019-11-08,156000,,0.763,0.621,11,-7.937,0,0.143,0.194,0.0,0.222,0.714,94.83
+Pretty Girl,"Adekunle Gold, Patoranking","Afro Pop, Vol. 1",6GHHoK6LC0Y36nYsouK8qR,6G7Jnkix0H7nBxqjqGbD50,,2020-08-21,186783,,0.8,0.751,10,-3.604,0,0.0781,0.00969,0.000782,0.0381,0.646,93.999
+So Fine,KiDi,The Golden Boy,7sX992U7KTu4up4jW1LEPX,0ygsbxggnpHGN9SmvSsAzj,,2021-06-23,162353,,0.596,0.756,1,-4.147,0,0.0887,0.0368,0.000447,0.148,0.654,203.928
+You Dey Feel The Vibe (Live),"FRA!, Nana Yaw Ofori-Atta",You Dey Feel The Vibe (Live),3MdmMxsZPo4hSM0XvOx6PN,3jDxl1SAnCCZ6TIod7uD7n,,2023-03-02,302000,,0.797,0.816,0,-3.909,1,0.196,0.0626,2.31e-05,0.859,0.845,104.994
+Jabo (feat. Fireboy DML),"Wande Coal, Fireboy DML",Legend Or No Legend,1pSC9nqMSfJgh6WVZYkTqJ,34G3Mj8y2wCp4lh4yW0hSf,,2023-05-17,160972,,0.804,0.507,6,-12.276,1,0.0547,0.211,0.000172,0.0877,0.778,123.028
+Do You Mind?,Adekunle Gold,Do You Mind?,4EaF4hW9uXMGmoVlqbC1cw,6gYHfdySsN4Hqvr4f0g3BX,,2023-05-23,147174,,0.795,0.652,1,-8.438,1,0.49,0.365,5.05e-06,0.0837,0.657,96.753
+Don't Rush (feat. Headie One),"Young T & Bugsey, Headie One",Don't Rush (feat. Headie One),1UX0F7yksh3rHlEJKvliAT,0PXukVbYpvz40KcEFKnIw7,,2019-11-07,207640,,0.961,0.461,9,-8.684,1,0.27,0.202,0.00402,0.162,0.324,108.028
+Sittin' On Top Of The World,Burna Boy,Sittin' On Top Of The World,3QZxr89jANriqgMK02R9Bn,4L4m2mgZDF8KIkJPdWWIAf,,2023-06-01,159372,,0.789,0.839,8,-4.24,1,0.0589,0.0321,0.00476,0.108,0.656,98.021
+My Touch,"Chop Daily, Eugy",My Touch,660FdEyygAGtIBSG19YgOq,0Sst9yM0gkWIsWgxuI73OX,,2020-11-27,179444,,0.851,0.815,6,-6.008,0,0.132,0.0503,0.255,0.097,0.68,119.987
+Sability,Ayra Starr,Sability,3ACRYhith1SxOT6teukBvy,5V9XFfvCG4WP5ZdISOLvaF,,2023-02-10,166559,,0.845,0.7,4,-8.737,0,0.0391,0.1,0.00113,0.0984,0.85,119.997
+My Darling,Victony,My Darling + Angelus,0FLA39VyPgqIUGQg413ptJ,1Lyo0G6hpTjWfWi8zjd9Wz,,2023-06-23,193500,,0.772,0.501,1,-8.691,1,0.167,0.484,0.127,0.111,0.824,102.052
+YAWA,Fireboy DML,YAWA,3x4uU6LegVMe04Dn5fLiLw,5tM3Fo4qBqDAwWJ9ZY5AtX,,2023-06-22,177778,,0.845,0.609,9,-6.498,1,0.0401,0.0805,0.000416,0.0842,0.648,108.005
+FEEL,Davido,Timeless,6lI21W76LD0S3vC55GrfSS,1mk8ZC9OeTZMr8Wy31LqRj,,2023-03-30,154513,,0.837,0.831,2,-6.21,1,0.08,0.0923,0.176,0.0819,0.529,111.978
+Charm,Rema,Rave & Roses Ultra,0nayxjaX54Frd7GsZq6Pbs,1iBWjQ9af9NnUd5xnQDB3k,,2023-04-27,204750,,0.768,0.663,4,-6.901,0,0.0355,0.581,0.0,0.0974,0.559,96.039
+Asiwaju,Ruger,Asiwaju,5xqEVPQeBA9GUnEFJhyCtt,7ErtOGQ9DwyQa3lwP77j4u,,2022-11-14,216000,,0.727,0.6,8,-4.799,1,0.24,0.636,5.1e-06,0.106,0.754,199.796
+Tek Buddy,Skeete,Vibes Don't Lie,6Dl92Rb1qVMsN0cBzTVwMU,10OmeI0uRJArozB5QpnQke,,2023-07-07,148333,,0.66,0.544,1,-5.427,0,0.378,0.762,0.0,0.0892,0.424,87.228
+Don't Rush (feat. Headie One),"Young T & Bugsey, Headie One",Plead The 5th,56as8vSyIlRSTNoCgIJb4S,7LRmDx4pMTQuOBBwRT1MCT,,2020-03-20,207827,,0.963,0.449,1,-8.701,0,0.323,0.185,0.00616,0.18,0.337,108.043
+Who Is Your Guy?,Spyro,Who Is Your Guy?,48L6IyMWELE0HIz5JdhW34,1kyYCsP2NRZEKkBg9wcF2c,,2022-11-25,160408,,0.907,0.617,1,-4.82,1,0.0461,0.107,0.0128,0.141,0.677,114.981
+Commando,Mavokali,Commando,31sUe2fAR76RTCiz9emu0J,1k4VnMH8KMeaz653dOsRFv,,2022-09-28,161720,,0.914,0.66,3,-5.434,1,0.0846,0.572,0.000821,0.267,0.705,104.988
+Check (with RAYE),"Kojo Funds, RAYE",Golden Boy,4QJ5jTYVijBczD7o2ynp9P,53i7ll4F1dpYS0ZUQx9USd,,2018-09-28,215573,,0.41,0.718,3,-6.295,0,0.126,0.21,0.0,0.079,0.57,94.332
+I Like (feat. WizKid),"Kojo Funds, Wizkid",I Like (feat. WizKid),7b57oWMZmdG8wjwjtRiKSO,5s7j77zpP6e9uz2Q1DU851,,2019-08-08,192785,,0.496,0.833,5,-3.398,1,0.287,0.268,0.0,0.0858,0.63,134.944
+Science,Burna Boy,"Love, Damini",6kgDkAupBVRSqbJPUaTJwQ,5SoDaPgXA4C2BuTPPInaV2,,2022-07-07,201794,,0.873,0.713,6,-5.614,0,0.102,0.0219,0.0214,0.336,0.839,101.996
+"Tested, Approved & Trusted",Burna Boy,I Told Them...,1JzjwUKkPsdHg1SQ7qa5hc,4Lk9PYDhAucTZMyccvt66Z,,2023-08-24,220394,,0.821,0.482,6,-9.976,1,0.0941,0.161,2.71e-06,0.0885,0.647,93.043
+Cheat On Me (feat. Dave),"Burna Boy, Dave",I Told Them...,1JzjwUKkPsdHg1SQ7qa5hc,3FyxwVvc9JqmVl5IVDPaNU,,2023-08-24,222640,,0.734,0.648,4,-5.509,1,0.173,0.124,0.0,0.215,0.672,97.984
+City Boys,Burna Boy,I Told Them...,1JzjwUKkPsdHg1SQ7qa5hc,4RoKNqyZ9622tcAeNPNv5k,,2023-08-24,153347,,0.808,0.634,2,-6.764,0,0.172,0.0851,0.0,0.127,0.569,100.03
+Nack Remix,"The Therapist, Mayorkun",Nack Remix,27iamLPlZhs4W8c8SYl6mD,0SzvGgLW3d3P6ODpRwxGPA,,2022-09-21,178468,,0.928,0.676,1,-6.926,1,0.0777,0.0596,0.000962,0.0943,0.518,113.08
+Sere,"SPINALL, Fireboy DML",Sere,32hcgwyvVbizVzvyIGLfTT,7IDrQtd8JrnExDCPSq0W90,,2020-12-04,185455,,0.689,0.68,7,-6.261,0,0.117,0.0778,1.53e-05,0.142,0.625,109.923
+Cold Outside,"Timaya, Bnxn",Cold Outside,7lVp4uiQQr65XGWwmwQWR0,2jZ2MrAk8iNZk1dsI0Vr5z,,2021-10-14,181224,,0.737,0.663,11,-6.981,0,0.101,0.287,0.0508,0.523,0.839,98.014
+Lonely At The Top - Remix,"Asake, H.E.R.",Lonely At The Top (Remix),4uKPsyfeHc4KFn0mxPa59y,04caQq1IeChrnBnvch1FQf,,2023-11-15,157714,,0.718,0.749,6,-7.349,0,0.0587,0.787,0.000258,0.182,0.908,105.086
+Sensational (feat. Davido & Lojay),"Chris Brown, Davido, Lojay",Sensational (feat. Davido & Lojay),68nJVTjmRbl5se1eYTglBA,5HM5trJxTouv3eUVcbW8sh,,2023-10-20,231109,,0.774,0.611,6,-7.077,1,0.126,0.108,0.0,0.116,0.808,100.011
+NO COMPETITION (feat. Asake),"Davido, Asake",Timeless,6lI21W76LD0S3vC55GrfSS,5DttTktPy0RMZPz4UNfFm4,,2023-03-30,156213,,0.568,0.868,2,-2.659,0,0.0825,0.381,2.85e-06,0.102,0.713,99.525
+Truth or Dare,Tyla,TYLA,6cWVXZCgpDJhvFOqB6o0DP,1whAXVGN8AdfrnoXNIXfJf,,2023-12-01,190393,,0.61,0.599,1,-5.752,1,0.341,0.183,0.000124,0.0854,0.805,154.255
+DND,Rema,RAVAGE,53oOgXjjaTx42Sy2exYlH9,4E8EciYYzTKF4REO51XQiS,,2023-10-26,166000,,0.788,0.819,5,-5.795,1,0.0327,0.0127,0.0,0.225,0.2,107.003
+Dalie (feat. Baby S.O.N),"Kamo Mphela, Tyler ICU, Khalil Harrison, Baby S.O.N",Dalie (feat. Baby S.O.N),0J4K8H2exzOLpz1RcfZbID,4URabg9AGHasjFEVdTbWcC,,2023-10-11,280425,,0.831,0.568,1,-9.984,1,0.0515,5e-05,0.0901,0.122,0.16,113.009
+wRoNg (feat. Kehlani),"ZAYN, Kehlani",Mind Of Mine (Deluxe Edition),5amj9zNeZ3B2EdpBgXrOZ0,7iCeaYJSEdGWeFNTAEqUzJ,,2016-03-25,212747,,0.614,0.475,7,-8.642,0,0.0362,0.395,1.06e-06,0.265,0.422,99.968
+Footsteps (feat. Musiq Soulchild),"Kehlani, Musiq Soulchild",While We Wait,73ZvpuYhKDr2FW4vlPsTpW,4k6hX9RKD096K1NCjjJZLc,,2019-02-22,273349,,0.42,0.638,2,-4.212,1,0.209,0.817,0.0,0.371,0.478,88.546
+"Slow Down - 12"" Version",Bobby V.,Disturbing Tha Peace Presents Bobby Valentino,6tiqcLj9TP3qaxWUbNuPYn,4Ilen0VxPEsVRLpnePji8P,,2005-01-01,258667,,0.568,0.732,11,-4.896,0,0.103,0.179,4.92e-06,0.401,0.626,186.048
+KANTE (feat. Fave),"Davido, Fave",Timeless,6lI21W76LD0S3vC55GrfSS,7vKXc90NT5WBm3UTT4iTVG,,2023-03-30,194040,,0.724,0.809,6,-5.022,0,0.0929,0.182,0.0,0.0765,0.606,99.005
+Monalisa,"Lojay, Sarz, Chris Brown",Monalisa,6eGxth6Bbmudt9k7ybo5Ll,3baPniPXS0iEII8rDUJdYP,,2022-05-19,212976,,0.828,0.726,10,-6.389,0,0.0419,0.106,0.00101,0.103,0.67,113.017
+It's Plenty,Burna Boy,"Love, Damini",6kgDkAupBVRSqbJPUaTJwQ,5hVjoL3sHepZROri63wBxP,,2022-07-07,216992,,0.776,0.565,7,-10.609,1,0.105,0.36,8.81e-05,0.308,0.53,107.035
+UNAVAILABLE (feat. Musa Keys),"Davido, Musa Keys",Timeless,6lI21W76LD0S3vC55GrfSS,2kaH2Z8ezDUKf6fNw250rZ,,2023-03-30,169912,,0.788,0.649,2,-9.674,1,0.0532,0.253,0.0136,0.12,0.229,113.009
+Ta Ta Ta,Bayanni,Bayanni,0XIgw74GKfTD6MCOHzhovL,3rmqNsOiGqqvFNTmGlzl4R,,2022-08-24,159426,,0.735,0.592,1,-11.208,1,0.0534,0.0661,0.522,0.125,0.603,104.065
+Sensational (feat. Davido & Lojay),"Chris Brown, Davido, Lojay",11:11,0tL8CzbfmF5poGm9puqALR,44G2gUVQvNNZ6w3i05tR4n,,2023-11-10,231109,,0.774,0.609,6,-7.077,1,0.126,0.101,0.0,0.117,0.797,100.008
+Soundgasm,Rema,Soundgasm,5dfgyak8CbmvnfGHUlBq1n,5c549LWiKCWGvcDsZwMN6v,,2021-06-10,204755,,0.805,0.525,6,-7.376,0,0.0638,0.119,0.00203,0.0779,0.693,100.033
+People (feat. Ayra Starr & Omah Lay),"Libianca, Ayra Starr, Omah Lay",People (Remixes),2Ebc4HsLcB4fXrTA5oNE5G,4AxG1T6UJJ4xCX4Wz6JDLG,,2023-03-31,184633,,0.559,0.453,10,-8.746,0,0.0684,0.592,1.23e-05,0.0909,0.622,123.906
+Rush,Ayra Starr,Rush,6CvEsGBD3JdbDKpmJaXn2E,1rrqJ9QkOBYJlsZgqqwxgB,,2022-09-16,185093,,0.792,0.503,1,-8.044,1,0.0626,0.0369,0.00057,0.0959,0.381,99.97
+Calm Down,Rema,Rave & Roses,0xrTH9uvOL1BoFAOR61zTG,3BnDvpeuGOj21Ir2aVEtQo,,2022-03-24,219669,,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003
+Sip (Alcohol),Joeboy,Sip (Alcohol),5Pvx6i7lDdbDMO79DE9FHR,4tr4oHjFijp0EgISHYDIXe,,2021-09-24,158400,,0.804,0.615,10,-7.033,0,0.137,0.404,0.0,0.0987,0.816,100.058
+Toast,Koffee,Rapture EP,0v1VLjgwVun46wA13DWUJI,7sd72KZS8D59g5NmhxyHpJ,,2019-03-14,191502,,0.906,0.638,10,-7.917,0,0.256,0.0342,1.7e-05,0.0725,0.789,99.959
+Soweto,"Victony, Tempoe",Outlaw,1oSN6MKvpXR5WOHnsPi05w,3IQT2MM49GkXfHF9eemaw5,,2022-05-06,148000,,0.747,0.665,5,-7.073,0,0.0363,0.0289,0.000153,0.102,0.554,104.959
+Last Last,Burna Boy,Last Last,6aWJgsbvVPQR2HgPztf4qe,2PDgArI0p7UkeYgXWuqpmh,,2022-05-12,172342,,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925
+love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix],"CKay, Joeboy, Kuami Eugene",love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix],4mI7w8746bh2UPt2LGeeEl,140dx97IbJbQhIMd7AaHeb,,2020-02-13,188093,,0.655,0.708,5,-6.403,0,0.141,0.568,0.00117,0.113,0.525,186.017
+Touch It,KiDi,Touch It,3VDgHI9zYEzSeH1dv8ij1c,3h3xeg5OGNYVM0U9rOAc6j,,2021-05-05,165000,,0.893,0.757,10,-2.843,1,0.0738,0.112,0.0634,0.107,0.681,95.018
+Bandana,"Fireboy DML, Asake",Playboy,1pUJnA3OSbvVr5afqxNARZ,2qWwuCVeMjF9mUT0S5Iqvl,,2022-08-04,178225,,0.818,0.605,1,-7.121,1,0.038,0.293,0.0116,0.0696,0.366,104.931
+Real Man,Korede Bello,Real Man,3GZNX1TLAGQu3FyE3J6F2w,765zfCJsXtDDPInx1smYLo,,2021-02-05,175099,,0.587,0.818,3,-4.136,0,0.155,0.29,3.02e-06,0.11,0.886,191.637
+Antidote (feat. Adekunle Gold),"Nao, Adekunle Gold",Antidote (feat. Adekunle Gold),3KQZiAYQg3kXCKPKKNDdbX,1ndeyZurGdaWqLh3srX0ia,,2021-01-07,202627,,0.784,0.771,11,-3.897,0,0.0678,0.205,1.18e-06,0.194,0.831,100.006
+Infinity (feat. Omah Lay),"Olamide, Omah Lay",Carpe Diem,6fG2eFCgUmytQWL6umtsCh,5DS9LiyEdw2zY8bM6kjjgM,,2020-10-07,171765,,0.93,0.535,7,-8.755,0,0.111,0.303,0.0201,0.146,0.518,102.017
+One Night,Maleek Berry,Isolation Room,5emWvZXLpOj5CrtK8NOuJp,6mrs3TiZ3fnUnJu72OkCrG,,2020-07-31,223846,,0.753,0.631,5,-6.379,0,0.086,0.228,0.0402,0.333,0.81,103.941
+understand,Omah Lay,Understand,3eFRo446TwN1OOr3DIJhcB,3cC17ZyEHU4ljycyCaWbbr,,2021-07-08,174545,,0.695,0.646,0,-7.291,1,0.103,0.178,0.216,0.0913,0.639,99.983
+emiliana,CKay,Emiliana,4LTckGxBOI0fEkliC3zbIp,6lZ5p6VTbZ2ZvnsdTlLv7I,,2022-03-04,164848,,0.738,0.549,6,-9.704,1,0.0513,0.638,0.402,0.111,0.475,98.965
+Ginger Me,Rema,Ginger Me,1jAYq6eDQAyDFvuJDWdsS4,28QpG4RmYhxq2YxjmQ06Ch,,2020-06-18,205893,,0.567,0.577,8,-7.833,0,0.134,0.134,0.000397,0.145,0.719,200.008
+Dior,Ruger,The Second Wave,2X0RCBDJankvvvaJgMUUHD,6nLdg1lpE3dHLmNam1aoA6,,2021-11-26,220526,,0.75,0.539,7,-6.704,1,0.215,0.164,0.0226,0.0633,0.809,196.054
+Cough (Odo),"Kizz Daniel, EMPIRE",Cough (Odo),3j33Z0rLryDGCZFRhppoZq,0u2A4QNAMUyfQbgfVR3HvK,,2022-10-13,176135,,0.891,0.692,5,-6.321,0,0.0483,0.173,0.132,0.0939,0.895,109.944
+Kilometre,Burna Boy,Kilometre,3t3tbmUPaWrFTUriPUeiXc,15NVnnLI5oXQSw10lKrR51,,2021-04-29,153786,,0.866,0.805,9,-4.029,1,0.128,0.0466,0.0,0.0196,0.496,102.971
+In My Maserati,Olakira,In My Maserati,1T71AmrE2EzFTpaFF9kl77,0lwegRNqxrSXhrttOUEpFq,,2020-06-26,187959,,0.757,0.884,6,-4.708,1,0.0615,0.177,0.0,0.0974,0.833,103.984
+Bandana,"Fireboy DML, Asake",Bandana,18ykMJdXdkUldVNESaXDke,5CTQCPv51aLWpwTbqo8mEL,,2022-07-13,178225,,0.818,0.605,1,-7.121,1,0.038,0.293,0.0116,0.0696,0.366,104.931
+Girlfriend,Ruger,The Second Wave Deluxe,6dvqARQzWnVbGym9dEWw4Y,4MzOppXoeKvDsVaNMeOK3C,,2022-06-17,196800,,0.788,0.913,5,-4.495,0,0.0671,0.243,0.0689,0.272,0.672,99.994
+Essence (feat. Justin Bieber & Tems),"Wizkid, Justin Bieber, Tems",Essence (feat. Justin Bieber & Tems),0Rn8NAh8NnoaCOt8r8Tc3e,1mSdbey7RstGLY2udgXv74,,2021-08-13,263289,,0.835,0.691,0,-5.828,1,0.113,0.0159,1.44e-05,0.108,0.581,103.999
+Jagele,Burna Boy,"Love, Damini",6kgDkAupBVRSqbJPUaTJwQ,2dGE7HMvZEjuNxzz4IDLyL,,2022-07-07,182037,,0.726,0.617,5,-8.434,1,0.129,0.0475,0.0796,0.112,0.629,189.953
+Fall,Davido,Fall,49EjkUgoE70dxKcXXd9szs,4ou5xyFUJX4VwX76tw1qb1,,2017-06-02,240000,,0.928,0.675,5,-3.535,1,0.0566,0.379,0.0,0.0533,0.794,105.952
+Abracadabra,"Boj, Davido, Mr Eazi",Abracadabra,5XasIPDB4ageL0kjrEukzE,1Jrrjn30MNNzetRHTwGxvw,,2020-08-07,195789,,0.735,0.696,0,-7.097,0,0.0574,0.0562,0.0292,0.0594,0.955,94.973
+Woman,Rema,Woman,05ytkPc0ZnkQRwp05V1T8v,62N0RkCCs4XQXk7hgnpOXo,,2020-07-02,238912,,0.84,0.687,11,-7.203,0,0.1,0.115,2.2e-06,0.115,0.678,113.038
+Peru,Fireboy DML,Peru,79O3iaxnmfBDwqueQJiNBe,0lk5tzmaJWVAv5GBvpm3xu,,2021-07-21,151641,,0.951,0.415,7,-6.847,0,0.077,0.572,0.00403,0.0792,0.633,108.014
+If,Davido,If,1N4On17z3onc2NH2XgHdLx,0XQuWhRG7qD7OYHKsgt0BN,,2017-02-17,237714,,0.951,0.661,7,-2.678,0,0.0612,0.397,0.0,0.0686,0.926,104.997
+Ye,Burna Boy,Outside,26du6obYLeY1vf6xIJ1l0D,3FskQrDXcY24ur2fCvz35O,,2018-01-26,231618,,0.503,0.592,5,-5.923,0,0.444,0.0181,0.00014,0.169,0.344,201.85
+Bruk Off Yuh Back,Konshens,Bruk Off Yuh Back,46SMy1MXYZq5qnIpHKAd1U,30mNHDOw7qD5SF8tBeuPpu,,2016-12-22,173465,,0.816,0.875,7,-2.499,1,0.184,0.187,0.0,0.0346,0.952,100.967
+i'm a mess,Omah Lay,Boy Alone,5NLjxx8nRy9ooUmgpOvfem,65v99AWZyNz3aRmfrT2I7N,,2022-07-14,153946,,0.682,0.633,4,-6.213,1,0.239,0.307,0.0328,0.112,0.601,123.259
+System (feat. WizKid),"Dave, Wizkid",System (feat. WizKid),5ABN8cUVC3sZZQQLvGjiUM,5laAdwuT8EEvkIXrmrhRSB,,2021-07-22,181550,,0.817,0.669,0,-4.278,0,0.1,0.105,1.25e-06,0.247,0.693,106.934
+Jabole,"SPINALL, Ycee, Oxlade",Jabole,3sogXCALTZERXTr4Q6qgq6,2zHalMMFk6lrhUUAhXFR4X,,2021-06-18,165300,,0.708,0.738,5,-6.779,0,0.0601,0.247,0.0561,0.104,0.55,100.101
+Scatter,Fireboy DML,"Laughter, Tears & Goosebumps",4dZjYBEciWomanesAv3fie,0s3ZpsAaVCbWxDhLq2B2wh,,2019-11-28,164000,,0.726,0.802,11,-6.528,0,0.197,0.0428,0.0728,0.314,0.593,119.829
+No Fit Vex,Burna Boy,Twice As Tall,218CJKDCszsQQj7Amk7vIu,5CUVCOC6mnZoBFqdkdYrDH,,2020-08-13,221360,,0.771,0.656,8,-8.225,1,0.279,0.217,2.43e-05,0.224,0.415,95.939
+Big Thug Boys,AV,Big Thug Boys,33XnJkxrpCyni7MnbnZPCj,5dFSwQk7dEGgccEpyzqskS,,2021-06-04,172690,,0.861,0.721,10,-4.473,0,0.133,0.39,0.00827,0.108,0.831,108.105
+All of This (Jorja Smith x GuiltyBeatz),"Jorja Smith, GuiltyBeatz",All of This (Jorja Smith X GuiltyBeatz),0Q7QMfuDDS2Pm0OAxaJSPU,6u06O02Qv5ZdwD0x9SqEbX,,2021-08-05,313846,,0.616,0.504,0,-6.882,1,0.091,0.0345,0.000764,0.0667,0.4,155.964
+Ojuju,"Troniq Music, Oxlade",Ojuju,1cYo9eumR211el6QbRzW2m,1JvW2HjzFdEcaFrpsEeq0e,,2021-08-12,187300,,0.51,0.71,8,-6.883,1,0.304,0.263,0.0,0.108,0.784,57.182
+Pull Up,Femi Jaye,Pull Up,2is0Jpj6eBuyxcxooXHqUK,2bWWFbYMCQ9XLSJ5Bh24yJ,,2021-07-30,200999,,0.711,0.751,3,-7.109,0,0.0777,0.0119,0.000627,0.0577,0.868,160.091
+SPUNK,WurlD,MWWU,0NBaKfplyaTuveWlC1oB0z,6CY2Bg6y16n0OZ3NBdEqFY,,2021-08-14,224348,,0.535,0.563,4,-6.681,0,0.197,0.0768,1.45e-05,0.121,0.345,91.17
+Blessed (feat. Damian Marley),"Wizkid, Damian Marley",Made In Lagos,6HpMdN52TfJAwVbmkrFeBN,3QO1m6i0nsrp8aOnapvbkx,,2020-10-29,262973,,0.612,0.651,1,-6.974,0,0.281,0.0864,0.0,0.368,0.902,90.272
+Breakup Riddim,"DJ Aroma, Mr Eazi, Nhlanhla Nciza",Breakup Riddim,4jgEls0nOqJJdC2WepmEdf,6eQJlOBTVunZYc0DvVj1H0,,2021-07-02,204549,,0.8,0.647,6,-9.473,0,0.0352,0.0672,0.00154,0.0648,0.203,115.025
+Summer Time,"Olakira, Moonchild Sanelly",4Play,4YVysLE7VxMBLgHp7PIeS5,5nnA5ZOkTau4c1Cax2OL5C,,2021-05-14,180550,,0.81,0.692,6,-6.476,1,0.0527,0.182,2.1e-05,0.115,0.622,109.046
+Doudou,Aya Nakamura,AYA,0BUPS678TfgTmCMVOviolC,3V6NCwBywAwpAlAyGL7h0p,,2020-11-13,168719,,0.773,0.609,4,-5.855,0,0.244,0.136,0.0,0.0729,0.697,98.071
+Petite,NSG,Petite,3VviaPzhAXAIco8H3syNNq,24ULbF2UnOeMbkmkGriTBc,,2021-08-12,182711,,0.631,0.565,7,-6.89,1,0.225,0.452,4e-05,0.0782,0.522,101.822
+Kini Issue,Runtown,SoundGod Fest Reloaded,1PVmD4iAW4eEtsensLlqHS,1ow7Ba2FNoV1JNG5kQkWN2,,2021-04-23,194952,,0.802,0.672,6,-4.349,1,0.0932,0.108,0.0259,0.0724,0.767,101.029
+Lie,Kizz Daniel,Lie,5R3HMJSiNPlGeNSfLFsgOH,5jVpi3fFf5OGAZ5bpe4Bhy,,2021-08-05,156600,,0.495,0.633,6,-6.675,1,0.294,0.511,0.00337,0.0927,0.738,201.726
+Shake Body,"Masterkraft, Sarkodie, Larry Gaaga",Masta Groove,5JdBaiXMegtbhQFdYYnGfY,2gdaJi5fBtMFUlLMdJsKX2,,2021-07-02,189040,,0.815,0.751,4,-6.381,0,0.0362,0.126,0.0392,0.0758,0.852,112.004
+Ima,"El Prince, Mayorkun",Ima,4VIJxQybzoVEgOM6KQV7Sz,4HDXej0LPjYc1XYUIN9FhF,,2021-08-13,162353,,0.669,0.723,8,-6.522,0,0.0851,0.112,0.0,0.291,0.87,102.083
+Shopping Spree (feat. Chris Brown & Young Thug),"Davido, Chris Brown, Young Thug",A Better Time,5Af7bJAiAKBCazSQU8BOsD,1ln2sDL64h9Y0PJIrUogM6,,2020-11-12,213892,,0.489,0.646,6,-6.365,1,0.229,0.163,0.0,0.107,0.384,69.011
+Far Away,Maleek Berry,Isolation Room,5emWvZXLpOj5CrtK8NOuJp,0K2JhCPAqES9vOYeWkv1Cq,,2020-07-31,213600,,0.501,0.592,9,-7.14,0,0.0541,0.536,6.3e-06,0.159,0.407,100.022
+Oreke,"E Kelly, Joeboy",No Secrets,3Tqeo8Ew6BBYddXpIGJSXU,7EFnbc7UnvOyFcb6IhJq9v,,2020-05-08,182640,,0.792,0.662,6,-7.73,0,0.0726,0.127,0.00211,0.109,0.648,100.917
+ATL,Ecool,ATL,5SowWHfCo7MV6MVlL7eHnd,5XAFxbTFW407FVWUDTC5mB,,2021-05-28,160052,,0.799,0.78,0,-5.483,1,0.0651,0.194,0.0045,0.124,0.946,120.024
+Let Dem Kno,"Smallgod, Tiwa Savage, Kwesi Arthur",Building Bridges,0GZCzgizjdJScinA7TfAWP,1DcfJPW7bEvqOGB5o1GWAc,,2021-06-18,178349,,0.847,0.511,11,-6.69,1,0.0724,0.00723,0.0128,0.268,0.676,109.033
+Bounce - UK Remix,"Ruger, Midas the Jagaban",Bounce (UK Remix),1K5vQcAwyK5vftLFXzV6CB,6kMMNN1GmeYJLLPSLqQmW5,,2021-07-29,181523,,0.664,0.722,1,-6.669,0,0.155,0.319,0.0,0.108,0.591,97.957
+Fine Wine (feat. King Promise & Joeboy),"R2Bees, King Promise, Joeboy",Fine Wine (feat. King Promise & Joeboy),3f6FbIilED8NakLgcWAhqi,3E3WIVDBt4rX4N2kRrwSah,,2021-06-24,230400,,0.766,0.741,8,-3.077,1,0.172,0.362,1.15e-05,0.145,0.598,99.997
+Fashion Killer,Ayra Starr,19 & Dangerous,0AjdvP8p42lwSzmN0PpwJv,3R2Etej4zzbt8LTs3rvJA1,,2021-08-06,177000,,0.777,0.674,5,-8.998,0,0.147,0.236,0.00039,0.138,0.336,99.966
+American Wonder,FTK,American Wonder,3XGKLxojGMvet2lD90oaHK,6MtQDbBhXwfK6FrqB8fHXn,,2021-07-23,179412,,0.756,0.577,10,-11.154,0,0.365,0.445,7.76e-05,0.0839,0.882,101.798
+PEPE,"L.A.X, Davido",PEPE,3tXgsqio2fXZxspDng8Uxw,6mmMPohNC25kZu0WT7Qa8X,,2021-06-09,176727,,0.684,0.768,1,-5.01,0,0.106,0.472,0.0,0.0966,0.888,110.528
+Jowo,Davido,A Better Time,5Af7bJAiAKBCazSQU8BOsD,4ibxmEgdIWYAQjXl0ivFmW,,2020-11-12,176471,,0.552,0.656,10,-4.941,1,0.204,0.706,1.25e-05,0.0744,0.804,67.379
+Kilofese - Remix,"Zinoleesky, Mayorkun, Busiswa",Kilofeshe (Remix),5gtGvnxBXgppWtA2sJwGSx,56zrSYTUQR8iiFShUQqPRe,,2021-02-26,216429,,0.949,0.732,2,-6.407,1,0.0647,0.0611,2.64e-06,0.0824,0.645,112.004
+Bayi Bayi,Acekid,Bayi Bayi,56AG6dxsSoMbiw2ysK9gbf,0XDBts3ooIQQhyHK1uY461,,2021-01-22,194847,,0.831,0.623,11,-7.672,0,0.122,0.553,2.07e-05,0.0603,0.865,115.986
+La La (feat. Ckay),"Davido, CKay",A Better Time,5Af7bJAiAKBCazSQU8BOsD,53PewZvhksjF9EynzsBnAR,,2020-11-12,187587,,0.774,0.813,4,-6.105,1,0.0898,0.451,0.0,0.0966,0.687,113.99
+Sweet Daddy,Dai Verse,Sweet Daddy,2RiUwrfbcslxJS1m37Wpha,2VSGpwyGDHkMZfj6aisCm9,,2021-05-28,138947,,0.721,0.707,0,-7.547,1,0.25,0.187,2.84e-06,0.266,0.518,114.064
+Send Me Nudes (feat. Joey B),"KiDi, Joey B",The Golden Boy,2uZz2g4WqhQURaPqJuVCM9,0eWsDRH2aTkDmjcUEntwZ5,,2021-06-23,163737,,0.662,0.783,8,-4.816,0,0.098,0.256,6.56e-06,0.211,0.829,190.08
+Rewind,"Jay Moore, Runtown",Rewind,6W84d42scvhuXfbuZQUv5E,27voAF38jBp5f9M3ABmXK3,,2021-03-19,140000,,0.607,0.707,10,-6.571,1,0.0681,0.25,0.0,0.102,0.303,95.985
+Karma,Odeal,Karma,1LKp2QTO5E0oEAj6Y5FkcG,7v7YYdxFBodag2pewkvBkX,,2021-07-23,151176,,0.604,0.448,5,-12.055,0,0.359,0.244,0.00272,0.0968,0.844,97.798
+Coming,"Naira Marley, Busiswa",Coming,7uTt5VXIvILvVXidUZWJQP,1H2IEdM9irHOk4YTQTgRxE,,2021-03-19,247934,,0.828,0.921,1,-2.971,1,0.143,0.226,0.00213,0.126,0.678,120.971
+No Wahala,1da Banton,No Wahala,0iBUE2UCUr4RLMhOzOLaUY,1z3Lac4bdl57XLcu35ma1M,,2021-07-02,162286,,0.808,0.639,11,-7.244,0,0.147,0.621,0.0281,0.231,0.612,105.016
+Fendi (feat. Joeboy),"Blaqbonez, Joeboy",Sex Over Love,34tZdQwqkLwmCE6a4armXv,0qFhAo95HuSnwgtwa8PVTe,,2021-04-30,185117,,0.476,0.94,1,-3.911,0,0.435,0.126,0.000474,0.0591,0.58,191.395
+Come Over (Remix),"Jorja Smith, OBOY",Come Over (Remix),4RhemXpQlqhaNdz2WTkzBt,5RBc2SUllAJG4gUZdXTBIj,,2021-02-25,145653,,0.638,0.676,10,-5.944,0,0.22,0.402,1.07e-06,0.171,0.688,88.903
+BE MY LOVER,"Jizzle, Mr Eazi",BE MY LOVER,3flNe7ZbX3nSv67LtmicJe,3pW9AlECzn3lmAEMAE9yce,,2021-08-06,165619,,0.609,0.708,2,-7.864,1,0.315,0.138,0.0,0.127,0.664,67.121
+Sweet,"Femi Jaye, Mulako",Sweet,3PCF2IKrXFhCAtdWEI02QJ,6HLAp1ccsFGR0JcopXRIGL,,2021-04-30,188664,,0.553,0.686,3,-4.124,0,0.0935,0.188,0.0,0.101,0.345,196.025
+Le temps,Tayc,Fleur froide (Donum Novae),201N2ngAenwI2FBD3EpzpL,360oH1CqXe9XXzbbi6hvyr,,2021-02-26,197241,,0.594,0.597,6,-6.084,1,0.165,0.105,0.000103,0.0748,0.639,201.906
+Mama Stay,WSTRN,Mama Stay,7tru8RQVWKJ3MwC253e4CP,6v5xfPpCMt03M9r3dcH53k,,2021-03-11,190211,,0.477,0.642,0,-5.72,1,0.115,0.149,0.00266,0.0676,0.506,67.352
+Ke Star - Remix,"Focalistic, Davido, Virgo Deep",Ke Star (Remix),0ycU5aDeq22IewMlUF1A66,7b3991NnMDhwZRq7C2Cpgc,,2021-02-19,328766,,0.883,0.533,10,-12.851,0,0.0547,0.00597,0.00135,0.0731,0.2,112.017
+Pronto,"Ajebo Hustlers, Omah Lay","Kpos Lifestyle, Vol. 1",14LQRjG0c0AUmVqCyFL01E,6KaxrzyhBX3dn7ZgdJc96c,,2021-07-23,160777,,0.865,0.815,2,-5.007,0,0.236,0.729,0.0536,0.104,0.697,102.967
+LV N ATTN feat. Wizkid,"Lojay, Sarz, Wizkid",LV N ATTN,7zx9F3ehp4NIcts4Tq0Oc8,2M6LmH53eUJdyG00LjKouA,,2021-06-04,213913,,0.539,0.579,11,-5.198,1,0.211,0.194,0.000151,0.111,0.295,91.991
+Dutty Love,"Ojahbee, Oxlade",Dutty Love,5PJtsGGSWAP8qDTVu0zXJ4,6k7TGPkAitlkUamq2maMNT,,2020-11-27,171429,,0.508,0.562,0,-7.682,1,0.0941,0.746,0.00108,0.0779,0.794,104.045
+Blow (feat. Blaq Jerzee & Wizkid),"StarBoy, Blaq Jerzee, Wizkid",SoundMan Vol. 1,5nhLODdncnkg3rVlzva3YY,0cQiqNmTIENnlviVwS4yos,,2019-12-06,228119,,0.559,0.769,1,-4.242,0,0.314,0.425,5.46e-05,0.0966,0.568,65.385
+Summeryomuthi,Blaq Diamond,Summeryomuthi,23qbw9oHWVJWpBE9X02dMl,3pLUJWBRx9PBdphuNxn3Ka,,2020-11-20,273600,,0.847,0.862,0,-2.87,0,0.0765,0.00905,0.00122,0.085,0.445,99.996
+Django,Frenna,Django,6b7lk6pIL6dN1cijCTqSjj,1SVcH8GJs2QYLD4xQNWiBc,,2021-07-01,142600,,0.733,0.61,5,-7.593,0,0.129,0.0234,9.77e-06,0.0625,0.885,195.898
+Far Away,"Solana, Joeboy",Far Away,5XjizpDK0vc4ruyhmPbPBH,23z28rrwgLf8VadQFQTHzG,,2020-08-21,187320,,0.729,0.716,7,-5.93,1,0.24,0.268,0.392,0.109,0.5,103.892
+Lazarus (feat. Boj),"Dave, Boj",We're All Alone In This Together,6HwzIlrCDq3WF9vMq8meqG,4wvnXoQqjIOoEis5eyTbCl,,2021-07-22,204373,,0.916,0.476,7,-8.852,1,0.321,0.115,2.13e-05,0.0992,0.545,103.997
+TROUBLE MAKER,"Kobi Jonz, Aipo",KOOL REBEL,59p27UDhSXYyWtw89Snub3,2Ec22SnUdAH8sO0hVmY8sr,,2021-03-26,151109,,0.686,0.567,1,-6.508,1,0.327,0.126,0.0,0.202,0.606,199.827
+Sinner,"Adekunle Gold, Lucky Daye",Sinner,1kpkSvYRz40cdD1GvfN7OJ,3k6Y1ESBwF1low4hHsY4wu,,2021-07-09,174118,,0.507,0.548,1,-6.509,0,0.38,0.745,0.0,0.198,0.51,136.041
+This Your Body,"Skales, Davido",This Your Body,0Zfc7116wUQI37sJxIVPTI,2cJesgQwggcf3ciGuD6Z1I,,2021-05-28,212870,,0.868,0.805,0,-5.654,1,0.111,0.431,0.000205,0.0814,0.399,115.027
+Feeling,"LADIPOE, Bnxn",Feeling,7HUbrb8z5gdwm9OoPEDh5A,29e2gdZN35wxeGgDtkXjIa,,2021-05-07,224000,,0.615,0.575,7,-6.515,0,0.4,0.26,4.27e-06,0.324,0.552,134.791
