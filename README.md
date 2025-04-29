@@ -1,15 +1,15 @@
-Music Recommendation System
-Overview
+# Music Recommendation System
+# Overview
 
 This repository contains code for a music recommendation system based on content-based filtering using MinMaxScaler and cosine similarity. The system suggests similar songs based on their musical features. 
 
-Features
+# Features
 
     • Feature Scaling: Utilizes MinMaxScaler to scale music properties to a defined range.
     • Cosine Similarity: Computes similarity scores between songs using cosine similarity of their 	             feature vectors.
     • Recommendation Generation: Provides recommendations for similar songs based on a given input song.
 
-Requirements
+# Requirements
 
     • Python 3.x
     • https://developer.spotify.com/
@@ -17,7 +17,7 @@ Requirements
         ◦ Create an app
         ◦ Get Client ID and Client Secret
         ◦ 
-Usage
+# Usage
 
     • Ensure Client ID and Client Secret for data collection are written correctly
     • Ensure playlist ID from the Spotify are written correctly
@@ -25,7 +25,7 @@ Usage
     • Modify the song_recommendations function or script to suit your dataset and requirements.
     • Run the system and provide a song name to receive similar song recommendations.
 
-Files
+# Files
 
     • Data Collection ipynb
         ◦ Consist with 4 parts because we ended up reaching the max request retries
@@ -37,6 +37,6 @@ Files
     • User Data Comparison Visualizations
         ◦ Our StreamingHistory json file and converted to dataframe for visualizations
 
-Credits
+# Credits
     • Created by Siyeon Park, Isabella Francesconi
 
